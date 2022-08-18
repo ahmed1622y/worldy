@@ -1,0 +1,870 @@
+[
+  { "name": "Afghanistan", "Climate": [] },
+  { "name": "Aland Islands", "Climate": [] },
+  { "name": "Albania", "Climate": [{ "Tirana": "86.43" }] },
+  { "name": "Alderney", "Climate": [] },
+  {
+    "name": "Algeria",
+    "Climate": [{ "Algiers": "94.82" }, { "Oran": "96.35" }]
+  },
+  { "name": "American Samoa", "Climate": [] },
+  { "name": "Andorra", "Climate": [] },
+  { "name": "Angola", "Climate": [] },
+  { "name": "Anguilla", "Climate": [] },
+  { "name": "Antigua And Barbuda", "Climate": [] },
+  { "name": "Argentina", "Climate": [{ "Buenos Aires": "98.28" }] },
+  { "name": "Armenia", "Climate": [{ "Yerevan": "63.42" }] },
+  { "name": "Aruba", "Climate": [] },
+  {
+    "name": "Australia",
+    "Climate": [
+      { "Adelaide": "94.96" },
+      { "Brisbane": "98.07" },
+      { "Canberra": "82.72" },
+      { "Gold Coast": "97.73" },
+      { "Hobart": "90.62" },
+      { "Melbourne": "94.30" },
+      { "Perth": "95.71" },
+      { "Sydney": "97.07" }
+    ]
+  },
+  {
+    "name": "Austria",
+    "Climate": [
+      { "Graz": "73.93" },
+      { "Innsbruck": "74.57" },
+      { "Linz": "78.95" },
+      { "Salzburg": "76.51" },
+      { "Vienna": "81.77" }
+    ]
+  },
+  { "name": "Azerbaijan", "Climate": [{ "Baku": "91.40" }] },
+  { "name": "Bahamas", "Climate": [{ "Nassau": "85.98" }] },
+  { "name": "Bahrain", "Climate": [{ "Manama": "64.31" }] },
+  { "name": "Bangladesh", "Climate": [{ "Dhaka": "71.29" }] },
+  { "name": "Barbados", "Climate": [] },
+  { "name": "Belarus", "Climate": [{ "Minsk": "64.37" }] },
+  {
+    "name": "Belgium",
+    "Climate": [
+      { "Antwerp": "85.42" },
+      { "Brussels": "83.85" },
+      { "Gent": "88.72" },
+      { "Leuven": "86.13" }
+    ]
+  },
+  { "name": "Belize", "Climate": [] },
+  { "name": "Benin", "Climate": [] },
+  { "name": "Bermuda", "Climate": [{ "Hamilton": "91.82" }] },
+  { "name": "Bhutan", "Climate": [] },
+  { "name": "Bolivia", "Climate": [{ "La Paz": "55.46" }] },
+  { "name": "Bonaire", "Climate": [] },
+  {
+    "name": "Bosnia And Herzegovina",
+    "Climate": [{ "Banja Luka": "82.77" }, { "Sarajevo": "78.18" }]
+  },
+  { "name": "Botswana", "Climate": [{ "Gaborone": "88.87" }] },
+  {
+    "name": "Brazil",
+    "Climate": [
+      { "Belo Horizonte": "98.50" },
+      { "Brasilia": "98.97" },
+      { "Curitiba": "99.60" },
+      { "Florianopolis": "97.00" },
+      { "Porto Alegre": "98.74" },
+      { "Rio de Janeiro": "88.22" },
+      { "Sao Paulo": "99.04" }
+    ]
+  },
+  { "name": "British Virgin Islands", "Climate": [] },
+  { "name": "Brunei", "Climate": [] },
+  {
+    "name": "Bulgaria",
+    "Climate": [
+      { "Plovdiv": "82.57" },
+      { "Sofia": "76.01" },
+      { "Varna": "85.08" }
+    ]
+  },
+  { "name": "Burkina Faso", "Climate": [] },
+  { "name": "Burundi", "Climate": [] },
+  { "name": "Cambodia", "Climate": [{ "Phnom Penh": "59.43" }] },
+  { "name": "Cameroon", "Climate": [] },
+  {
+    "name": "Canada",
+    "Climate": [
+      { "Brampton": "59.24" },
+      { "Burnaby": "86.94" },
+      { "Calgary": "33.09" },
+      { "Edmonton": "32.11" },
+      { "Guelph": "53.74" },
+      { "Halifax": "58.99" },
+      { "Hamilton": "61.06" },
+      { "Kelowna": "59.65" },
+      { "Kingston": "57.34" },
+      { "Kitchener": "50.39" },
+      { "London": "59.34" },
+      { "Markham": "55.75" },
+      { "Montreal": "52.37" },
+      { "Nanaimo, BC": "92.29" },
+      { "Ottawa": "44.46" },
+      { "Quebec City": "47.98" },
+      { "Red Deer": "14.50" },
+      { "Regina": "14.28" },
+      { "Saskatoon": "15.79" },
+      { "St. John's, Newfoundland and Labrador": "56.94" },
+      { "Surrey": "88.55" },
+      { "Toronto": "65.35" },
+      { "Vancouver": "91.15" },
+      { "Victoria": "92.52" },
+      { "Windsor": "66.96" },
+      { "Winnipeg": "24.67" }
+    ]
+  },
+  { "name": "Cape Verde", "Climate": [] },
+  { "name": "Cayman Islands", "Climate": [] },
+  { "name": "Central African Republic", "Climate": [] },
+  { "name": "Chad", "Climate": [] },
+  { "name": "Chile", "Climate": [{ "Santiago": "90.21" }] },
+  {
+    "name": "China",
+    "Climate": [
+      { "Beijing": "57.64" },
+      { "Chengdu": "91.18" },
+      { "Guangzhou": "80.30" },
+      { "Hangzhou": "84.29" },
+      { "Shanghai": "83.64" },
+      { "Shenzhen": "81.80" }
+    ]
+  },
+  {
+    "name": "Colombia",
+    "Climate": [
+      { "Barranquilla": "54.07" },
+      { "Bogota": "97.12" },
+      { "Bucaramanga": "97.37" },
+      { "Cali": "93.20" },
+      { "Medellin": "99.76" }
+    ]
+  },
+  { "name": "Comoros", "Climate": [] },
+  { "name": "Republic of the Congo", "Climate": [] },
+  { "name": "Cook Islands", "Climate": [] },
+  { "name": "Costa Rica", "Climate": [{ "San Jose": "99.48" }] },
+  {
+    "name": "Croatia",
+    "Climate": [
+      { "Dubrovnik": "93.24" },
+      { "Osijek": "82.89" },
+      { "Rijeka": "94.85" },
+      { "Split": "96.26" },
+      { "Zagreb": "82.19" }
+    ]
+  },
+  { "name": "Cuba", "Climate": [{ "Havana": "89.86" }] },
+  { "name": "Curacao", "Climate": [] },
+  {
+    "name": "Cyprus",
+    "Climate": [
+      { "Larnaca": "94.95" },
+      { "Limassol": "95.74" },
+      { "Nicosia": "86.01" }
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "Climate": [
+      { "Brno": "78.17" },
+      { "Ostrava": "76.12" },
+      { "Prague": "80.67" }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "Climate": [
+      { "Aalborg": "81.94" },
+      { "Arhus": "81.20" },
+      { "Copenhagen": "83.74" },
+      { "Odense": "80.32" }
+    ]
+  },
+  { "name": "Djibouti", "Climate": [] },
+  { "name": "Dominica", "Climate": [] },
+  { "name": "Dominican Republic", "Climate": [{ "Santo Domingo": "67.82" }] },
+  {
+    "name": "Ecuador",
+    "Climate": [
+      { "Cuenca": "98.36" },
+      { "Guayaquil": "86.21" },
+      { "Quito": "98.97" }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "Climate": [{ "Alexandria": "95.50" }, { "Cairo": "88.45" }]
+  },
+  { "name": "El Salvador", "Climate": [{ "San Salvador": "86.60" }] },
+  { "name": "Equatorial Guinea", "Climate": [] },
+  { "name": "Eritrea", "Climate": [] },
+  { "name": "Estonia", "Climate": [{ "Tallinn": "64.28" }] },
+  { "name": "Ethiopia", "Climate": [{ "Addis Ababa": "96.82" }] },
+  { "name": "Falkland Islands", "Climate": [] },
+  { "name": "Faroe Islands", "Climate": [] },
+  { "name": "Fiji", "Climate": [{ "Suva": "71.89" }] },
+  {
+    "name": "Finland",
+    "Climate": [
+      { "Espoo": "59.49" },
+      { "Helsinki": "62.79" },
+      { "Oulu": "46.38" },
+      { "Tampere": "54.32" },
+      { "Turku": "60.23" }
+    ]
+  },
+  {
+    "name": "France",
+    "Climate": [
+      { "Grenoble": "81.62" },
+      { "Lyon": "88.51" },
+      { "Marseille": "92.70" },
+      { "Nantes": "91.59" },
+      { "Nice": "95.11" },
+      { "Paris": "88.39" },
+      { "Toulouse": "91.87" }
+    ]
+  },
+  { "name": "French Guiana", "Climate": [] },
+  { "name": "French Polynesia", "Climate": [] },
+  { "name": "French Southern Territories", "Climate": [] },
+  { "name": "Gabon", "Climate": [] },
+  { "name": "Gambia", "Climate": [] },
+  { "name": "Georgia", "Climate": [{ "Tbilisi": "84.20" }] },
+  {
+    "name": "Germany",
+    "Climate": [
+      { "Aachen": "87.19" },
+      { "Augsburg": "75.93" },
+      { "Berlin": "83.35" },
+      { "Bonn": "84.85" },
+      { "Bremen": "83.08" },
+      { "Cologne": "84.85" },
+      { "Dortmund": "85.45" },
+      { "Dresden": "81.42" },
+      { "Dusseldorf": "86.37" },
+      { "Essen": "89.61" },
+      { "Frankfurt": "84.72" },
+      { "Freiburg im Breisgau": "85.86" },
+      { "Hamburg": "82.75" },
+      { "Hanover": "83.48" },
+      { "Heidelberg": "82.49" },
+      { "Karlsruhe": "81.28" },
+      { "Leipzig": "82.33" },
+      { "Mannheim": "81.74" },
+      { "Munich": "75.98" },
+      { "Nuremberg": "77.54" },
+      { "Stuttgart": "81.07" }
+    ]
+  },
+  { "name": "Ghana", "Climate": [{ "Accra": "67.03" }] },
+  { "name": "Gibraltar", "Climate": [] },
+  {
+    "name": "Greece",
+    "Climate": [
+      { "Athens": "95.18" },
+      { "Heraklion": "97.92" },
+      { "Patras": "95.21" },
+      { "Thessaloniki": "88.39" }
+    ]
+  },
+  { "name": "Greenland", "Climate": [] },
+  { "name": "Grenada", "Climate": [] },
+  { "name": "Guadeloupe", "Climate": [] },
+  { "name": "Guam", "Climate": [] },
+  { "name": "Guatemala", "Climate": [{ "Guatemala City": "99.89" }] },
+  { "name": "Guernsey", "Climate": [] },
+  { "name": "Guinea", "Climate": [] },
+  { "name": "Guinea-Bissau", "Climate": [] },
+  { "name": "Guyana", "Climate": [{ "Georgetown": "65.81" }] },
+  { "name": "Haiti", "Climate": [] },
+  { "name": "Honduras", "Climate": [] },
+  { "name": "Hong Kong", "Climate": [{ "Hong Kong": "83.64" }] },
+  {
+    "name": "Hungary",
+    "Climate": [
+      { "Budapest": "78.41" },
+      { "Debrecen": "79.07" },
+      { "Szeged": "80.97" }
+    ]
+  },
+  { "name": "Iceland", "Climate": [{ "Reykjavik": "68.81" }] },
+  {
+    "name": "India",
+    "Climate": [
+      { "Ahmedabad": "49.27" },
+      { "Bangalore": "89.39" },
+      { "Bhubaneswar": "50.25" },
+      { "Chennai": "53.22" },
+      { "Coimbatore": "78.10" },
+      { "Delhi": "58.90" },
+      { "Gurgaon": "59.87" },
+      { "Hyderabad": "73.54" },
+      { "Indore": "74.26" },
+      { "Jaipur": "57.76" },
+      { "Kochi": "58.87" },
+      { "Kolkata": "60.90" },
+      { "Mumbai": "71.48" },
+      { "Noida": "58.90" },
+      { "Pune": "74.32" }
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "Climate": [
+      { "Bali": "64.28" },
+      { "Bandung": "92.13" },
+      { "Jakarta": "63.76" },
+      { "Surabaya": "55.68" }
+    ]
+  },
+  {
+    "name": "Iran",
+    "Climate": [
+      { "Isfahan (Esfahan)": "55.78" },
+      { "Mashhad": "70.30" },
+      { "Tehran": "70.99" }
+    ]
+  },
+  {
+    "name": "Iraq",
+    "Climate": [{ "Baghdad": "36.50" }, { "Erbil (Irbil)": "57.46" }]
+  },
+  {
+    "name": "Ireland",
+    "Climate": [
+      { "Cork": "89.78" },
+      { "Dublin": "85.89" },
+      { "Galway": "90.11" },
+      { "Limerick": "90.75" }
+    ]
+  },
+  { "name": "Isle Of Man", "Climate": [] },
+  {
+    "name": "Israel",
+    "Climate": [
+      { "Haifa": "93.57" },
+      { "Jerusalem": "93.88" },
+      { "Netanya": "93.94" },
+      { "Petah Tikva": "94.00" },
+      { "Tel Aviv-Yafo": "93.88" }
+    ]
+  },
+  {
+    "name": "Italy",
+    "Climate": [
+      { "Bari": "95.02" },
+      { "Bergamo": "87.44" },
+      { "Bologna": "88.12" },
+      { "Cagliari": "95.89" },
+      { "Catania": "93.96" },
+      { "Florence": "92.45" },
+      { "Genoa": "95.00" },
+      { "Milan": "88.12" },
+      { "Naples": "95.76" },
+      { "Padova": "92.84" },
+      { "Palermo": "97.63" },
+      { "Parma": "87.98" },
+      { "Rome": "93.70" },
+      { "Treviso": "89.73" },
+      { "Trieste": "92.64" },
+      { "Turin": "85.66" },
+      { "Verona": "87.02" }
+    ]
+  },
+  { "name": "Ivory Coast", "Climate": [{ "Abidjan": "65.12" }] },
+  { "name": "Jamaica", "Climate": [{ "Kingston": "71.58" }] },
+  { "name": "Japan", "Climate": [{ "Osaka": "84.32" }, { "Tokyo": "85.26" }] },
+  { "name": "Jersey", "Climate": [{ "Saint Helier": "94.34" }] },
+  { "name": "Jordan", "Climate": [{ "Amman": "89.05" }] },
+  {
+    "name": "Kazakhstan",
+    "Climate": [{ "Almaty": "58.30" }, { "Astana (Nur-Sultan)": "21.26" }]
+  },
+  { "name": "Kenya", "Climate": [{ "Nairobi": "99.79" }] },
+  {
+    "name": "Kosovo (Disputed Territory)",
+    "Climate": [{ "Pristina": "76.84" }]
+  },
+  { "name": "Kuwait", "Climate": [{ "Kuwait City": "20.22" }] },
+  { "name": "Kyrgyzstan", "Climate": [{ "Bishkek": "58.11" }] },
+  { "name": "Laos", "Climate": [] },
+  { "name": "Latvia", "Climate": [{ "Riga": "74.70" }] },
+  { "name": "Lebanon", "Climate": [{ "Beirut": "94.74" }] },
+  { "name": "Lesotho", "Climate": [] },
+  { "name": "Liberia", "Climate": [] },
+  { "name": "Libya", "Climate": [] },
+  { "name": "Liechtenstein", "Climate": [] },
+  {
+    "name": "Lithuania",
+    "Climate": [
+      { "Kaunas": "68.94" },
+      { "Klaipeda": "74.05" },
+      { "Vilnius": "66.59" }
+    ]
+  },
+  { "name": "Luxembourg", "Climate": [{ "Luxembourg": "82.62" }] },
+  { "name": "Macao", "Climate": [{ "Macao": "81.70" }] },
+  { "name": "Madagascar", "Climate": [] },
+  { "name": "Malawi", "Climate": [] },
+  {
+    "name": "Malaysia",
+    "Climate": [
+      { "Kota Kinabalu": "58.69" },
+      { "Kuala Lumpur": "56.55" },
+      { "Penang": "59.28" },
+      { "Petaling Jaya": "56.55" }
+    ]
+  },
+  { "name": "Maldives", "Climate": [{ "Male": "58.08" }] },
+  { "name": "Mali", "Climate": [] },
+  {
+    "name": "Malta",
+    "Climate": [{ "Sliema": "97.44" }, { "Valletta": "97.44" }]
+  },
+  { "name": "Marshall Islands", "Climate": [] },
+  { "name": "Martinique", "Climate": [] },
+  { "name": "Mauritania", "Climate": [] },
+  { "name": "Mauritius", "Climate": [] },
+  {
+    "name": "Mexico",
+    "Climate": [
+      { "Cancun": "77.70" },
+      { "Guadalajara": "92.83" },
+      { "Merida": "66.32" },
+      { "Mexico City": "92.37" },
+      { "Monterrey": "80.37" },
+      { "Queretaro": "94.46" },
+      { "Tijuana": "94.58" }
+    ]
+  },
+  { "name": "Micronesia", "Climate": [] },
+  { "name": "Moldova", "Climate": [{ "Chisinau": "76.91" }] },
+  { "name": "Monaco", "Climate": [] },
+  { "name": "Mongolia", "Climate": [{ "Ulaanbaatar": "-3.54" }] },
+  { "name": "Montenegro", "Climate": [{ "Podgorica": "88.40" }] },
+  { "name": "Montserrat", "Climate": [] },
+  {
+    "name": "Morocco",
+    "Climate": [
+      { "Agadir": "96.21" },
+      { "Casablanca": "98.08" },
+      { "Marrakech": "83.43" },
+      { "Rabat": "74.11" },
+      { "Tangier": "98.39" }
+    ]
+  },
+  { "name": "Mozambique", "Climate": [] },
+  { "name": "Myanmar", "Climate": [] },
+  { "name": "Namibia", "Climate": [] },
+  { "name": "Nauru", "Climate": [] },
+  { "name": "Nepal", "Climate": [{ "Kathmandu": "92.64" }] },
+  {
+    "name": "Netherlands",
+    "Climate": [
+      { "Amsterdam": "87.45" },
+      { "Delft": "87.81" },
+      { "Eindhoven": "85.38" },
+      { "Enschede": "86.12" },
+      { "Groningen": "83.55" },
+      { "Haarlem": "88.21" },
+      { "Maastricht": "86.62" },
+      { "Rotterdam": "87.89" },
+      { "The Hague (Den Haag)": "90.61" },
+      { "Utrecht": "87.16" }
+    ]
+  },
+  { "name": "New Caledonia", "Climate": [] },
+  {
+    "name": "New Zealand",
+    "Climate": [
+      { "Auckland": "99.89" },
+      { "Christchurch": "88.79" },
+      { "Hamilton": "99.03" },
+      { "Wellington": "97.68" }
+    ]
+  },
+  { "name": "Nicaragua", "Climate": [] },
+  { "name": "Niger", "Climate": [] },
+  { "name": "Nigeria", "Climate": [{ "Lagos": "60.75" }] },
+  { "name": "Norfolk Island", "Climate": [] },
+  { "name": "North Korea", "Climate": [] },
+  { "name": "North Macedonia", "Climate": [{ "Skopje": "76.30" }] },
+  { "name": "Northern Mariana Islands", "Climate": [] },
+  {
+    "name": "Norway",
+    "Climate": [
+      { "Bergen": "78.83" },
+      { "Oslo": "59.99" },
+      { "Stavanger": "79.99" },
+      { "Tromso": "57.89" },
+      { "Trondheim": "66.68" }
+    ]
+  },
+  { "name": "Oman", "Climate": [{ "Muscat": "67.22" }] },
+  {
+    "name": "Pakistan",
+    "Climate": [
+      { "Islamabad": "76.91" },
+      { "Karachi": "71.32" },
+      { "Lahore": "67.56" },
+      { "Rawalpindi": "76.14" }
+    ]
+  },
+  { "name": "Palau", "Climate": [] },
+  { "name": "Palestine", "Climate": [{ "Ramallah": "95.46" }] },
+  { "name": "Panama", "Climate": [{ "Panama City": "67.84" }] },
+  { "name": "Papua New Guinea", "Climate": [] },
+  { "name": "Paraguay", "Climate": [{ "Asuncion": "92.24" }] },
+  { "name": "Peru", "Climate": [{ "Lima": "97.69" }] },
+  {
+    "name": "Philippines",
+    "Climate": [
+      { "Cebu": "60.40" },
+      { "Makati": "64.24" },
+      { "Manila": "61.23" },
+      { "Quezon City": "60.71" }
+    ]
+  },
+  {
+    "name": "Poland",
+    "Climate": [
+      { "Gdansk": "75.51" },
+      { "Gdynia": "75.51" },
+      { "Katowice": "72.49" },
+      { "Krakow (Cracow)": "73.86" },
+      { "Lodz": "77.02" },
+      { "Poznan": "77.41" },
+      { "Szczecin": "77.94" },
+      { "Warsaw": "74.61" },
+      { "Wroclaw": "78.39" }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "Climate": [
+      { "Aveiro": "97.64" },
+      { "Braga": "96.61" },
+      { "Coimbra": "97.45" },
+      { "Funchal": "99.45" },
+      { "Lisbon": "98.59" },
+      { "Porto": "96.61" }
+    ]
+  },
+  { "name": "Puerto Rico", "Climate": [{ "San Juan": "71.25" }] },
+  { "name": "Qatar", "Climate": [{ "Doha": "36.03" }] },
+  { "name": "Republic Of Congo", "Climate": [] },
+  { "name": "Reunion", "Climate": [] },
+  {
+    "name": "Romania",
+    "Climate": [
+      { "Bucharest": "75.61" },
+      { "Cluj-Napoca": "74.35" },
+      { "Constanta": "82.83" },
+      { "Craiova": "78.24" },
+      { "Iasi": "73.04" },
+      { "Sibiu": "69.39" },
+      { "Timisoara": "82.05" }
+    ]
+  },
+  {
+    "name": "Russia",
+    "Climate": [
+      { "Krasnodar": "78.72" },
+      { "Moscow": "55.83" },
+      { "Nizhny Novgorod": "45.51" },
+      { "Novosibirsk": "16.14" },
+      { "Rostov-na-donu": "73.85" },
+      { "Saint Petersburg": "60.64" },
+      { "Yekaterinburg": "21.33" }
+    ]
+  },
+  { "name": "Rwanda", "Climate": [{ "Kigali": "99.74" }] },
+  { "name": "Saint Helena", "Climate": [] },
+  { "name": "Saint Kitts And Nevis", "Climate": [] },
+  { "name": "Saint Lucia", "Climate": [] },
+  { "name": "Saint Vincent And The Grenadines", "Climate": [] },
+  { "name": "Samoa", "Climate": [] },
+  { "name": "San Marino", "Climate": [] },
+  { "name": "Sao Tome And Principe", "Climate": [] },
+  {
+    "name": "Saudi Arabia",
+    "Climate": [
+      { "Ad Dammam": "27.34" },
+      { "Jeddah (Jiddah)": "66.17" },
+      { "Riyadh": "44.45" }
+    ]
+  },
+  { "name": "Senegal", "Climate": [{ "Dakar": "85.64" }] },
+  {
+    "name": "Serbia",
+    "Climate": [
+      { "Belgrade": "84.14" },
+      { "Nis": "81.53" },
+      { "Novi Sad": "84.02" }
+    ]
+  },
+  { "name": "Seychelles", "Climate": [] },
+  { "name": "Sierra Leone", "Climate": [] },
+  { "name": "Singapore", "Climate": [{ "Singapore": "57.45" }] },
+  { "name": "Sint Maarten", "Climate": [] },
+  {
+    "name": "Slovakia",
+    "Climate": [{ "Bratislava": "80.72" }, { "Kosice": "75.54" }]
+  },
+  {
+    "name": "Slovenia",
+    "Climate": [{ "Ljubljana": "76.11" }, { "Maribor": "79.02" }]
+  },
+  { "name": "Solomon Islands", "Climate": [] },
+  { "name": "Somalia", "Climate": [] },
+  {
+    "name": "South Africa",
+    "Climate": [
+      { "Cape Town": "98.19" },
+      { "Durban": "95.61" },
+      { "Johannesburg": "91.38" },
+      { "Pretoria": "95.83" }
+    ]
+  },
+  { "name": "South Korea", "Climate": [{ "Seoul": "68.39" }] },
+  { "name": "South Sudan", "Climate": [] },
+  {
+    "name": "Spain",
+    "Climate": [
+      { "Alicante": "95.25" },
+      { "Barcelona": "95.73" },
+      { "Granada": "86.55" },
+      { "Las Palmas de Gran Canaria": "99.17" },
+      { "Madrid": "85.47" },
+      { "Malaga": "96.98" },
+      { "Murcia": "89.60" },
+      { "Palma de Mallorca": "94.37" },
+      { "Santa Cruz de Tenerife": "98.53" },
+      { "Seville (Sevilla)": "96.03" },
+      { "Valencia": "93.84" },
+      { "Zaragoza (Saragossa)": "90.20" }
+    ]
+  },
+  { "name": "Sri Lanka", "Climate": [{ "Colombo": "59.11" }] },
+  { "name": "Sudan", "Climate": [] },
+  { "name": "Suriname", "Climate": [] },
+  { "name": "Swaziland", "Climate": [] },
+  {
+    "name": "Sweden",
+    "Climate": [
+      { "Gothenburg": "77.49" },
+      { "Lund": "78.71" },
+      { "Malmo": "82.30" },
+      { "Stockholm": "69.67" },
+      { "Uppsala": "66.43" }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "Climate": [
+      { "Basel": "82.82" },
+      { "Bern": "75.97" },
+      { "Geneva": "82.61" },
+      { "Lausanne": "73.30" },
+      { "Zurich": "81.48" }
+    ]
+  },
+  { "name": "Syria", "Climate": [] },
+  {
+    "name": "Taiwan",
+    "Climate": [{ "Kaohsiung": "78.82" }, { "Taipei": "84.38" }]
+  },
+  { "name": "Tajikistan", "Climate": [] },
+  { "name": "Tanzania", "Climate": [{ "Dar es Salaam": "71.28" }] },
+  {
+    "name": "Thailand",
+    "Climate": [
+      { "Bangkok": "58.39" },
+      { "Chiang Mai": "75.93" },
+      { "Pattaya": "74.96" },
+      { "Phuket": "68.52" }
+    ]
+  },
+  { "name": "Timor-Leste", "Climate": [] },
+  { "name": "Togo", "Climate": [] },
+  { "name": "Tonga", "Climate": [] },
+  { "name": "Trinidad And Tobago", "Climate": [{ "Port of Spain": "67.55" }] },
+  {
+    "name": "Tunisia",
+    "Climate": [{ "Sousse": "95.79" }, { "Tunis": "93.24" }]
+  },
+  {
+    "name": "Turkey",
+    "Climate": [
+      { "Ankara": "91.49" },
+      { "Antalya": "91.52" },
+      { "Bursa": "93.39" },
+      { "Istanbul": "93.02" },
+      { "Izmir": "96.88" }
+    ]
+  },
+  { "name": "Turkmenistan", "Climate": [] },
+  { "name": "Turks And Caicos Islands", "Climate": [] },
+  { "name": "Tuvalu", "Climate": [] },
+  { "name": "Uganda", "Climate": [{ "Kampala": "98.41" }] },
+  {
+    "name": "Ukraine",
+    "Climate": [
+      { "Kharkiv": "65.35" },
+      { "Kiev (Kyiv)": "69.95" },
+      { "Lviv": "69.61" },
+      { "Odessa (Odesa)": "79.00" }
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "Climate": [
+      { "Abu Dhabi": "43.89" },
+      { "Ajman": "43.42" },
+      { "Dubai": "50.27" },
+      { "Sharjah": "43.35" }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "Climate": [
+      { "Aberdeen": "82.55" },
+      { "Belfast": "90.84" },
+      { "Birmingham": "87.66" },
+      { "Bournemouth": "86.84" },
+      { "Brighton": "89.65" },
+      { "Bristol": "88.51" },
+      { "Cardiff": "91.61" },
+      { "Coventry": "91.52" },
+      { "Derby": "88.79" },
+      { "Dundee": "89.56" },
+      { "Edinburgh": "84.01" },
+      { "Glasgow": "84.78" },
+      { "Guildford": "92.61" },
+      { "Leeds": "84.59" },
+      { "Leicester": "88.28" },
+      { "Liverpool": "90.87" },
+      { "London": "88.25" },
+      { "Manchester": "86.95" },
+      { "Milton Keynes": "92.71" },
+      { "Newcastle upon Tyne": "85.75" },
+      { "Nottingham": "88.00" },
+      { "Oxford": "83.55" },
+      { "Plymouth": "88.64" },
+      { "Reading": "88.11" },
+      { "Sheffield": "87.91" },
+      { "Southampton": "88.53" }
+    ]
+  },
+  {
+    "name": "United States",
+    "Climate": [
+      { "Akron, OH": "70.11" },
+      { "Albany, NY": "60.22" },
+      { "Albuquerque, NM": "67.06" },
+      { "Amarillo, TX": "69.34" },
+      { "Anchorage, AK": "41.61" },
+      { "Ann Arbor, MI": "56.80" },
+      { "Asheville, NC": "80.63" },
+      { "Atlanta, GA": "89.73" },
+      { "Austin, TX": "82.08" },
+      { "Baltimore, MD": "81.24" },
+      { "Berkeley, CA": "96.40" },
+      { "Boise, ID": "65.11" },
+      { "Boston, MA": "71.73" },
+      { "Buffalo, NY": "66.43" },
+      { "Charlotte, NC": "84.05" },
+      { "Chicago, IL": "66.11" },
+      { "Cincinnati, OH": "73.24" },
+      { "Cleveland, OH": "73.11" },
+      { "Colorado Springs, CO": "51.44" },
+      { "Columbus, OH": "71.29" },
+      { "Dallas, TX": "81.85" },
+      { "Denver, CO": "56.28" },
+      { "Des Moines, IA": "61.88" },
+      { "Detroit, MI": "66.03" },
+      { "El Paso, TX": "72.05" },
+      { "Everett, WA": "89.50" },
+      { "Fort Lauderdale, FL": "84.25" },
+      { "Fort Worth, TX": "81.56" },
+      { "Fresno, CA": "78.27" },
+      { "Grand Rapids, MI": "62.32" },
+      { "Honolulu, HI": "95.33" },
+      { "Houston, TX": "85.53" },
+      { "Indianapolis, IN": "69.92" },
+      { "Irvine, CA": "96.82" },
+      { "Jacksonville, FL": "87.81" },
+      { "Kansas City, MO": "75.08" },
+      { "Las Vegas, NV": "57.40" },
+      { "Little Rock, AR": "83.82" },
+      { "Long Beach, CA": "96.09" },
+      { "Los Angeles, CA": "95.50" },
+      { "Louisville, KY": "78.61" },
+      { "Madison, WI": "51.64" },
+      { "Memphis, TN": "84.42" },
+      { "Mesa, AZ": "61.76" },
+      { "Miami, FL": "85.69" },
+      { "Milwaukee, WI": "60.96" },
+      { "Minneapolis, MN": "49.46" },
+      { "Nashville, TN": "83.02" },
+      { "New Orleans, LA": "86.50" },
+      { "New York, NY": "79.66" },
+      { "Oakland, CA": "96.40" },
+      { "Oklahoma City, OK": "77.61" },
+      { "Olympia, WA": "83.44" },
+      { "Omaha, NE": "59.79" },
+      { "Orlando, FL": "87.23" },
+      { "Philadelphia, PA": "77.98" },
+      { "Phoenix, AZ": "53.76" },
+      { "Pittsburgh, PA": "72.13" },
+      { "Plano, TX": "86.26" },
+      { "Portland, OR": "89.56" },
+      { "Queens, NY": "80.34" },
+      { "Raleigh, NC": "83.88" },
+      { "Reno, NV": "62.28" },
+      { "Richmond, VA": "81.27" },
+      { "Rochester, NY": "63.89" },
+      { "Sacramento, CA": "90.64" },
+      { "Saint Louis, MO": "74.75" },
+      { "Saint Paul, MN": "49.15" },
+      { "Salt Lake City, UT": "66.52" },
+      { "San Antonio, TX": "80.58" },
+      { "San Diego, CA": "97.08" },
+      { "San Francisco, CA": "97.26" },
+      { "San Jose, CA": "95.53" },
+      { "Santa Barbara, CA": "95.58" },
+      { "Santa Clara, CA": "95.44" },
+      { "Seattle, WA": "91.73" },
+      { "Spokane, WA": "67.12" },
+      { "Tampa, FL": "84.67" },
+      { "Tucson, AZ": "72.66" },
+      { "Tulsa, OK": "79.30" },
+      { "Vancouver, WA": "87.63" },
+      { "Washington, DC": "81.62" },
+      { "Wichita, KS": "70.47" }
+    ]
+  },
+  { "name": "Uruguay", "Climate": [{ "Montevideo": "98.04" }] },
+  { "name": "Us Virgin Islands", "Climate": [] },
+  { "name": "Uzbekistan", "Climate": [{ "Tashkent": "69.79" }] },
+  { "name": "Vanuatu", "Climate": [] },
+  { "name": "Vatican City", "Climate": [] },
+  { "name": "Venezuela", "Climate": [{ "Caracas": "99.93" }] },
+  {
+    "name": "Vietnam",
+    "Climate": [{ "Hanoi": "79.04" }, { "Ho Chi Minh City": "63.44" }]
+  },
+  { "name": "Western Sahara", "Climate": [] },
+  { "name": "Yemen", "Climate": [] },
+  { "name": "Zambia", "Climate": [] },
+  { "name": "Zimbabwe", "Climate": [{ "Harare": "96.76" }] }
+]

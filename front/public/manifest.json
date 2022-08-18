@@ -1,0 +1,15 @@
+{
+  "short_name": "worldy",
+  "name": "full globe app",
+  "icons": [
+    {
+      "src": "world.png",
+      "sizes": "62*62",
+      "type": "image/.png"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

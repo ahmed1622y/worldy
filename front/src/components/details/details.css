@@ -1,0 +1,221 @@
+:root {
+  --primary: #1a7ff6;
+}
+* {
+  font-family: "Tajawal";
+}
+.details_body {
+  height: 100%;
+  width: 100%;
+  background-color: #f8f8f8;
+}
+.header_details {
+  width: 100%;
+  position: relative;
+  height: 200px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: center;
+}
+.header_details .head_style {
+  width: 90px;
+  position: relative;
+  z-index: 100;
+  height: 3px;
+  border-radius: 50px;
+  background-color: white;
+}
+.header_details .head_style::before {
+  content: "";
+  width: 10px;
+  position: absolute;
+  z-index: 100;
+  height: 3px;
+  left: -20px;
+  border-radius: 50px;
+  background-color: white;
+}
+.header_details h3 {
+  z-index: 100;
+  color: white;
+  position: relative;
+}
+.back {
+  position: absolute;
+  inset: 0;
+  z-index: 99;
+  height: 200px;
+  width: 100%;
+}
+.details_panel {
+  display: flex;
+  width: 100%;
+  direction: rtl;
+  padding: 18px 15px;
+  gap: 10px;
+  height: 289px;
+  overflow: hidden;
+}
+.details_panel .table_el {
+  width: 60%;
+  height: 100%;
+}
+.details_panel .table_el tbody {
+  display: flex;
+  background-color: white;
+  height: 100%;
+  border-radius: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  flex-direction: column;
+}
+.details_panel .table_el tbody tr {
+  padding: 13px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+.details_panel .table_el tbody tr:last-of-type {
+  border-bottom: none;
+}
+.details_panel .table_el tbody tr td:first-of-type {
+  font-weight: bold;
+  min-width: 17%;
+}
+.details_panel .table_el tbody tr td img {
+  width: 35px;
+}
+.details_panel .table_element {
+  width: 40%;
+  height: 100%;
+  display: flex;
+  gap: 5px;
+}
+.details_panel .table_element .first {
+  background-color: white;
+  width: 50%;
+  height: 100%;
+  border-radius: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  display: flex;
+  padding: 20px 0px;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 3%;
+}
+.br {
+  width: 50px;
+  height: 1px;
+  background: var(--primary);
+  margin-block: 16px;
+}
+.details_panel .table_element .first p {
+  margin: 0;
+  color: var(--primary);
+  font-weight: bold;
+}
+.details_panel .table_element .second {
+  background-color: white;
+  width: 50%;
+  border-radius: 2px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  align-items: center;
+  justify-content: center;
+}
+.details_panel .table_element .second .arrow {
+  color: var(--primary);
+  margin: 7px 0px;
+  font-size: 30px;
+}
+.details_panel .table_element .second p {
+  color: var(--primary);
+  width: 100%;
+  text-align: center;
+  padding: 4px 14px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  background-color: #f3f3f3;
+  font-weight: bold;
+  margin: 0px;
+  margin-block: 3px;
+}
+.details_tabs {
+  padding-inline: 5px;
+}
+@media (max-width: 800px) {
+  .details_panel .table_el tbody tr td img {
+    width: 20px;
+  }
+  .details_panel {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    width: 100%;
+    height: 230px;
+    padding: 10px 7px;
+  }
+  .details_panel .table_el tbody tr td {
+    font-size: 12px;
+  }
+  .details_panel .table_el tbody tr {
+    padding: 13px 7px;
+  }
+  .details_panel .table_element .first p {
+    font-size: 12px;
+  }
+  .details_panel .table_element .second p {
+    font-size: 12px;
+  }
+}
+@media (max-width: 600px) {
+  .details_panel .table_el tbody tr td {
+    font-size: 9px;
+  }
+  .details_panel .table_el tbody tr {
+    padding: 8px 4px;
+  }
+  .details_panel {
+    height: 167px;
+    gap: 5px;
+  }
+  .details_panel .table_element .first p {
+    font-size: 9px;
+  }
+  .br {
+    width: 30px;
+    height: 1px;
+    background: var(--primary);
+    margin-block: 8px;
+  }
+  .details_panel .table_element .second .arrow {
+    color: var(--primary);
+    margin: 7px 0px;
+    font-size: 30px;
+  }
+  .details_panel .table_element .second p {
+    font-size: 9px;
+    padding: 3px 8px;
+  }
+}
+@media (max-width: 470px) {
+  .details_panel {
+    height: 180px;
+  }
+  .details_panel .table_element .second p {
+    font-size: 9px;
+    padding: 2px 5px;
+  }
+}
+@media (max-width: 338px) {
+  .details_panel {
+    height: 190px;
+  }
+}
+.ant-tabs-tab.ant-tabs-tab-active .ant-tabs-tab-btn {
+  color: var(--primary) !important;
+}

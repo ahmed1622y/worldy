@@ -1,0 +1,39 @@
+.clMainCont {
+  width: 100%;
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  flex-direction: column;
+}
+.clHeader {
+  width: 100%;
+  text-align: end;
+}
+.col {
+  width: 100%;
+}
+.col > h4 {
+  margin: 0;
+  width: 100%;
+  text-align: end;
+  background-color: #f9faff;
+  border-top: #c8d1fc 1px solid;
+  font-size: 21px;
+}
+.colData {
+  display: flex;
+  width: 100%;
+  flex-direction: row-reverse;
+  justify-content: space-between;
+}
+.colData.odd {
+  background-color: #f9f9f9;
+}
+.colData > * {
+  margin: 5px 0px;
+  padding: 0;
+  width: fit-content;
+  text-align: end;
+  font-size: 17px;
+  font-weight: normal;
+}

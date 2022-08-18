@@ -1,0 +1,250 @@
+@font-face {
+  font-family: "Sofia Pro";
+  src: local("Sofia Pro Regular"), local("Sofia-Pro-Regular"),
+    url("SofiaProRegular.woff2") format("woff2"),
+    url("SofiaProRegular.woff") format("woff"),
+    url("SofiaProRegular.ttf") format("truetype");
+  font-weight: 400;
+  font-style: normal;
+}
+* {
+  font-family: "Sofia Pro";
+  scroll-behavior: smooth;
+}
+html {
+  width: 100%;
+  height: 100%;
+}
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+#root {
+  width: 100%;
+  position: relative;
+  height: 100%;
+  background-image: url("./bg.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.body {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  flex-direction: column;
+}
+.center {
+  position: absolute;
+  color: white;
+  pointer-events: none;
+  z-index: 100;
+  font-weight: 300;
+  font-size: 20px;
+}
+.searchInputCont {
+  position: absolute;
+  z-index: 10;
+  display: flex;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+
+  top: 10px;
+  right: 10px;
+}
+.searchInput {
+  width: 30vw;
+  border-radius: 5px;
+  border: none;
+  padding: 5px 5px 5px 25px;
+}
+.searchList {
+  width: 30vw;
+  background-color: white;
+  padding: 10px 5px 10px 25px;
+
+  /* position: absolute; */
+  border-radius: 5px;
+  overflow-y: auto;
+  max-height: 500px;
+  /* bottom: -520px; */
+  display: flex;
+  gap: 15px;
+  align-items: center;
+  justify-content: start;
+  flex-direction: column;
+  -ms-overflow-style: scroll;
+  scrollbar-color: transparent transparent;
+  scrollbar-width: thin;
+  z-index: 1000;
+}
+.searchList::-webkit-scrollbar {
+  width: 6px;
+}
+.searchList::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 5px;
+  background-color: transparent;
+  transition: all 0.1s linear;
+}
+.searchList:hover::-webkit-scrollbar-thumb {
+  -webkit-border-radius: 5px;
+  transition: all 0.1s linear;
+  background-color: #cbd1d8;
+}
+.searchItems {
+  border: none;
+  width: 100%;
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+  background-color: transparent;
+  display: block;
+}
+.searchInputIcon {
+  position: absolute;
+  left: 5px;
+  top: 8px;
+}
+.countryLabel {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  z-index: 5;
+  color: white;
+  pointer-events: none;
+  gap: 5px;
+  justify-content: center;
+  pointer-events: none;
+  padding: 10px 30px;
+  margin-top: 10px;
+  border-radius: 5px;
+  top: 60px;
+  font-weight: 400;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.side {
+  position: absolute;
+  z-index: 10;
+  border-radius: 5px;
+  padding: 15px 20px;
+  flex-direction: column;
+  display: flex;
+  left: 10px;
+  transition: all 0.3s linear;
+  top: 20px;
+  gap: 30px;
+  background-color: rgba(255, 255, 255, 0.1);
+}
+.search {
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+  transition: all 0.7s ease-in-out;
+}
+.rotate {
+  color: white;
+  font-size: 30px;
+  cursor: pointer;
+  transition: all 0.7s ease-in-out;
+}
+.rotate:hover {
+  transform: rotate(360deg);
+}
+.moon {
+  color: white;
+  transition: all 0.5s linear;
+  font-size: 30px;
+  cursor: pointer;
+}
+.moon:hover {
+  color: #79a3e8;
+}
+
+.sun {
+  transition: all 0.5s linear;
+  color: white;
+  font-size: 32px;
+  cursor: pointer;
+}
+.sun:hover {
+  color: #ffc06e;
+}
+.modesController {
+  transition: all 0.5s linear;
+  color: white;
+  font-size: 32px;
+  cursor: pointer;
+}
+.modesController:hover {
+  transform-style: preserve-3d;
+  transform: rotateY(-15deg) rotate(5deg);
+}
+.city {
+  transition: all 0.5s linear;
+  color: white;
+  font-size: 32px;
+  cursor: pointer;
+}
+.city:hover {
+  color: #b6ffa6;
+}
+.sat {
+  transition: all 0.5s linear;
+  color: white;
+  font-size: 32px;
+  cursor: pointer;
+}
+.sat:hover {
+  color: #b6ffa6;
+}
+
+.push {
+  top: 50px;
+}
+@media only screen and (max-width: 470px) {
+  .searchInput {
+    width: 40vw;
+  }
+  .searchList {
+    width: 40vw;
+  }
+  .searchInputCont {
+    top: 20px;
+  }
+  .side {
+    top: 0px;
+    left: -5px;
+    transform: scale(0.7);
+  }
+  .logoHeaderHome {
+    font-size: 25px;
+    transform: scale(0.6);
+    left: 50px;
+  }
+}
+.logoHeaderHome {
+  position: absolute;
+  top: 10px;
+  z-index: 10;
+  color: #2e7d32;
+  display: flex;
+  gap: 2px;
+  align-items: center;
+  font-size: 40px;
+}
+@media only screen and (max-width: 370px) {
+  .countryLabel {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+}

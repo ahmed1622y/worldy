@@ -1,0 +1,4770 @@
+[
+  {
+    "name": "Afghanistan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["20.45", "Low"] },
+      { "Speed in completing examination and reports": ["30.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["20.83", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["27.50", "Low"] },
+      { "Friendliness and courtesy of the staff": ["30.77", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "22.92",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["25.00", "Low"] },
+      { "Convenience of location for you": ["40.38", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Aland Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["81.25", "Very High"] },
+      { "Speed in completing examination and reports": ["81.25", "Very High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["100.00", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "87.50",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["87.50", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "81.25",
+          "Very High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["87.50", "Very High"] },
+      { "Convenience of location for you": ["91.67", "Very High"] }
+    ]
+  },
+  {
+    "name": "Albania",
+    "Health care": [
+      { "Skill and competency of medical staff": ["52.69", "Moderate"] },
+      { "Speed in completing examination and reports": ["48.83", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["44.17", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "52.78",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["51.15", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "39.29",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["44.84", "Moderate"] },
+      { "Convenience of location for you": ["64.29", "High"] }
+    ]
+  },
+  {
+    "name": "Alderney",
+    "Health care": [
+      { "Skill and competency of medical staff": ["100.00", "Very High"] },
+      {
+        "Speed in completing examination and reports": ["100.00", "Very High"]
+      },
+      {
+        "Equipment for modern diagnosis and treatment": ["100.00", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "100.00",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["100.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "100.00",
+          "Very High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["100.00", "Very High"] },
+      { "Convenience of location for you": ["100.00", "Very High"] }
+    ]
+  },
+  {
+    "name": "Algeria",
+    "Health care": [
+      { "Skill and competency of medical staff": ["48.49", "Moderate"] },
+      { "Speed in completing examination and reports": ["45.68", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["47.81", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "47.37",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["45.37", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "34.81",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["73.44", "High"] },
+      { "Convenience of location for you": ["59.49", "Moderate"] }
+    ]
+  },
+  {
+    "name": "American Samoa",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Andorra",
+    "Health care": [
+      { "Skill and competency of medical staff": ["75.00", "High"] },
+      { "Speed in completing examination and reports": ["75.00", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["66.67", "High"] },
+      { "Accuracy and completeness in filling out reports": ["75.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["83.33", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "75.00",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["83.33", "Very High"] },
+      { "Convenience of location for you": ["87.50", "Very High"] }
+    ]
+  },
+  {
+    "name": "Angola",
+    "Health care": [
+      { "Skill and competency of medical staff": ["30.00", "Low"] },
+      { "Speed in completing examination and reports": ["35.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["34.62", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["32.69", "Low"] },
+      { "Friendliness and courtesy of the staff": ["45.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "25.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["40.38", "Moderate"] },
+      { "Convenience of location for you": ["46.15", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Anguilla",
+    "Health care": [
+      { "Skill and competency of medical staff": ["81.25", "Very High"] },
+      { "Speed in completing examination and reports": ["68.75", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["93.75", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["75.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "68.75",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.00", "High"] },
+      { "Convenience of location for you": ["81.25", "Very High"] }
+    ]
+  },
+  {
+    "name": "Antigua And Barbuda",
+    "Health care": [
+      { "Skill and competency of medical staff": ["25.00", "Low"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["50.00", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["25.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "0.00",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["25.00", "Low"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "Health care": [
+      { "Skill and competency of medical staff": ["81.15", "Very High"] },
+      { "Speed in completing examination and reports": ["70.76", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["72.34", "High"] },
+      { "Accuracy and completeness in filling out reports": ["72.71", "High"] },
+      { "Friendliness and courtesy of the staff": ["72.46", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "47.08",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["64.16", "High"] },
+      { "Convenience of location for you": ["78.26", "High"] }
+    ]
+  },
+  {
+    "name": "Armenia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["59.62", "Moderate"] },
+      { "Speed in completing examination and reports": ["59.62", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["63.16", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "52.56",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["55.77", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "48.08",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["47.44", "Moderate"] },
+      { "Convenience of location for you": ["67.95", "High"] }
+    ]
+  },
+  {
+    "name": "Aruba",
+    "Health care": [
+      { "Skill and competency of medical staff": ["83.33", "Very High"] },
+      { "Speed in completing examination and reports": ["58.33", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["75.00", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "83.33",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["100.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "75.00",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.00", "High"] },
+      { "Convenience of location for you": ["83.33", "Very High"] }
+    ]
+  },
+  {
+    "name": "Australia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["82.19", "Very High"] },
+      { "Speed in completing examination and reports": ["76.76", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["86.71", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "80.55",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["81.46", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "64.42",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["73.49", "High"] },
+      { "Convenience of location for you": ["83.47", "Very High"] }
+    ]
+  },
+  {
+    "name": "Austria",
+    "Health care": [
+      { "Skill and competency of medical staff": ["77.84", "High"] },
+      { "Speed in completing examination and reports": ["75.37", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["87.26", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["78.11", "High"] },
+      { "Friendliness and courtesy of the staff": ["70.42", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "60.89",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["77.23", "High"] },
+      { "Convenience of location for you": ["83.27", "Very High"] }
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["37.33", "Low"] },
+      { "Speed in completing examination and reports": ["45.49", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["57.77", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "44.79",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["46.33", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.75",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["39.33", "Low"] },
+      { "Convenience of location for you": ["62.32", "High"] }
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "Health care": [
+      { "Skill and competency of medical staff": ["39.47", "Low"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["51.32", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "46.05",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["46.05", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "25.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["36.84", "Low"] },
+      { "Convenience of location for you": ["53.95", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "Health care": [
+      { "Skill and competency of medical staff": ["68.92", "High"] },
+      { "Speed in completing examination and reports": ["65.28", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["77.08", "High"] },
+      { "Accuracy and completeness in filling out reports": ["67.86", "High"] },
+      { "Friendliness and courtesy of the staff": ["68.24", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "58.11",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["54.05", "Moderate"] },
+      { "Convenience of location for you": ["79.05", "High"] }
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "Health care": [
+      { "Skill and competency of medical staff": ["43.75", "Moderate"] },
+      { "Speed in completing examination and reports": ["44.33", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["51.62", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "44.50",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["35.54", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "28.44",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["38.57", "Low"] },
+      { "Convenience of location for you": ["50.55", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Barbados",
+    "Health care": [
+      { "Skill and competency of medical staff": ["77.78", "High"] },
+      { "Speed in completing examination and reports": ["63.89", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["77.78", "High"] },
+      { "Accuracy and completeness in filling out reports": ["72.22", "High"] },
+      { "Friendliness and courtesy of the staff": ["69.44", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.62",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["69.44", "High"] },
+      { "Convenience of location for you": ["88.89", "Very High"] }
+    ]
+  },
+  {
+    "name": "Belarus",
+    "Health care": [
+      { "Skill and competency of medical staff": ["45.14", "Moderate"] },
+      { "Speed in completing examination and reports": ["39.93", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["38.99", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "41.94",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["43.77", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "28.08",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["58.83", "Moderate"] },
+      { "Convenience of location for you": ["58.87", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "Health care": [
+      { "Skill and competency of medical staff": ["79.07", "High"] },
+      { "Speed in completing examination and reports": ["72.96", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["87.29", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["76.45", "High"] },
+      { "Friendliness and courtesy of the staff": ["73.57", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "63.42",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["71.81", "High"] },
+      { "Convenience of location for you": ["80.61", "Very High"] }
+    ]
+  },
+  {
+    "name": "Belize",
+    "Health care": [
+      { "Skill and competency of medical staff": ["35.94", "Low"] },
+      { "Speed in completing examination and reports": ["33.82", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["32.14", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "48.33",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["56.25", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "28.12",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["64.06", "High"] },
+      { "Convenience of location for you": ["64.06", "High"] }
+    ]
+  },
+  {
+    "name": "Benin",
+    "Health care": [
+      { "Skill and competency of medical staff": ["37.50", "Low"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["37.50", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "37.50",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["62.50", "High"] },
+      { "Convenience of location for you": ["75.00", "High"] }
+    ]
+  },
+  {
+    "name": "Bermuda",
+    "Health care": [
+      { "Skill and competency of medical staff": ["73.08", "High"] },
+      { "Speed in completing examination and reports": ["80.77", "Very High"] },
+      { "Equipment for modern diagnosis and treatment": ["71.15", "High"] },
+      { "Accuracy and completeness in filling out reports": ["73.08", "High"] },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "69.23",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["48.08", "Moderate"] },
+      { "Convenience of location for you": ["86.54", "Very High"] }
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["55.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["55.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["62.50", "High"] },
+      { "Accuracy and completeness in filling out reports": ["68.75", "High"] },
+      { "Friendliness and courtesy of the staff": ["60.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "55.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["60.00", "High"] },
+      { "Convenience of location for you": ["87.50", "Very High"] }
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["45.45", "Moderate"] },
+      { "Speed in completing examination and reports": ["47.66", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["48.39", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["46.21", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "34.85",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["57.58", "Moderate"] },
+      { "Convenience of location for you": ["57.03", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Bonaire",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Bosnia And Herzegovina",
+    "Health care": [
+      { "Skill and competency of medical staff": ["53.17", "Moderate"] },
+      { "Speed in completing examination and reports": ["45.21", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["55.23", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "51.84",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["51.95", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "37.23",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["62.32", "High"] },
+      { "Convenience of location for you": ["75.18", "High"] }
+    ]
+  },
+  {
+    "name": "Botswana",
+    "Health care": [
+      { "Skill and competency of medical staff": ["62.50", "High"] },
+      { "Speed in completing examination and reports": ["53.85", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["46.43", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "57.14",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["66.07", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "42.86",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["73.21", "High"] },
+      { "Convenience of location for you": ["66.07", "High"] }
+    ]
+  },
+  {
+    "name": "Brazil",
+    "Health care": [
+      { "Skill and competency of medical staff": ["64.24", "High"] },
+      { "Speed in completing examination and reports": ["55.79", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["67.56", "High"] },
+      { "Accuracy and completeness in filling out reports": ["63.13", "High"] },
+      { "Friendliness and courtesy of the staff": ["61.72", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "42.03",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["48.58", "Moderate"] },
+      { "Convenience of location for you": ["69.26", "High"] }
+    ]
+  },
+  {
+    "name": "British Virgin Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Brunei",
+    "Health care": [
+      { "Skill and competency of medical staff": ["72.62", "High"] },
+      { "Speed in completing examination and reports": ["60.71", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["79.76", "High"] },
+      { "Accuracy and completeness in filling out reports": ["78.75", "High"] },
+      { "Friendliness and courtesy of the staff": ["76.19", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "51.19",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["91.67", "Very High"] },
+      { "Convenience of location for you": ["90.48", "Very High"] }
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "Health care": [
+      { "Skill and competency of medical staff": ["60.32", "High"] },
+      { "Speed in completing examination and reports": ["59.72", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["52.74", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "53.64",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["47.56", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "41.52",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["60.74", "High"] },
+      { "Convenience of location for you": ["73.74", "High"] }
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "Health care": [
+      { "Skill and competency of medical staff": ["75.00", "High"] },
+      { "Speed in completing examination and reports": ["58.33", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["41.67", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["56.25", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "37.50",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["43.75", "Moderate"] },
+      { "Convenience of location for you": ["37.50", "Low"] }
+    ]
+  },
+  {
+    "name": "Burundi",
+    "Health care": [
+      { "Skill and competency of medical staff": ["87.50", "Very High"] },
+      { "Speed in completing examination and reports": ["75.00", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["62.50", "High"] },
+      { "Accuracy and completeness in filling out reports": ["75.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["87.50", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "87.50",
+          "Very High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["62.50", "High"] },
+      { "Convenience of location for you": ["87.50", "Very High"] }
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["35.62", "Low"] },
+      { "Speed in completing examination and reports": ["53.21", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["42.36", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["38.16", "Low"] },
+      { "Friendliness and courtesy of the staff": ["66.67", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.66",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["47.37", "Moderate"] },
+      { "Convenience of location for you": ["63.46", "High"] }
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "Health care": [
+      { "Skill and competency of medical staff": ["34.09", "Low"] },
+      { "Speed in completing examination and reports": ["37.50", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["35.23", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "42.05",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["43.18", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "36.90",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["43.18", "Moderate"] },
+      { "Convenience of location for you": ["54.55", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Canada",
+    "Health care": [
+      { "Skill and competency of medical staff": ["72.73", "High"] },
+      { "Speed in completing examination and reports": ["59.03", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["79.94", "High"] },
+      { "Accuracy and completeness in filling out reports": ["73.16", "High"] },
+      { "Friendliness and courtesy of the staff": ["72.95", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "41.63",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["81.26", "Very High"] },
+      { "Convenience of location for you": ["77.65", "High"] }
+    ]
+  },
+  {
+    "name": "Cape Verde",
+    "Health care": [
+      { "Skill and competency of medical staff": ["91.67", "Very High"] },
+      { "Speed in completing examination and reports": ["66.67", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["75.00", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "83.33",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["91.67", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "66.67",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["91.67", "Very High"] },
+      { "Convenience of location for you": ["83.33", "Very High"] }
+    ]
+  },
+  {
+    "name": "Cayman Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["63.89", "High"] },
+      { "Speed in completing examination and reports": ["63.89", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["78.57", "High"] },
+      { "Accuracy and completeness in filling out reports": ["62.50", "High"] },
+      { "Friendliness and courtesy of the staff": ["69.44", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "58.33",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["55.56", "Moderate"] },
+      { "Convenience of location for you": ["83.33", "Very High"] }
+    ]
+  },
+  {
+    "name": "Central African Republic",
+    "Health care": [
+      { "Skill and competency of medical staff": ["0.00", "Very Low"] },
+      { "Speed in completing examination and reports": ["0.00", "Very Low"] },
+      { "Equipment for modern diagnosis and treatment": ["0.00", "Very Low"] },
+      {
+        "Accuracy and completeness in filling out reports": ["0.00", "Very Low"]
+      },
+      { "Friendliness and courtesy of the staff": ["16.67", "Very Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "0.00",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["0.00", "Very Low"] },
+      { "Convenience of location for you": ["8.33", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Chad",
+    "Health care": [
+      { "Skill and competency of medical staff": ["37.50", "Low"] },
+      { "Speed in completing examination and reports": ["56.25", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["50.00", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["68.75", "High"] },
+      { "Friendliness and courtesy of the staff": ["31.25", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "16.67",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["56.25", "Moderate"] },
+      { "Convenience of location for you": ["25.00", "Low"] }
+    ]
+  },
+  {
+    "name": "Chile",
+    "Health care": [
+      { "Skill and competency of medical staff": ["72.49", "High"] },
+      { "Speed in completing examination and reports": ["67.88", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["77.13", "High"] },
+      { "Accuracy and completeness in filling out reports": ["71.88", "High"] },
+      { "Friendliness and courtesy of the staff": ["64.66", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "54.33",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["46.02", "Moderate"] },
+      { "Convenience of location for you": ["77.11", "High"] }
+    ]
+  },
+  {
+    "name": "China",
+    "Health care": [
+      { "Skill and competency of medical staff": ["67.26", "High"] },
+      { "Speed in completing examination and reports": ["71.57", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["79.61", "High"] },
+      { "Accuracy and completeness in filling out reports": ["70.93", "High"] },
+      { "Friendliness and courtesy of the staff": ["58.87", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "56.14",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["61.88", "High"] },
+      { "Convenience of location for you": ["73.41", "High"] }
+    ]
+  },
+  {
+    "name": "Colombia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["71.49", "High"] },
+      { "Speed in completing examination and reports": ["62.81", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["72.42", "High"] },
+      { "Accuracy and completeness in filling out reports": ["68.75", "High"] },
+      { "Friendliness and courtesy of the staff": ["73.46", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "49.85",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["66.03", "High"] },
+      { "Convenience of location for you": ["74.92", "High"] }
+    ]
+  },
+  {
+    "name": "Comoros",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Congo",
+    "Health care": [
+      { "Skill and competency of medical staff": ["46.43", "Moderate"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["42.86", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "41.67",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "45.83",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["42.86", "Moderate"] },
+      { "Convenience of location for you": ["39.29", "Low"] }
+    ]
+  },
+  {
+    "name": "Cook Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "Health care": [
+      { "Skill and competency of medical staff": ["73.16", "High"] },
+      { "Speed in completing examination and reports": ["53.26", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["68.38", "High"] },
+      { "Accuracy and completeness in filling out reports": ["63.26", "High"] },
+      { "Friendliness and courtesy of the staff": ["64.34", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.30",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["63.60", "High"] },
+      { "Convenience of location for you": ["76.81", "High"] }
+    ]
+  },
+  {
+    "name": "Croatia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["70.00", "High"] },
+      { "Speed in completing examination and reports": ["49.31", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["64.96", "High"] },
+      { "Accuracy and completeness in filling out reports": ["64.29", "High"] },
+      { "Friendliness and courtesy of the staff": ["63.22", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "36.12",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.49", "High"] },
+      { "Convenience of location for you": ["76.24", "High"] }
+    ]
+  },
+  {
+    "name": "Cuba",
+    "Health care": [
+      { "Skill and competency of medical staff": ["58.33", "Moderate"] },
+      { "Speed in completing examination and reports": ["45.59", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["30.88", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["38.24", "Low"] },
+      { "Friendliness and courtesy of the staff": ["55.88", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "33.82",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["80.88", "Very High"] },
+      { "Convenience of location for you": ["77.94", "High"] }
+    ]
+  },
+  {
+    "name": "Curacao",
+    "Health care": [
+      { "Skill and competency of medical staff": ["68.75", "High"] },
+      { "Speed in completing examination and reports": ["40.62", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["46.88", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "53.12",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["56.25", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "18.75",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["59.38", "Moderate"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "Health care": [
+      { "Skill and competency of medical staff": ["52.88", "Moderate"] },
+      { "Speed in completing examination and reports": ["51.59", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["57.94", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "51.64",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["57.08", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "44.50",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["53.83", "Moderate"] },
+      { "Convenience of location for you": ["64.45", "High"] }
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "Health care": [
+      { "Skill and competency of medical staff": ["80.05", "Very High"] },
+      { "Speed in completing examination and reports": ["71.30", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["82.83", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["73.49", "High"] },
+      { "Friendliness and courtesy of the staff": ["61.60", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "54.18",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["85.91", "Very High"] },
+      { "Convenience of location for you": ["83.70", "Very High"] }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "Health care": [
+      { "Skill and competency of medical staff": ["77.87", "High"] },
+      { "Speed in completing examination and reports": ["68.16", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["88.99", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["76.28", "High"] },
+      { "Friendliness and courtesy of the staff": ["83.21", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "60.13",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["90.10", "Very High"] },
+      { "Convenience of location for you": ["82.80", "Very High"] }
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Dominica",
+    "Health care": [
+      { "Skill and competency of medical staff": ["33.33", "Low"] },
+      { "Speed in completing examination and reports": ["12.50", "Very Low"] },
+      { "Equipment for modern diagnosis and treatment": ["33.33", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["25.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["41.67", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "16.67",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["66.67", "High"] }
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "Health care": [
+      { "Skill and competency of medical staff": ["61.16", "High"] },
+      { "Speed in completing examination and reports": ["62.05", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["54.17", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "52.83",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["58.93", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "43.64",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.93", "Moderate"] },
+      { "Convenience of location for you": ["65.28", "High"] }
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "Health care": [
+      { "Skill and competency of medical staff": ["69.44", "High"] },
+      { "Speed in completing examination and reports": ["65.38", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["68.52", "High"] },
+      { "Accuracy and completeness in filling out reports": ["69.42", "High"] },
+      { "Friendliness and courtesy of the staff": ["69.23", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "55.60",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["74.57", "High"] },
+      { "Convenience of location for you": ["73.26", "High"] }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "Health care": [
+      { "Skill and competency of medical staff": ["49.13", "Moderate"] },
+      { "Speed in completing examination and reports": ["45.66", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["49.12", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "46.04",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["47.53", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "32.04",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["49.36", "Moderate"] },
+      { "Convenience of location for you": ["57.60", "Moderate"] }
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "Health care": [
+      { "Skill and competency of medical staff": ["46.43", "Moderate"] },
+      { "Speed in completing examination and reports": ["39.29", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["54.76", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "51.19",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["38.75", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "35.71",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["66.67", "High"] },
+      { "Convenience of location for you": ["59.52", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "Health care": [
+      { "Skill and competency of medical staff": ["41.67", "Moderate"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["50.00", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["25.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "41.67",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "Health care": [
+      { "Skill and competency of medical staff": ["100.00", "Very High"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["50.00", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["74.85", "High"] },
+      { "Speed in completing examination and reports": ["67.75", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["85.96", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["76.92", "High"] },
+      { "Friendliness and courtesy of the staff": ["65.95", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "49.69",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["80.97", "Very High"] },
+      { "Convenience of location for you": ["81.29", "Very High"] }
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["42.19", "Moderate"] },
+      { "Speed in completing examination and reports": ["57.81", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["45.31", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["37.50", "Low"] },
+      { "Friendliness and courtesy of the staff": ["64.06", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "36.67",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["71.88", "High"] }
+    ]
+  },
+  {
+    "name": "Falkland Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Faroe Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["91.67", "Very High"] },
+      { "Speed in completing examination and reports": ["41.67", "Moderate"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["95.83", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "54.17",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["100.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "45.83",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["91.67", "Very High"] },
+      { "Convenience of location for you": ["91.67", "Very High"] }
+    ]
+  },
+  {
+    "name": "Fiji",
+    "Health care": [
+      { "Skill and competency of medical staff": ["45.31", "Moderate"] },
+      { "Speed in completing examination and reports": ["40.62", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["40.00", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "45.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["68.75", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.62",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["51.67", "Moderate"] },
+      { "Convenience of location for you": ["57.81", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Finland",
+    "Health care": [
+      { "Skill and competency of medical staff": ["79.20", "High"] },
+      { "Speed in completing examination and reports": ["71.15", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["88.60", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["78.31", "High"] },
+      { "Friendliness and courtesy of the staff": ["73.58", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "60.42",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["78.63", "High"] },
+      { "Convenience of location for you": ["80.97", "Very High"] }
+    ]
+  },
+  {
+    "name": "France",
+    "Health care": [
+      { "Skill and competency of medical staff": ["84.50", "Very High"] },
+      { "Speed in completing examination and reports": ["77.28", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["87.84", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "80.53",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["73.12", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "63.71",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["84.81", "Very High"] },
+      { "Convenience of location for you": ["84.51", "Very High"] }
+    ]
+  },
+  {
+    "name": "French Guiana",
+    "Health care": [
+      { "Skill and competency of medical staff": ["75.00", "High"] },
+      { "Speed in completing examination and reports": ["75.00", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["50.00", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["75.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "37.50",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["37.50", "Low"] }
+    ]
+  },
+  {
+    "name": "French Polynesia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["100.00", "Very High"] },
+      {
+        "Speed in completing examination and reports": ["100.00", "Very High"]
+      },
+      {
+        "Equipment for modern diagnosis and treatment": ["100.00", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "91.67",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["91.67", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "91.67",
+          "Very High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["100.00", "Very High"] },
+      { "Convenience of location for you": ["91.67", "Very High"] }
+    ]
+  },
+  {
+    "name": "French Southern Territories",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Gabon",
+    "Health care": [
+      { "Skill and competency of medical staff": ["40.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["30.00", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["20.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["45.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "20.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["40.00", "Moderate"] },
+      { "Convenience of location for you": ["45.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Gambia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["75.00", "High"] },
+      { "Speed in completing examination and reports": ["75.00", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["50.00", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["100.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "75.00",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["75.00", "High"] }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["48.75", "Moderate"] },
+      { "Speed in completing examination and reports": ["55.60", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["58.75", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "48.68",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["59.84", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "48.33",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["53.69", "Moderate"] },
+      { "Convenience of location for you": ["61.07", "High"] }
+    ]
+  },
+  {
+    "name": "Germany",
+    "Health care": [
+      { "Skill and competency of medical staff": ["75.96", "High"] },
+      { "Speed in completing examination and reports": ["69.92", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["86.49", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["74.44", "High"] },
+      { "Friendliness and courtesy of the staff": ["66.89", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "53.61",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["72.43", "High"] },
+      { "Convenience of location for you": ["81.60", "Very High"] }
+    ]
+  },
+  {
+    "name": "Ghana",
+    "Health care": [
+      { "Skill and competency of medical staff": ["71.05", "High"] },
+      { "Speed in completing examination and reports": ["63.82", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["64.58", "High"] },
+      { "Accuracy and completeness in filling out reports": ["62.50", "High"] },
+      { "Friendliness and courtesy of the staff": ["65.13", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "49.32",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["48.03", "Moderate"] },
+      { "Convenience of location for you": ["66.43", "High"] }
+    ]
+  },
+  {
+    "name": "Gibraltar",
+    "Health care": [
+      { "Skill and competency of medical staff": ["60.00", "High"] },
+      { "Speed in completing examination and reports": ["35.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["60.00", "High"] },
+      { "Accuracy and completeness in filling out reports": ["60.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["85.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "65.00",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.00", "High"] },
+      { "Convenience of location for you": ["90.00", "Very High"] }
+    ]
+  },
+  {
+    "name": "Greece",
+    "Health care": [
+      { "Skill and competency of medical staff": ["63.47", "High"] },
+      { "Speed in completing examination and reports": ["48.86", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["58.08", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "57.45",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["59.39", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "35.19",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["62.38", "High"] },
+      { "Convenience of location for you": ["67.43", "High"] }
+    ]
+  },
+  {
+    "name": "Greenland",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["91.67", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["66.67", "High"] },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["66.67", "High"] },
+      { "Convenience of location for you": ["91.67", "Very High"] }
+    ]
+  },
+  {
+    "name": "Grenada",
+    "Health care": [
+      { "Skill and competency of medical staff": ["83.33", "Very High"] },
+      { "Speed in completing examination and reports": ["83.33", "Very High"] },
+      { "Equipment for modern diagnosis and treatment": ["66.67", "High"] },
+      { "Accuracy and completeness in filling out reports": ["66.67", "High"] },
+      { "Friendliness and courtesy of the staff": ["100.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "25.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["41.67", "Moderate"] },
+      { "Convenience of location for you": ["66.67", "High"] }
+    ]
+  },
+  {
+    "name": "Guadeloupe",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Guam",
+    "Health care": [
+      { "Skill and competency of medical staff": ["34.09", "Low"] },
+      { "Speed in completing examination and reports": ["35.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["22.50", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "40.91",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["54.55", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "32.50",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["31.82", "Low"] },
+      { "Convenience of location for you": ["42.50", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "Health care": [
+      { "Skill and competency of medical staff": ["69.57", "High"] },
+      { "Speed in completing examination and reports": ["59.78", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["58.51", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["64.20", "High"] },
+      { "Friendliness and courtesy of the staff": ["72.83", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "58.70",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["69.68", "High"] },
+      { "Convenience of location for you": ["73.40", "High"] }
+    ]
+  },
+  {
+    "name": "Guernsey",
+    "Health care": [
+      { "Skill and competency of medical staff": ["62.50", "High"] },
+      { "Speed in completing examination and reports": ["31.25", "Low"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["93.75", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["68.75", "High"] },
+      { "Friendliness and courtesy of the staff": ["62.50", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "37.50",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["37.50", "Low"] },
+      { "Convenience of location for you": ["62.50", "High"] }
+    ]
+  },
+  {
+    "name": "Guinea",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "Health care": [
+      { "Skill and competency of medical staff": ["0.00", "Very Low"] },
+      {
+        "Speed in completing examination and reports": ["100.00", "Very High"]
+      },
+      {
+        "Equipment for modern diagnosis and treatment": ["100.00", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "100.00",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["100.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "75.00",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["100.00", "Very High"] },
+      { "Convenience of location for you": ["25.00", "Low"] }
+    ]
+  },
+  {
+    "name": "Guyana",
+    "Health care": [
+      { "Skill and competency of medical staff": ["40.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["36.67", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["28.85", "Low"] },
+      { "Friendliness and courtesy of the staff": ["30.00", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "18.33",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["43.75", "Moderate"] },
+      { "Convenience of location for you": ["55.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Haiti",
+    "Health care": [
+      { "Skill and competency of medical staff": ["35.00", "Low"] },
+      { "Speed in completing examination and reports": ["40.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["20.00", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["35.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["55.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["35.00", "Low"] },
+      { "Convenience of location for you": ["30.00", "Low"] }
+    ]
+  },
+  {
+    "name": "Honduras",
+    "Health care": [
+      { "Skill and competency of medical staff": ["41.67", "Moderate"] },
+      { "Speed in completing examination and reports": ["39.58", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["32.61", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["33.70", "Low"] },
+      { "Friendliness and courtesy of the staff": ["48.96", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "31.52",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["36.96", "Low"] },
+      { "Convenience of location for you": ["46.74", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "Health care": [
+      { "Skill and competency of medical staff": ["70.18", "High"] },
+      { "Speed in completing examination and reports": ["59.80", "Moderate"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["83.04", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["73.52", "High"] },
+      { "Friendliness and courtesy of the staff": ["58.56", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "44.05",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["64.91", "High"] },
+      { "Convenience of location for you": ["76.76", "High"] }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "Health care": [
+      { "Skill and competency of medical staff": ["63.22", "High"] },
+      { "Speed in completing examination and reports": ["41.13", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["53.79", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "56.26",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["48.11", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "30.46",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["63.86", "High"] },
+      { "Convenience of location for you": ["66.26", "High"] }
+    ]
+  },
+  {
+    "name": "Iceland",
+    "Health care": [
+      { "Skill and competency of medical staff": ["75.78", "High"] },
+      { "Speed in completing examination and reports": ["60.43", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["66.94", "High"] },
+      { "Accuracy and completeness in filling out reports": ["69.01", "High"] },
+      { "Friendliness and courtesy of the staff": ["80.86", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "45.70",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["58.59", "Moderate"] },
+      { "Convenience of location for you": ["84.30", "Very High"] }
+    ]
+  },
+  {
+    "name": "India",
+    "Health care": [
+      { "Skill and competency of medical staff": ["70.80", "High"] },
+      { "Speed in completing examination and reports": ["68.91", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["72.01", "High"] },
+      { "Accuracy and completeness in filling out reports": ["70.72", "High"] },
+      { "Friendliness and courtesy of the staff": ["64.11", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "56.79",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["56.30", "Moderate"] },
+      { "Convenience of location for you": ["73.97", "High"] }
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["59.82", "Moderate"] },
+      { "Speed in completing examination and reports": ["57.67", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["69.46", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "58.48",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["71.01", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.72",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["53.61", "Moderate"] },
+      { "Convenience of location for you": ["69.95", "High"] }
+    ]
+  },
+  {
+    "name": "Iran",
+    "Health care": [
+      { "Skill and competency of medical staff": ["58.69", "Moderate"] },
+      { "Speed in completing examination and reports": ["52.83", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["61.30", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "55.43",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["46.95", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.96",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["47.83", "Moderate"] },
+      { "Convenience of location for you": ["58.89", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Iraq",
+    "Health care": [
+      { "Skill and competency of medical staff": ["41.67", "Moderate"] },
+      { "Speed in completing examination and reports": ["41.43", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["42.75", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["38.21", "Low"] },
+      { "Friendliness and courtesy of the staff": ["46.43", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "35.36",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["51.06", "Moderate"] },
+      { "Convenience of location for you": ["53.31", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Ireland",
+    "Health care": [
+      { "Skill and competency of medical staff": ["55.16", "Moderate"] },
+      { "Speed in completing examination and reports": ["42.55", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["66.40", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "55.10",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["73.11", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "28.61",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["42.89", "Moderate"] },
+      { "Convenience of location for you": ["62.38", "High"] }
+    ]
+  },
+  {
+    "name": "Isle Of Man",
+    "Health care": [
+      { "Skill and competency of medical staff": ["68.18", "High"] },
+      { "Speed in completing examination and reports": ["65.91", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["65.91", "High"] },
+      { "Accuracy and completeness in filling out reports": ["65.91", "High"] },
+      { "Friendliness and courtesy of the staff": ["82.50", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "72.73",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["87.50", "Very High"] },
+      { "Convenience of location for you": ["81.82", "Very High"] }
+    ]
+  },
+  {
+    "name": "Israel",
+    "Health care": [
+      { "Skill and competency of medical staff": ["80.82", "Very High"] },
+      { "Speed in completing examination and reports": ["72.11", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["88.60", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["76.88", "High"] },
+      { "Friendliness and courtesy of the staff": ["66.67", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "49.14",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["74.91", "High"] },
+      { "Convenience of location for you": ["79.14", "High"] }
+    ]
+  },
+  {
+    "name": "Italy",
+    "Health care": [
+      { "Skill and competency of medical staff": ["74.76", "High"] },
+      { "Speed in completing examination and reports": ["55.50", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["78.32", "High"] },
+      { "Accuracy and completeness in filling out reports": ["71.78", "High"] },
+      { "Friendliness and courtesy of the staff": ["65.22", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "43.36",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["69.34", "High"] },
+      { "Convenience of location for you": ["74.10", "High"] }
+    ]
+  },
+  {
+    "name": "Ivory Coast",
+    "Health care": [
+      { "Skill and competency of medical staff": ["28.57", "Low"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["25.00", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "42.86",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["39.29", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "39.29",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["35.71", "Low"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "Health care": [
+      { "Skill and competency of medical staff": ["60.14", "High"] },
+      { "Speed in completing examination and reports": ["44.74", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["52.03", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "57.64",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["51.97", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "26.97",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["49.34", "Moderate"] },
+      { "Convenience of location for you": ["63.16", "High"] }
+    ]
+  },
+  {
+    "name": "Japan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["80.45", "Very High"] },
+      { "Speed in completing examination and reports": ["83.56", "Very High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["86.01", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "81.79",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["85.89", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "73.23",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.27", "High"] },
+      { "Convenience of location for you": ["82.39", "Very High"] }
+    ]
+  },
+  {
+    "name": "Jersey",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["29.55", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["45.45", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.91",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["54.55", "Moderate"] },
+      { "Convenience of location for you": ["79.55", "High"] }
+    ]
+  },
+  {
+    "name": "Jordan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["72.06", "High"] },
+      { "Speed in completing examination and reports": ["69.58", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["75.63", "High"] },
+      { "Accuracy and completeness in filling out reports": ["68.28", "High"] },
+      { "Friendliness and courtesy of the staff": ["66.60", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "56.47",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["51.69", "Moderate"] },
+      { "Convenience of location for you": ["73.53", "High"] }
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["55.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["60.80", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["65.62", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "57.23",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["56.87", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.72",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["60.06", "High"] },
+      { "Convenience of location for you": ["72.69", "High"] }
+    ]
+  },
+  {
+    "name": "Kenya",
+    "Health care": [
+      { "Skill and competency of medical staff": ["63.11", "High"] },
+      { "Speed in completing examination and reports": ["58.01", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["66.46", "High"] },
+      { "Accuracy and completeness in filling out reports": ["69.23", "High"] },
+      { "Friendliness and courtesy of the staff": ["70.51", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.64",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["59.29", "Moderate"] },
+      { "Convenience of location for you": ["74.05", "High"] }
+    ]
+  },
+  {
+    "name": "Kosovo (Disputed Territory)",
+    "Health care": [
+      { "Skill and competency of medical staff": ["73.53", "High"] },
+      { "Speed in completing examination and reports": ["66.18", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["61.76", "High"] },
+      { "Accuracy and completeness in filling out reports": ["64.71", "High"] },
+      { "Friendliness and courtesy of the staff": ["63.24", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "48.53",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["64.71", "High"] },
+      { "Convenience of location for you": ["83.82", "Very High"] }
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.75", "Moderate"] },
+      { "Speed in completing examination and reports": ["60.07", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["75.77", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "53.79",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["51.54", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "48.16",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["59.85", "Moderate"] },
+      { "Convenience of location for you": ["73.86", "High"] }
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["56.82", "Moderate"] },
+      { "Speed in completing examination and reports": ["56.25", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["36.36", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "56.25",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["52.08", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "45.83",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["66.67", "High"] },
+      { "Convenience of location for you": ["70.83", "High"] }
+    ]
+  },
+  {
+    "name": "Laos",
+    "Health care": [
+      { "Skill and competency of medical staff": ["14.29", "Very Low"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["39.29", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["21.43", "Low"] },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "14.29",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["39.29", "Low"] }
+    ]
+  },
+  {
+    "name": "Latvia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["68.42", "High"] },
+      { "Speed in completing examination and reports": ["63.07", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["71.90", "High"] },
+      { "Accuracy and completeness in filling out reports": ["63.93", "High"] },
+      { "Friendliness and courtesy of the staff": ["63.07", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "44.70",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["56.77", "Moderate"] },
+      { "Convenience of location for you": ["79.55", "High"] }
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "Health care": [
+      { "Skill and competency of medical staff": ["75.64", "High"] },
+      { "Speed in completing examination and reports": ["72.84", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["76.75", "High"] },
+      { "Accuracy and completeness in filling out reports": ["72.59", "High"] },
+      { "Friendliness and courtesy of the staff": ["70.47", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "54.91",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["34.27", "Low"] },
+      { "Convenience of location for you": ["74.78", "High"] }
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["25.00", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "75.00",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["75.00", "High"] }
+    ]
+  },
+  {
+    "name": "Liberia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["43.75", "Moderate"] },
+      { "Speed in completing examination and reports": ["31.25", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["0.00", "Very Low"] },
+      { "Accuracy and completeness in filling out reports": ["33.33", "Low"] },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "41.67",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Libya",
+    "Health care": [
+      { "Skill and competency of medical staff": ["35.53", "Low"] },
+      { "Speed in completing examination and reports": ["39.47", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["45.83", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "44.74",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["45.83", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "26.32",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["61.84", "High"] },
+      { "Convenience of location for you": ["44.74", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "Health care": [
+      { "Skill and competency of medical staff": ["100.00", "Very High"] },
+      {
+        "Speed in completing examination and reports": ["100.00", "Very High"]
+      },
+      {
+        "Equipment for modern diagnosis and treatment": ["100.00", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "100.00",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["100.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "100.00",
+          "Very High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["100.00", "Very High"] },
+      { "Convenience of location for you": ["100.00", "Very High"] }
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "Health care": [
+      { "Skill and competency of medical staff": ["73.24", "High"] },
+      { "Speed in completing examination and reports": ["69.43", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["81.70", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["70.30", "High"] },
+      { "Friendliness and courtesy of the staff": ["65.32", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "55.45",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["78.06", "High"] },
+      { "Convenience of location for you": ["82.01", "Very High"] }
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "Health care": [
+      { "Skill and competency of medical staff": ["68.02", "High"] },
+      { "Speed in completing examination and reports": ["76.74", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["83.33", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["68.90", "High"] },
+      { "Friendliness and courtesy of the staff": ["65.12", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "60.47",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["67.26", "High"] },
+      { "Convenience of location for you": ["78.49", "High"] }
+    ]
+  },
+  {
+    "name": "Macao",
+    "Health care": [
+      { "Skill and competency of medical staff": ["37.50", "Low"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["47.22", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["36.11", "Low"] },
+      { "Friendliness and courtesy of the staff": ["42.50", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "41.67",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["62.50", "High"] },
+      { "Convenience of location for you": ["55.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "Health care": [
+      { "Skill and competency of medical staff": ["37.50", "Low"] },
+      { "Speed in completing examination and reports": ["37.50", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["34.38", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["25.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["37.50", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "37.50",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["40.62", "Moderate"] },
+      { "Convenience of location for you": ["34.38", "Low"] }
+    ]
+  },
+  {
+    "name": "Malawi",
+    "Health care": [
+      { "Skill and competency of medical staff": ["25.00", "Low"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["18.75", "Very Low"] },
+      { "Accuracy and completeness in filling out reports": ["25.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "31.25",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["43.75", "Moderate"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["72.69", "High"] },
+      { "Speed in completing examination and reports": ["68.17", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["81.83", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["72.97", "High"] },
+      { "Friendliness and courtesy of the staff": ["71.45", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "57.01",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["64.92", "High"] },
+      { "Convenience of location for you": ["78.16", "High"] }
+    ]
+  },
+  {
+    "name": "Maldives",
+    "Health care": [
+      { "Skill and competency of medical staff": ["43.18", "Moderate"] },
+      { "Speed in completing examination and reports": ["44.32", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["40.00", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "47.73",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["43.18", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "25.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["46.59", "Moderate"] },
+      { "Convenience of location for you": ["61.36", "High"] }
+    ]
+  },
+  {
+    "name": "Mali",
+    "Health care": [
+      { "Skill and competency of medical staff": ["8.33", "Very Low"] },
+      { "Speed in completing examination and reports": ["8.33", "Very Low"] },
+      { "Equipment for modern diagnosis and treatment": ["16.67", "Very Low"] },
+      {
+        "Accuracy and completeness in filling out reports": ["8.33", "Very Low"]
+      },
+      { "Friendliness and courtesy of the staff": ["25.00", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "16.67",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["16.67", "Very Low"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Malta",
+    "Health care": [
+      { "Skill and competency of medical staff": ["39.10", "Low"] },
+      { "Speed in completing examination and reports": ["33.78", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["41.58", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["37.77", "Low"] },
+      { "Friendliness and courtesy of the staff": ["39.10", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "29.52",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["41.13", "Moderate"] },
+      { "Convenience of location for you": ["41.03", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Martinique",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "Health care": [
+      { "Skill and competency of medical staff": ["56.25", "Moderate"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["25.00", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["62.50", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "18.75",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["66.67", "High"] },
+      { "Convenience of location for you": ["25.00", "Low"] }
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "Health care": [
+      { "Skill and competency of medical staff": ["72.22", "High"] },
+      { "Speed in completing examination and reports": ["58.93", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["70.37", "High"] },
+      { "Accuracy and completeness in filling out reports": ["63.39", "High"] },
+      { "Friendliness and courtesy of the staff": ["61.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "53.70",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["65.74", "High"] },
+      { "Convenience of location for you": ["75.93", "High"] }
+    ]
+  },
+  {
+    "name": "Mexico",
+    "Health care": [
+      { "Skill and competency of medical staff": ["76.77", "High"] },
+      { "Speed in completing examination and reports": ["67.45", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["77.80", "High"] },
+      { "Accuracy and completeness in filling out reports": ["73.02", "High"] },
+      { "Friendliness and courtesy of the staff": ["72.55", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "60.27",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["73.45", "High"] },
+      { "Convenience of location for you": ["80.60", "Very High"] }
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["25.00", "Low"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["25.00", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["25.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["25.00", "Low"] },
+      { "Convenience of location for you": ["100.00", "Very High"] }
+    ]
+  },
+  {
+    "name": "Moldova",
+    "Health care": [
+      { "Skill and competency of medical staff": ["43.33", "Moderate"] },
+      { "Speed in completing examination and reports": ["49.14", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["37.50", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "49.11",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["42.50", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "35.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["61.67", "High"] },
+      { "Convenience of location for you": ["63.33", "High"] }
+    ]
+  },
+  {
+    "name": "Monaco",
+    "Health care": [
+      { "Skill and competency of medical staff": ["85.00", "Very High"] },
+      { "Speed in completing examination and reports": ["75.00", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["80.00", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["70.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["60.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "70.00",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.00", "High"] },
+      { "Convenience of location for you": ["85.00", "Very High"] }
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["55.43", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["44.32", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "44.32",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["48.86", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "31.52",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["57.14", "Moderate"] },
+      { "Convenience of location for you": ["58.33", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "Health care": [
+      { "Skill and competency of medical staff": ["30.88", "Low"] },
+      { "Speed in completing examination and reports": ["25.74", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["34.38", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "40.44",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["38.64", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "25.76",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["61.36", "High"] },
+      { "Convenience of location for you": ["58.33", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Montserrat",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Morocco",
+    "Health care": [
+      { "Skill and competency of medical staff": ["49.24", "Moderate"] },
+      { "Speed in completing examination and reports": ["45.27", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["48.59", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "47.71",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["46.09", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "32.97",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["45.65", "Moderate"] },
+      { "Convenience of location for you": ["56.13", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "Health care": [
+      { "Skill and competency of medical staff": ["37.50", "Low"] },
+      { "Speed in completing examination and reports": ["46.43", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["39.29", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "46.43",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["42.86", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "30.36",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "Health care": [
+      { "Skill and competency of medical staff": ["46.67", "Moderate"] },
+      { "Speed in completing examination and reports": ["48.21", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["42.86", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "53.33",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["58.33", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["46.43", "Moderate"] },
+      { "Convenience of location for you": ["45.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Namibia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["69.35", "High"] },
+      { "Speed in completing examination and reports": ["62.10", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["72.58", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "58.62",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["58.06", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "42.74",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["59.17", "Moderate"] },
+      { "Convenience of location for you": ["74.19", "High"] }
+    ]
+  },
+  {
+    "name": "Nauru",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Nepal",
+    "Health care": [
+      { "Skill and competency of medical staff": ["57.79", "Moderate"] },
+      { "Speed in completing examination and reports": ["54.17", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["57.57", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "59.80",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["63.64", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "48.65",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["53.62", "Moderate"] },
+      { "Convenience of location for you": ["70.33", "High"] }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["76.12", "High"] },
+      { "Speed in completing examination and reports": ["73.28", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["90.56", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["76.26", "High"] },
+      { "Friendliness and courtesy of the staff": ["78.97", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "68.47",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["65.88", "High"] },
+      { "Convenience of location for you": ["85.55", "Very High"] }
+    ]
+  },
+  {
+    "name": "New Caledonia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["62.50", "High"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["75.00", "High"] },
+      { "Accuracy and completeness in filling out reports": ["75.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["37.50", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "37.50",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["37.50", "Low"] },
+      { "Convenience of location for you": ["75.00", "High"] }
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "Health care": [
+      { "Skill and competency of medical staff": ["76.41", "High"] },
+      { "Speed in completing examination and reports": ["67.29", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["77.54", "High"] },
+      { "Accuracy and completeness in filling out reports": ["74.25", "High"] },
+      { "Friendliness and courtesy of the staff": ["83.99", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "54.37",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["72.67", "High"] },
+      { "Convenience of location for you": ["81.47", "Very High"] }
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "Health care": [
+      { "Skill and competency of medical staff": ["57.81", "Moderate"] },
+      { "Speed in completing examination and reports": ["53.12", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["64.29", "High"] },
+      { "Accuracy and completeness in filling out reports": ["67.19", "High"] },
+      { "Friendliness and courtesy of the staff": ["67.19", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.00", "High"] },
+      { "Convenience of location for you": ["70.31", "High"] }
+    ]
+  },
+  {
+    "name": "Niger",
+    "Health care": [
+      { "Skill and competency of medical staff": ["0.00", "Very Low"] },
+      { "Speed in completing examination and reports": ["0.00", "Very Low"] },
+      { "Equipment for modern diagnosis and treatment": ["25.00", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": ["0.00", "Very Low"]
+      },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["25.00", "Low"] }
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "Health care": [
+      { "Skill and competency of medical staff": ["52.34", "Moderate"] },
+      { "Speed in completing examination and reports": ["49.27", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["42.82", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "54.61",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["51.47", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "34.22",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["47.28", "Moderate"] },
+      { "Convenience of location for you": ["57.14", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Norfolk Island",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "North Korea",
+    "Health care": [
+      { "Skill and competency of medical staff": ["41.67", "Moderate"] },
+      { "Speed in completing examination and reports": ["45.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["12.50", "Very Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["65.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["35.00", "Low"] },
+      { "Convenience of location for you": ["33.33", "Low"] }
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["53.33", "Moderate"] },
+      { "Speed in completing examination and reports": ["46.85", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["46.96", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "55.56",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "41.25",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["67.08", "High"] },
+      { "Convenience of location for you": ["72.44", "High"] }
+    ]
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["41.67", "Moderate"] },
+      { "Speed in completing examination and reports": ["41.67", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["25.00", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["66.67", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "33.33",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["33.33", "Low"] },
+      { "Convenience of location for you": ["75.00", "High"] }
+    ]
+  },
+  {
+    "name": "Norway",
+    "Health care": [
+      { "Skill and competency of medical staff": ["77.77", "High"] },
+      { "Speed in completing examination and reports": ["68.88", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["88.15", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["75.47", "High"] },
+      { "Friendliness and courtesy of the staff": ["81.91", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "57.03",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["80.82", "Very High"] },
+      { "Convenience of location for you": ["82.18", "Very High"] }
+    ]
+  },
+  {
+    "name": "Oman",
+    "Health care": [
+      { "Skill and competency of medical staff": ["52.78", "Moderate"] },
+      { "Speed in completing examination and reports": ["61.67", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["57.22", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "56.11",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["62.21", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "52.78",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["51.11", "Moderate"] },
+      { "Convenience of location for you": ["79.07", "High"] }
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["64.17", "High"] },
+      { "Speed in completing examination and reports": ["64.33", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["62.99", "High"] },
+      { "Accuracy and completeness in filling out reports": ["64.78", "High"] },
+      { "Friendliness and courtesy of the staff": ["55.38", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "48.05",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["52.85", "Moderate"] },
+      { "Convenience of location for you": ["70.63", "High"] }
+    ]
+  },
+  {
+    "name": "Palau",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Palestine",
+    "Health care": [
+      { "Skill and competency of medical staff": ["62.50", "High"] },
+      { "Speed in completing examination and reports": ["52.50", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["52.50", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["60.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "47.50",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["41.67", "Moderate"] },
+      { "Convenience of location for you": ["60.00", "High"] }
+    ]
+  },
+  {
+    "name": "Panama",
+    "Health care": [
+      { "Skill and competency of medical staff": ["68.15", "High"] },
+      { "Speed in completing examination and reports": ["62.90", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["71.37", "High"] },
+      { "Accuracy and completeness in filling out reports": ["62.93", "High"] },
+      { "Friendliness and courtesy of the staff": ["56.45", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "49.60",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["56.05", "Moderate"] },
+      { "Convenience of location for you": ["68.44", "High"] }
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "Health care": [
+      { "Skill and competency of medical staff": ["22.37", "Low"] },
+      { "Speed in completing examination and reports": ["22.22", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["19.74", "Very Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "19.74",
+          "Very Low"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["31.94", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "17.65",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["26.25", "Low"] },
+      { "Convenience of location for you": ["26.32", "Low"] }
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "Health care": [
+      { "Skill and competency of medical staff": ["70.16", "High"] },
+      { "Speed in completing examination and reports": ["65.62", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["69.35", "High"] },
+      { "Accuracy and completeness in filling out reports": ["66.94", "High"] },
+      { "Friendliness and courtesy of the staff": ["74.22", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "53.12",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["57.03", "Moderate"] },
+      { "Convenience of location for you": ["62.50", "High"] }
+    ]
+  },
+  {
+    "name": "Peru",
+    "Health care": [
+      { "Skill and competency of medical staff": ["55.72", "Moderate"] },
+      { "Speed in completing examination and reports": ["51.83", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["59.04", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "55.86",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["61.01", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "44.64",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["55.72", "Moderate"] },
+      { "Convenience of location for you": ["66.27", "High"] }
+    ]
+  },
+  {
+    "name": "Philippines",
+    "Health care": [
+      { "Skill and competency of medical staff": ["71.45", "High"] },
+      { "Speed in completing examination and reports": ["66.10", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["67.88", "High"] },
+      { "Accuracy and completeness in filling out reports": ["68.57", "High"] },
+      { "Friendliness and courtesy of the staff": ["77.14", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "56.21",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["64.03", "High"] },
+      { "Convenience of location for you": ["74.73", "High"] }
+    ]
+  },
+  {
+    "name": "Poland",
+    "Health care": [
+      { "Skill and competency of medical staff": ["55.42", "Moderate"] },
+      { "Speed in completing examination and reports": ["49.66", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["65.45", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "57.29",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["51.24", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "33.68",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["58.97", "Moderate"] },
+      { "Convenience of location for you": ["66.69", "High"] }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "Health care": [
+      { "Skill and competency of medical staff": ["77.60", "High"] },
+      { "Speed in completing examination and reports": ["62.94", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["76.94", "High"] },
+      { "Accuracy and completeness in filling out reports": ["73.20", "High"] },
+      { "Friendliness and courtesy of the staff": ["76.03", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "49.51",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.16", "High"] },
+      { "Convenience of location for you": ["80.92", "Very High"] }
+    ]
+  },
+  {
+    "name": "Puerto Rico",
+    "Health care": [
+      { "Skill and competency of medical staff": ["67.47", "High"] },
+      { "Speed in completing examination and reports": ["51.35", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["64.79", "High"] },
+      { "Accuracy and completeness in filling out reports": ["60.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["53.77", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "26.35",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["56.16", "Moderate"] },
+      { "Convenience of location for you": ["76.35", "High"] }
+    ]
+  },
+  {
+    "name": "Qatar",
+    "Health care": [
+      { "Skill and competency of medical staff": ["69.11", "High"] },
+      { "Speed in completing examination and reports": ["70.47", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["88.70", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["70.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["75.74", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "57.12",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["76.29", "High"] },
+      { "Convenience of location for you": ["79.35", "High"] }
+    ]
+  },
+  {
+    "name": "Republic of the Congo",
+    "Health care": [
+      { "Skill and competency of medical staff": ["0.00", "Very Low"] },
+      { "Speed in completing examination and reports": ["0.00", "Very Low"] },
+      { "Equipment for modern diagnosis and treatment": ["0.00", "Very Low"] },
+      {
+        "Accuracy and completeness in filling out reports": ["0.00", "Very Low"]
+      },
+      { "Friendliness and courtesy of the staff": ["37.50", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "12.50",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["0.00", "Very Low"] },
+      { "Convenience of location for you": ["0.00", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Reunion",
+    "Health care": [
+      { "Skill and competency of medical staff": ["41.67", "Moderate"] },
+      { "Speed in completing examination and reports": ["58.33", "Moderate"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["100.00", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["66.67", "High"] },
+      { "Friendliness and courtesy of the staff": ["66.67", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "66.67",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.00", "High"] },
+      { "Convenience of location for you": ["91.67", "Very High"] }
+    ]
+  },
+  {
+    "name": "Romania",
+    "Health care": [
+      { "Skill and competency of medical staff": ["61.34", "High"] },
+      { "Speed in completing examination and reports": ["53.15", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["57.17", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "59.05",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["52.19", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.54",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["56.47", "Moderate"] },
+      { "Convenience of location for you": ["71.02", "High"] }
+    ]
+  },
+  {
+    "name": "Russia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["55.52", "Moderate"] },
+      { "Speed in completing examination and reports": ["56.04", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["58.86", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "57.24",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["52.99", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "48.98",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["66.48", "High"] },
+      { "Convenience of location for you": ["72.36", "High"] }
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "Health care": [
+      { "Skill and competency of medical staff": ["70.59", "High"] },
+      { "Speed in completing examination and reports": ["66.18", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["63.24", "High"] },
+      { "Accuracy and completeness in filling out reports": ["70.31", "High"] },
+      { "Friendliness and courtesy of the staff": ["68.75", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "60.29",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["79.41", "High"] },
+      { "Convenience of location for you": ["73.53", "High"] }
+    ]
+  },
+  {
+    "name": "Saint Helena",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["75.00", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["25.00", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": ["0.00", "Very Low"]
+      },
+      { "Friendliness and courtesy of the staff": ["100.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "75.00",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["100.00", "Very High"] },
+      { "Convenience of location for you": ["100.00", "Very High"] }
+    ]
+  },
+  {
+    "name": "Saint Kitts And Nevis",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["50.00", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["53.57", "Moderate"] },
+      { "Speed in completing examination and reports": ["35.71", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["56.25", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["39.29", "Low"] },
+      { "Friendliness and courtesy of the staff": ["46.43", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "32.14",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["85.71", "Very High"] }
+    ]
+  },
+  {
+    "name": "Saint Vincent And The Grenadines",
+    "Health care": [
+      { "Skill and competency of medical staff": ["12.50", "Very Low"] },
+      { "Speed in completing examination and reports": ["12.50", "Very Low"] },
+      { "Equipment for modern diagnosis and treatment": ["37.50", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["37.50", "Low"] },
+      { "Friendliness and courtesy of the staff": ["25.00", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "12.50",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["37.50", "Low"] }
+    ]
+  },
+  {
+    "name": "Samoa",
+    "Health care": [
+      { "Skill and competency of medical staff": ["0.00", "Very Low"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["25.00", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "25.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["100.00", "Very High"] },
+      { "Convenience of location for you": ["100.00", "Very High"] }
+    ]
+  },
+  {
+    "name": "San Marino",
+    "Health care": [
+      { "Skill and competency of medical staff": ["75.00", "High"] },
+      { "Speed in completing examination and reports": ["75.00", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["100.00", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["75.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "75.00",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["100.00", "Very High"] },
+      { "Convenience of location for you": ["75.00", "High"] }
+    ]
+  },
+  {
+    "name": "Sao Tome And Principe",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["58.21", "Moderate"] },
+      { "Speed in completing examination and reports": ["60.13", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["76.95", "High"] },
+      { "Accuracy and completeness in filling out reports": ["62.78", "High"] },
+      { "Friendliness and courtesy of the staff": ["56.18", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "48.51",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["57.55", "Moderate"] },
+      { "Convenience of location for you": ["71.48", "High"] }
+    ]
+  },
+  {
+    "name": "Senegal",
+    "Health care": [
+      { "Skill and competency of medical staff": ["43.75", "Moderate"] },
+      { "Speed in completing examination and reports": ["65.62", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["40.62", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["71.88", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "43.75",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["46.88", "Moderate"] },
+      { "Convenience of location for you": ["46.43", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["55.52", "Moderate"] },
+      { "Speed in completing examination and reports": ["43.08", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["46.84", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "52.34",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["48.64", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "29.93",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["62.61", "High"] },
+      { "Convenience of location for you": ["71.46", "High"] }
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "Health care": [
+      { "Skill and competency of medical staff": ["58.33", "Moderate"] },
+      { "Speed in completing examination and reports": ["75.00", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["58.33", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["33.33", "Low"] },
+      { "Friendliness and courtesy of the staff": ["75.00", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["58.33", "Moderate"] },
+      { "Convenience of location for you": ["75.00", "High"] }
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "Health care": [
+      { "Skill and competency of medical staff": ["0.00", "Very Low"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["12.50", "Very Low"] },
+      { "Accuracy and completeness in filling out reports": ["25.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["37.50", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "37.50",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["37.50", "Low"] }
+    ]
+  },
+  {
+    "name": "Singapore",
+    "Health care": [
+      { "Skill and competency of medical staff": ["74.73", "High"] },
+      { "Speed in completing examination and reports": ["71.59", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["93.05", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["79.80", "High"] },
+      { "Friendliness and courtesy of the staff": ["76.81", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "62.32",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["49.38", "Moderate"] },
+      { "Convenience of location for you": ["83.60", "Very High"] }
+    ]
+  },
+  {
+    "name": "Sint Maarten",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["33.33", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["62.50", "High"] },
+      { "Accuracy and completeness in filling out reports": ["75.00", "High"] },
+      { "Friendliness and courtesy of the staff": ["83.33", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "25.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["58.33", "Moderate"] },
+      { "Convenience of location for you": ["58.33", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["62.84", "High"] },
+      { "Speed in completing examination and reports": ["52.60", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["59.40", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["63.60", "High"] },
+      { "Friendliness and courtesy of the staff": ["53.40", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "33.28",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["70.69", "High"] },
+      { "Convenience of location for you": ["73.29", "High"] }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["70.48", "High"] },
+      { "Speed in completing examination and reports": ["51.36", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["70.40", "High"] },
+      { "Accuracy and completeness in filling out reports": ["65.16", "High"] },
+      { "Friendliness and courtesy of the staff": ["66.26", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "30.61",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["76.70", "High"] },
+      { "Convenience of location for you": ["78.64", "High"] }
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["56.25", "Moderate"] },
+      { "Speed in completing examination and reports": ["31.25", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["43.75", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["37.50", "Low"] },
+      { "Friendliness and courtesy of the staff": ["37.50", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "33.33",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["41.67", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Somalia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["44.79", "Moderate"] },
+      { "Speed in completing examination and reports": ["42.39", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["40.62", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "44.57",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["52.17", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.91",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["39.13", "Low"] },
+      { "Convenience of location for you": ["47.92", "Moderate"] }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "Health care": [
+      { "Skill and competency of medical staff": ["71.07", "High"] },
+      { "Speed in completing examination and reports": ["67.43", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["73.30", "High"] },
+      { "Accuracy and completeness in filling out reports": ["69.62", "High"] },
+      { "Friendliness and courtesy of the staff": ["63.57", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "57.18",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["48.32", "Moderate"] },
+      { "Convenience of location for you": ["77.16", "High"] }
+    ]
+  },
+  {
+    "name": "South Korea",
+    "Health care": [
+      { "Skill and competency of medical staff": ["82.80", "Very High"] },
+      { "Speed in completing examination and reports": ["86.32", "Very High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["90.62", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "82.38",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["79.75", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "80.33",
+          "Very High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["78.12", "High"] },
+      { "Convenience of location for you": ["88.01", "Very High"] }
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["8.33", "Very Low"] },
+      { "Speed in completing examination and reports": ["8.33", "Very Low"] },
+      { "Equipment for modern diagnosis and treatment": ["33.33", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["33.33", "Low"] },
+      { "Friendliness and courtesy of the staff": ["66.67", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "0.00",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["16.67", "Very Low"] },
+      { "Convenience of location for you": ["25.00", "Low"] }
+    ]
+  },
+  {
+    "name": "Spain",
+    "Health care": [
+      { "Skill and competency of medical staff": ["82.08", "Very High"] },
+      { "Speed in completing examination and reports": ["68.03", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["86.78", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["78.05", "High"] },
+      { "Friendliness and courtesy of the staff": ["76.75", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "55.14",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["85.99", "Very High"] },
+      { "Convenience of location for you": ["84.90", "Very High"] }
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "Health care": [
+      { "Skill and competency of medical staff": ["81.71", "Very High"] },
+      { "Speed in completing examination and reports": ["70.12", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["74.39", "High"] },
+      { "Accuracy and completeness in filling out reports": ["79.27", "High"] },
+      { "Friendliness and courtesy of the staff": ["71.34", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "56.09",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["69.96", "High"] },
+      { "Convenience of location for you": ["76.67", "High"] }
+    ]
+  },
+  {
+    "name": "Sudan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["59.38", "Moderate"] },
+      { "Speed in completing examination and reports": ["57.14", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["43.75", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["39.29", "Low"] },
+      { "Friendliness and courtesy of the staff": ["57.14", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "42.86",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["39.29", "Low"] },
+      { "Convenience of location for you": ["42.86", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Suriname",
+    "Health care": [
+      { "Skill and competency of medical staff": ["42.65", "Moderate"] },
+      { "Speed in completing examination and reports": ["43.33", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["45.00", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "42.65",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["45.59", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "30.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["39.71", "Low"] },
+      { "Convenience of location for you": ["61.67", "High"] }
+    ]
+  },
+  {
+    "name": "Swaziland",
+    "Health care": [
+      { "Skill and competency of medical staff": ["56.25", "Moderate"] },
+      { "Speed in completing examination and reports": ["50.00", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["68.75", "High"] },
+      { "Accuracy and completeness in filling out reports": ["68.75", "High"] },
+      { "Friendliness and courtesy of the staff": ["56.25", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "56.25",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["62.50", "High"] },
+      { "Convenience of location for you": ["68.75", "High"] }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "Health care": [
+      { "Skill and competency of medical staff": ["66.67", "High"] },
+      { "Speed in completing examination and reports": ["54.83", "Moderate"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["85.28", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["67.83", "High"] },
+      { "Friendliness and courtesy of the staff": ["72.86", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "43.70",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["77.02", "High"] },
+      { "Convenience of location for you": ["74.21", "High"] }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "Health care": [
+      { "Skill and competency of medical staff": ["81.65", "Very High"] },
+      { "Speed in completing examination and reports": ["82.40", "Very High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["91.67", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "81.31",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["81.69", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "75.44",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["48.01", "Moderate"] },
+      { "Convenience of location for you": ["86.87", "Very High"] }
+    ]
+  },
+  {
+    "name": "Syria",
+    "Health care": [
+      { "Skill and competency of medical staff": ["38.54", "Low"] },
+      { "Speed in completing examination and reports": ["37.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["38.00", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["37.50", "Low"] },
+      { "Friendliness and courtesy of the staff": ["36.54", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "30.77",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["38.46", "Low"] },
+      { "Convenience of location for you": ["42.31", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["85.81", "Very High"] },
+      { "Speed in completing examination and reports": ["84.95", "Very High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["88.15", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "83.99",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["85.99", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "79.07",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["89.91", "Very High"] },
+      { "Convenience of location for you": ["90.16", "Very High"] }
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["16.67", "Very Low"] },
+      { "Speed in completing examination and reports": ["16.67", "Very Low"] },
+      { "Equipment for modern diagnosis and treatment": ["58.33", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["33.33", "Low"] },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "33.33",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["33.33", "Low"] },
+      { "Convenience of location for you": ["41.67", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "Health care": [
+      { "Skill and competency of medical staff": ["30.88", "Low"] },
+      { "Speed in completing examination and reports": ["35.71", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["28.68", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["35.71", "Low"] },
+      { "Friendliness and courtesy of the staff": ["44.29", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "25.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["44.29", "Moderate"] },
+      { "Convenience of location for you": ["40.71", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Thailand",
+    "Health care": [
+      { "Skill and competency of medical staff": ["77.47", "High"] },
+      { "Speed in completing examination and reports": ["79.82", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["83.94", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["78.47", "High"] },
+      { "Friendliness and courtesy of the staff": ["86.32", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "75.21",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["67.44", "High"] },
+      { "Convenience of location for you": ["82.25", "Very High"] }
+    ]
+  },
+  {
+    "name": "Timor-Leste",
+    "Health care": [
+      { "Skill and competency of medical staff": ["55.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["65.00", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["37.50", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "56.25",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["62.50", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "35.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["60.00", "High"] },
+      { "Convenience of location for you": ["60.00", "High"] }
+    ]
+  },
+  {
+    "name": "Togo",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["25.00", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["75.00", "High"] },
+      { "Accuracy and completeness in filling out reports": ["25.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.00", "High"] },
+      { "Convenience of location for you": ["50.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Tonga",
+    "Health care": [
+      { "Skill and competency of medical staff": ["83.33", "Very High"] },
+      { "Speed in completing examination and reports": ["75.00", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["50.00", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["58.33", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "66.67",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["66.67", "High"] },
+      { "Convenience of location for you": ["83.33", "Very High"] }
+    ]
+  },
+  {
+    "name": "Trinidad And Tobago",
+    "Health care": [
+      { "Skill and competency of medical staff": ["55.80", "Moderate"] },
+      { "Speed in completing examination and reports": ["36.61", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["53.70", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "55.36",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["48.18", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "24.55",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["67.45", "High"] },
+      { "Convenience of location for you": ["75.00", "High"] }
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["66.76", "High"] },
+      { "Speed in completing examination and reports": ["54.26", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["59.83", "Moderate"] },
+      { "Accuracy and completeness in filling out reports": ["63.99", "High"] },
+      { "Friendliness and courtesy of the staff": ["52.91", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "46.26",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["54.78", "Moderate"] },
+      { "Convenience of location for you": ["58.82", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Turkey",
+    "Health care": [
+      { "Skill and competency of medical staff": ["73.97", "High"] },
+      { "Speed in completing examination and reports": ["70.52", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["80.90", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["73.29", "High"] },
+      { "Friendliness and courtesy of the staff": ["66.78", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "62.08",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["65.42", "High"] },
+      { "Convenience of location for you": ["78.56", "High"] }
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["40.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["51.67", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["75.00", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "41.67",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["48.33", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "46.67",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["50.00", "Moderate"] },
+      { "Convenience of location for you": ["65.00", "High"] }
+    ]
+  },
+  {
+    "name": "Turks And Caicos Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["25.00", "Low"] },
+      { "Speed in completing examination and reports": ["37.50", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["62.50", "High"] },
+      { "Accuracy and completeness in filling out reports": ["25.00", "Low"] },
+      { "Friendliness and courtesy of the staff": ["37.50", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "12.50",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["75.00", "High"] },
+      { "Convenience of location for you": ["75.00", "High"] }
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Uganda",
+    "Health care": [
+      { "Skill and competency of medical staff": ["54.46", "Moderate"] },
+      { "Speed in completing examination and reports": ["47.41", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["43.00", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "55.36",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["59.26", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "34.82",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["37.96", "Low"] },
+      { "Convenience of location for you": ["57.41", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "Health care": [
+      { "Skill and competency of medical staff": ["54.09", "Moderate"] },
+      { "Speed in completing examination and reports": ["55.90", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["45.88", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "53.05",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["53.13", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "47.37",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["57.75", "Moderate"] },
+      { "Convenience of location for you": ["69.32", "High"] }
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "Health care": [
+      { "Skill and competency of medical staff": ["65.00", "High"] },
+      { "Speed in completing examination and reports": ["75.85", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["87.26", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["71.32", "High"] },
+      { "Friendliness and courtesy of the staff": ["78.18", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "66.99",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["46.10", "Moderate"] },
+      { "Convenience of location for you": ["81.16", "Very High"] }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "Health care": [
+      { "Skill and competency of medical staff": ["74.67", "High"] },
+      { "Speed in completing examination and reports": ["61.91", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["83.38", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["71.98", "High"] },
+      { "Friendliness and courtesy of the staff": ["78.38", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "51.56",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["85.12", "Very High"] },
+      { "Convenience of location for you": ["80.65", "Very High"] }
+    ]
+  },
+  {
+    "name": "United States",
+    "Health care": [
+      { "Skill and competency of medical staff": ["74.30", "High"] },
+      { "Speed in completing examination and reports": ["71.84", "High"] },
+      {
+        "Equipment for modern diagnosis and treatment": ["86.03", "Very High"]
+      },
+      { "Accuracy and completeness in filling out reports": ["74.99", "High"] },
+      { "Friendliness and courtesy of the staff": ["75.56", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "61.19",
+          "High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["48.37", "Moderate"] },
+      { "Convenience of location for you": ["80.55", "Very High"] }
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "Health care": [
+      { "Skill and competency of medical staff": ["70.05", "High"] },
+      { "Speed in completing examination and reports": ["66.93", "High"] },
+      { "Equipment for modern diagnosis and treatment": ["72.04", "High"] },
+      { "Accuracy and completeness in filling out reports": ["72.55", "High"] },
+      { "Friendliness and courtesy of the staff": ["71.81", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "49.74",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["65.26", "High"] },
+      { "Convenience of location for you": ["85.00", "Very High"] }
+    ]
+  },
+  {
+    "name": "Us Virgin Islands",
+    "Health care": [
+      { "Skill and competency of medical staff": ["53.57", "Moderate"] },
+      { "Speed in completing examination and reports": ["42.86", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["62.50", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "42.86",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["60.71", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "39.29",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["35.71", "Low"] },
+      { "Convenience of location for you": ["62.50", "High"] }
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "Health care": [
+      { "Skill and competency of medical staff": ["47.37", "Moderate"] },
+      { "Speed in completing examination and reports": ["55.26", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["47.22", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "53.75",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["62.50", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "47.50",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["63.75", "High"] },
+      { "Convenience of location for you": ["63.75", "High"] }
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "Health care": [
+      { "Skill and competency of medical staff": ["50.00", "Moderate"] },
+      { "Speed in completing examination and reports": ["43.75", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["33.33", "Low"] },
+      { "Accuracy and completeness in filling out reports": ["37.50", "Low"] },
+      { "Friendliness and courtesy of the staff": ["50.00", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "31.25",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["37.50", "Low"] },
+      { "Convenience of location for you": ["43.75", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "Health care": [
+      { "Skill and competency of medical staff": ["100.00", "Very High"] },
+      {
+        "Speed in completing examination and reports": ["100.00", "Very High"]
+      },
+      {
+        "Equipment for modern diagnosis and treatment": ["100.00", "Very High"]
+      },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "100.00",
+          "Very High"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["100.00", "Very High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "100.00",
+          "Very High"
+        ]
+      },
+      { "Satisfaction with cost to you": ["100.00", "Very High"] },
+      { "Convenience of location for you": ["100.00", "Very High"] }
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "Health care": [
+      { "Skill and competency of medical staff": ["48.89", "Moderate"] },
+      { "Speed in completing examination and reports": ["38.62", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["27.52", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "45.31",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["52.23", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "23.20",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["33.41", "Low"] },
+      { "Convenience of location for you": ["49.77", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "Health care": [
+      { "Skill and competency of medical staff": ["57.61", "Moderate"] },
+      { "Speed in completing examination and reports": ["58.48", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["61.68", "High"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "58.26",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["59.83", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "50.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["60.75", "High"] },
+      { "Convenience of location for you": ["62.94", "High"] }
+    ]
+  },
+  {
+    "name": "Western Sahara",
+    "Health care": [
+      { "Skill and competency of medical staff": ["?", ""] },
+      { "Speed in completing examination and reports": ["?", ""] },
+      { "Equipment for modern diagnosis and treatment": ["?", ""] },
+      { "Accuracy and completeness in filling out reports": ["?", ""] },
+      { "Friendliness and courtesy of the staff": ["?", ""] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "?",
+          ""
+        ]
+      },
+      { "Satisfaction with cost to you": ["?", ""] },
+      { "Convenience of location for you": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Yemen",
+    "Health care": [
+      { "Skill and competency of medical staff": ["21.88", "Low"] },
+      { "Speed in completing examination and reports": ["31.25", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["25.00", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "18.75",
+          "Very Low"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["34.38", "Low"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "10.71",
+          "Very Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["40.62", "Moderate"] },
+      { "Convenience of location for you": ["31.25", "Low"] }
+    ]
+  },
+  {
+    "name": "Zambia",
+    "Health care": [
+      { "Skill and competency of medical staff": ["56.67", "Moderate"] },
+      { "Speed in completing examination and reports": ["51.67", "Moderate"] },
+      { "Equipment for modern diagnosis and treatment": ["50.00", "Moderate"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "53.33",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["68.33", "High"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "40.00",
+          "Moderate"
+        ]
+      },
+      { "Satisfaction with cost to you": ["51.67", "Moderate"] },
+      { "Convenience of location for you": ["66.67", "High"] }
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "Health care": [
+      { "Skill and competency of medical staff": ["51.79", "Moderate"] },
+      { "Speed in completing examination and reports": ["39.81", "Low"] },
+      { "Equipment for modern diagnosis and treatment": ["32.69", "Low"] },
+      {
+        "Accuracy and completeness in filling out reports": [
+          "51.92",
+          "Moderate"
+        ]
+      },
+      { "Friendliness and courtesy of the staff": ["49.04", "Moderate"] },
+      {
+        "Satisfaction with responsiveness (waitings) in medical institutions": [
+          "32.00",
+          "Low"
+        ]
+      },
+      { "Satisfaction with cost to you": ["38.89", "Low"] },
+      { "Convenience of location for you": ["72.12", "High"] }
+    ]
+  }
+]

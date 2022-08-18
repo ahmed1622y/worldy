@@ -1,0 +1,77 @@
+.crimeSafetyCont {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: end;
+  justify-content: start;
+}
+.crimeSafetyIndexes {
+  background-color: #fbfbf8;
+  border-radius: 5px;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  margin-bottom: 20px;
+}
+.crimeSafetyIndexes > h6 {
+  font-weight: normal;
+  font-size: 16px;
+  margin: 0;
+  margin-bottom: 4px;
+}
+.crimeMeeter {
+  margin-bottom: -70px;
+}
+.mainInputCont {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.engDataCont {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  gap: 20px;
+  flex-direction: row-reverse;
+  align-items: start;
+}
+.innerEegDataCont {
+  display: flex;
+  width: 230px;
+  align-items: start;
+}
+.engDataCont > p {
+  padding: 0;
+  font-weight: normal;
+  text-align: start;
+  width: fit-content;
+  margin: 0;
+  font-size: 16px;
+}
+.innerEegDataCont > p:nth-child(3) {
+  padding: 0;
+  font-weight: normal;
+  width: 160px;
+  font-size: 16px;
+  margin-left: 10px;
+}
+.innerEegDataCont > p:nth-child(2) {
+  margin-left: 5px;
+  font-weight: normal;
+  width: 70px;
+  font-size: 16px;
+}
+@media (max-width: 600px) {
+  .hidePer {
+    display: none;
+  }
+  .innerEegDataCont {
+    width: 100px;
+  }
+  .engDataCont > p {
+    font-size: 14px;
+  }
+  .innerEegDataCont > p {
+    font-size: 15px;
+  }
+}

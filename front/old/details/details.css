@@ -1,0 +1,349 @@
+* {
+  font-family: Arial, sans-serif;
+  font-weight: bolder;
+}
+.progressBar {
+  background-color: gray;
+}
+.detailsBody {
+  width: 100%;
+  background-color: white;
+  display: flex;
+  align-items: flex-end;
+  justify-content: start;
+  box-sizing: border-box;
+  flex-direction: column;
+  padding: 30px;
+}
+.detailsStructure {
+  width: 100%;
+  display: flex;
+}
+.mainCont {
+  display: flex;
+  width: 100%;
+  flex-direction: column;
+  align-items: center;
+}
+.overViewCont {
+  width: 100%;
+  border: 1px solid #939393;
+  padding: 4px;
+  background-color: #f9f9f9;
+  display: flex;
+  flex-direction: column;
+  /* padding-bottom: 20px; */
+  align-items: center;
+  gap: 3px;
+}
+.overViewHead {
+  font-weight: bold;
+  font-size: 30px;
+  width: 100%;
+  padding: 5px 0px;
+  text-align: center;
+  background-color: #e3e3e3;
+  margin: 0;
+  margin-bottom: 20px;
+}
+.imgOverView {
+  width: 150px;
+  margin: 0;
+  border: rgb(0, 0, 0, 0.3) solid 1px;
+  padding: 5px;
+  border-radius: 5px;
+  display: flex;
+  flex-direction: column;
+}
+.flagName {
+  margin: 0;
+  margin-top: 5px;
+}
+.overViewItemHead {
+  font-weight: bolder;
+  font-size: 22px;
+  width: 100%;
+  text-align: center;
+  padding: 3px 0px;
+  background-color: #e3e3e3;
+  margin: 0;
+  padding-right: 8px;
+  margin-bottom: 4px;
+  margin-top: 20px;
+  text-align: end;
+}
+.headerCont {
+  position: relative;
+  width: 100%;
+}
+.logo {
+  margin: 0px;
+  font-size: 60px;
+  font-weight: 400;
+}
+.logoIcon {
+  padding-top: 12px;
+  width: 50px;
+
+  padding-right: 7px;
+}
+.detailsHeader {
+  padding-right: 10px;
+  border-bottom: 1px solid rgb(0, 0, 0, 0.3);
+  padding-bottom: 20px;
+  font-weight: 600;
+  font-weight: bolder;
+  width: 100%;
+  text-align: end;
+}
+.logoCont {
+  display: flex;
+  align-items: start;
+  justify-content: start;
+  width: 100%;
+  flex-direction: column;
+}
+.logoCont > div {
+  margin-left: auto;
+}
+.borderBack {
+  margin-top: 10px;
+  margin-bottom: 10px;
+  width: 100%;
+  height: 20px;
+}
+.detailsContainers {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  height: fit-content;
+}
+.detailsCont {
+  width: 100%;
+  display: flex;
+  overflow-x: hidden;
+  align-items: flex-end;
+  flex-direction: column;
+  height: 100%;
+}
+.itemHeaderFirst {
+  width: 100%;
+  border-bottom: rgb(0, 0, 0, 0.3) solid 1px;
+  text-align: end;
+  font-weight: bolder;
+  padding-bottom: 10px;
+  font-family: Arial;
+}
+.itemHeaderMob {
+  width: 100%;
+  border-bottom: rgb(0, 0, 0, 0.3) solid 1px;
+  text-align: end;
+  padding-bottom: 10px;
+  font-family: Arial;
+  display: none;
+}
+.dataContainers {
+  width: 100%;
+  display: flex;
+  justify-content: flex-end;
+  flex-wrap: wrap;
+  font-weight: bolder;
+  flex-direction: row-reverse;
+  height: 100%;
+}
+
+.dataCont {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  margin: 0px;
+  margin-left: auto;
+}
+.dataCont > h1 {
+  margin: 0px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: end;
+  justify-content: end;
+  padding: 1%;
+  font-weight: bolder;
+  /* padding: 1% 2% 1% 1%; */
+}
+.dataCont > h1:nth-of-type(1) {
+  display: flex;
+  text-align: center;
+  font-weight: bolder;
+  justify-content: center;
+}
+.dataCont > h1:nth-of-type(2) {
+  background-color: #f3f3f3;
+  width: 30%;
+  padding: 14px 3px;
+}
+.dataContIndexes {
+  width: 100%;
+  display: flex;
+  justify-content: end;
+  margin: 0px;
+  margin-left: auto;
+}
+.dataContIndexes.last > * {
+  border-top: 1px solid black;
+  color: black;
+}
+.dataContIndexes.last > h1:nth-of-type(2) {
+  border-top: 1px solid black;
+  color: black;
+  cursor: text;
+}
+.dataContIndexes.last > h1:nth-of-type(2):hover {
+  text-decoration: none;
+}
+.dataContIndexes > h1,
+p {
+  margin: 0px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  font-size: 16px;
+  font-weight: bold;
+  text-align: end;
+  justify-content: end;
+  padding: 1%;
+  /* font-weight: bolder; */
+  /* padding: 1% 2% 1% 1%; */
+}
+.dataContIndexes > h1:nth-of-type(1) {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+}
+.dataContIndexes > p {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  font-size: 15px;
+}
+.dataContIndexes > h1:nth-of-type(2) {
+  background-color: #f3f3f3;
+  width: 100%;
+  padding: 14px 3px;
+  color: #1a0dab;
+  cursor: pointer;
+}
+.dataContIndexes > h1:nth-of-type(2):hover {
+  text-decoration: underline;
+}
+p {
+  margin: 0px;
+}
+.climateCont {
+  display: flex;
+  align-items: end;
+  width: 100%;
+  flex-direction: column;
+}
+.dataTitle {
+  margin: 0px;
+  margin-top: 10px;
+  font-weight: bold;
+}
+.dataInBody {
+  margin-top: 5px;
+  text-align: end;
+}
+.detImgCont {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+}
+.imgCont {
+  padding: 10px;
+  /* background-color: #e3e3e3; */
+  border-radius: 5px;
+}
+.detImg {
+  border-radius: 5px;
+  width: 170px;
+  height: 170px;
+}
+
+@media only screen and (max-width: 360px) {
+  .logo {
+    font-size: 40px;
+  }
+  .logoIcon {
+    width: 35px;
+    padding-top: 4px;
+  }
+}
+@media only screen and (max-width: 420px) {
+  .logo {
+    font-size: 50px;
+  }
+  .logoIcon {
+    width: 40px;
+    padding-top: 2px;
+  }
+  .detailsHeader {
+    font-size: 20px;
+  }
+  .detailsBody {
+    padding: 30px 15px;
+  }
+  .dataCont > h1 {
+    font-size: 16px;
+  }
+  .dataContIndexes > h1 {
+    font-size: 15px;
+  }
+  .dataContIndexes > p {
+    font-size: 13px;
+  }
+  .dataTitle {
+    font-size: 20px;
+  }
+  .dataInBody {
+    font-size: 18px;
+  }
+  .itemHeader {
+    font-size: 25px;
+  }
+  .detImg {
+    width: 140px;
+    height: 140px;
+  }
+  .imgCont {
+    margin-top: 10px;
+    padding: 0;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .detailsStructure {
+    flex-direction: column;
+    align-items: center;
+  }
+  .overViewCont {
+    width: 100%;
+  }
+  .dataCont > h1:nth-of-type(2) {
+    width: 70%;
+  }
+  .itemHeaderFirst {
+    display: none;
+  }
+  .itemHeaderMob {
+    display: block;
+  }
+}
+.crimeAndSafety {
+  width: 100%;
+  margin-top: 30px;
+}

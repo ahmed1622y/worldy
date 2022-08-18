@@ -1,0 +1,41 @@
+.climateHeader {
+  display: flex;
+  flex-direction: row-reverse;
+  gap: -2px;
+  width: fit-content;
+}
+.right {
+  display: flex;
+  align-items: center;
+  justify-content: start;
+  overflow: hidden;
+  padding: 0px 10px;
+  flex-direction: column;
+}
+.right:nth-of-type(2) {
+  margin-right: -7px;
+}
+.right:nth-child(1) > h3 {
+  margin: 0px;
+  text-align: end;
+  width: 100%;
+  font-size: 17px;
+  font-weight: normal;
+}
+.right:nth-child(2) > h3:nth-of-type(1) {
+  padding: 20px 15px;
+  text-align: end;
+}
+.right:nth-child(2) > h3 {
+  font-weight: normal;
+  font-size: 17px;
+  margin: 0;
+}
+.right > h3:first-of-type {
+  height: 60px;
+  margin-bottom: 10px;
+  font-weight: bold;
+  padding: 20px;
+
+  background-color: #e9eef6;
+}

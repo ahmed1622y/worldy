@@ -1,0 +1,3264 @@
+[
+  {
+    "name": "Afghanistan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["20.04", "Very Low"] },
+      { "Safety Index": ["21.85", "Low"] },
+      { "Health Care Index": ["26.98", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["26.71", "Very Low"] },
+      { "Property Price to Income Ratio": ["12.49", "High"] },
+      { "Traffic Commute Time Index": ["56.17", "Very High"] },
+      { "Pollution Index": ["86.83", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Aland Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["101.87", "High"] },
+      { "Safety Index": ["77.81", "High"] },
+      { "Health Care Index": ["87.27", "Very High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["62.51", "Moderate"] },
+      { "Property Price to Income Ratio": ["4.42", "Very Low"] },
+      { "Traffic Commute Time Index": ["19.05", "Very Low"] },
+      { "Pollution Index": ["15.00", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Albania",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["27.91", "Very Low"] },
+      { "Safety Index": ["53.12", "Moderate"] },
+      { "Health Care Index": ["49.21", "Moderate"] },
+      { "Climate Index": ["86.43", "Very High"] },
+      { "Cost of Living Index": ["34.22", "Very Low"] },
+      { "Property Price to Income Ratio": ["15.81", "High"] },
+      { "Traffic Commute Time Index": ["37.56", "Moderate"] },
+      { "Pollution Index": ["79.39", "High"] },
+      { "Quality of Life Index: ": ["95.28", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Alderney",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["91.67", "Very High"] },
+      { "Health Care Index": ["100.00", "Very High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["3.45", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Algeria",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["24.37", "Very Low"] },
+      { "Safety Index": ["46.70", "Moderate"] },
+      { "Health Care Index": ["52.88", "Moderate"] },
+      { "Climate Index": ["95.59", "Very High"] },
+      { "Cost of Living Index": ["25.77", "Very Low"] },
+      { "Property Price to Income Ratio": ["15.20", "High"] },
+      { "Traffic Commute Time Index": ["47.80", "High"] },
+      { "Pollution Index": ["64.85", "High"] },
+      { "Quality of Life Index: ": ["101.20", "Low"] }
+    ]
+  },
+  {
+    "name": "American Samoa",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["41.91", "Moderate"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["100.00", "Very High"] },
+      { "Pollution Index": ["78.45", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Andorra",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["93.06", "High"] },
+      { "Safety Index": ["89.00", "Very High"] },
+      { "Health Care Index": ["78.24", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["55.55", "Low"] },
+      { "Property Price to Income Ratio": ["7.79", "Low"] },
+      { "Traffic Commute Time Index": ["7.50", "Very Low"] },
+      { "Pollution Index": ["24.75", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Angola",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["32.93", "Low"] },
+      { "Health Care Index": ["36.58", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["9.24", "Moderate"] },
+      { "Traffic Commute Time Index": ["56.33", "Very High"] },
+      { "Pollution Index": ["97.55", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Anguilla",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["79.90", "High"] },
+      { "Health Care Index": ["77.08", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Antigua And Barbuda",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["49.12", "Moderate"] },
+      { "Health Care Index": ["30.56", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["20.70", "Very High"] },
+      { "Traffic Commute Time Index": ["35.00", "Moderate"] },
+      { "Pollution Index": ["43.10", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Argentina",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["32.10", "Very Low"] },
+      { "Safety Index": ["35.79", "Low"] },
+      { "Health Care Index": ["69.23", "High"] },
+      { "Climate Index": ["98.28", "Very High"] },
+      { "Cost of Living Index": ["32.90", "Very Low"] },
+      { "Property Price to Income Ratio": ["22.84", "Very High"] },
+      { "Traffic Commute Time Index": ["43.06", "High"] },
+      { "Pollution Index": ["50.88", "Moderate"] },
+      { "Quality of Life Index: ": ["109.61", "Low"] }
+    ]
+  },
+  {
+    "name": "Armenia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["25.01", "Very Low"] },
+      { "Safety Index": ["78.20", "High"] },
+      { "Health Care Index": ["55.74", "Moderate"] },
+      { "Climate Index": ["63.42", "High"] },
+      { "Cost of Living Index": ["36.22", "Very Low"] },
+      { "Property Price to Income Ratio": ["17.23", "Very High"] },
+      { "Traffic Commute Time Index": ["31.47", "Low"] },
+      { "Pollution Index": ["60.16", "High"] },
+      { "Quality of Life Index: ": ["115.84", "Low"] }
+    ]
+  },
+  {
+    "name": "Aruba",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["45.01", "Low"] },
+      { "Safety Index": ["72.47", "High"] },
+      { "Health Care Index": ["78.70", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["80.10", "High"] },
+      { "Property Price to Income Ratio": ["126.85", "Very High"] },
+      { "Traffic Commute Time Index": ["46.33", "High"] },
+      { "Pollution Index": ["36.21", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Australia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["110.03", "Very High"] },
+      { "Safety Index": ["55.50", "Moderate"] },
+      { "Health Care Index": ["78.06", "High"] },
+      { "Climate Index": ["94.37", "Very High"] },
+      { "Cost of Living Index": ["75.19", "High"] },
+      { "Property Price to Income Ratio": ["5.68", "Low"] },
+      { "Traffic Commute Time Index": ["34.73", "Low"] },
+      { "Pollution Index": ["24.04", "Low"] },
+      { "Quality of Life Index: ": ["187.85", "Very High"] }
+    ]
+  },
+  {
+    "name": "Austria",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["73.26", "Moderate"] },
+      { "Safety Index": ["73.67", "High"] },
+      { "Health Care Index": ["76.51", "High"] },
+      { "Climate Index": ["77.15", "High"] },
+      { "Cost of Living Index": ["66.10", "Moderate"] },
+      { "Property Price to Income Ratio": ["10.85", "Moderate"] },
+      { "Traffic Commute Time Index": ["25.31", "Very Low"] },
+      { "Pollution Index": ["21.86", "Low"] },
+      { "Quality of Life Index: ": ["177.76", "Very High"] }
+    ]
+  },
+  {
+    "name": "Azerbaijan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["27.13", "Very Low"] },
+      { "Safety Index": ["68.03", "High"] },
+      { "Health Care Index": ["45.94", "Moderate"] },
+      { "Climate Index": ["91.40", "Very High"] },
+      { "Cost of Living Index": ["29.02", "Very Low"] },
+      { "Property Price to Income Ratio": ["14.75", "High"] },
+      { "Traffic Commute Time Index": ["39.82", "Moderate"] },
+      { "Pollution Index": ["73.82", "High"] },
+      { "Quality of Life Index: ": ["106.93", "Low"] }
+    ]
+  },
+  {
+    "name": "Bahamas",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["42.01", "Low"] },
+      { "Safety Index": ["37.14", "Low"] },
+      { "Health Care Index": ["40.06", "Moderate"] },
+      { "Climate Index": ["85.98", "Very High"] },
+      { "Cost of Living Index": ["85.55", "High"] },
+      { "Property Price to Income Ratio": ["3.99", "Very Low"] },
+      { "Traffic Commute Time Index": ["25.83", "Very Low"] },
+      { "Pollution Index": ["62.80", "High"] },
+      { "Quality of Life Index: ": ["112.73", "Low"] }
+    ]
+  },
+  {
+    "name": "Bahrain",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["57.53", "Low"] },
+      { "Safety Index": ["75.77", "High"] },
+      { "Health Care Index": ["66.45", "High"] },
+      { "Climate Index": ["64.31", "High"] },
+      { "Cost of Living Index": ["54.69", "Low"] },
+      { "Property Price to Income Ratio": ["5.78", "Low"] },
+      { "Traffic Commute Time Index": ["30.43", "Low"] },
+      { "Pollution Index": ["71.36", "High"] },
+      { "Quality of Life Index: ": ["134.88", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Bangladesh",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["24.73", "Very Low"] },
+      { "Safety Index": ["36.87", "Low"] },
+      { "Health Care Index": ["41.76", "Moderate"] },
+      { "Climate Index": ["71.29", "High"] },
+      { "Cost of Living Index": ["32.04", "Very Low"] },
+      { "Property Price to Income Ratio": ["11.34", "Moderate"] },
+      { "Traffic Commute Time Index": ["55.92", "Very High"] },
+      { "Pollution Index": ["85.42", "Very High"] },
+      { "Quality of Life Index: ": ["69.34", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Barbados",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["32.70", "Very Low"] },
+      { "Safety Index": ["53.42", "Moderate"] },
+      { "Health Care Index": ["69.95", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["89.79", "High"] },
+      { "Property Price to Income Ratio": ["12.26", "High"] },
+      { "Traffic Commute Time Index": ["36.67", "Moderate"] },
+      { "Pollution Index": ["24.88", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Belarus",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["31.12", "Very Low"] },
+      { "Safety Index": ["42.66", "Moderate"] },
+      { "Health Care Index": ["46.04", "Moderate"] },
+      { "Climate Index": ["64.37", "High"] },
+      { "Cost of Living Index": ["26.68", "Very Low"] },
+      { "Property Price to Income Ratio": ["17.74", "Very High"] },
+      { "Traffic Commute Time Index": ["29.86", "Low"] },
+      { "Pollution Index": ["44.55", "Moderate"] },
+      { "Quality of Life Index: ": ["108.62", "Low"] }
+    ]
+  },
+  {
+    "name": "Belgium",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["83.48", "Moderate"] },
+      { "Safety Index": ["53.91", "Moderate"] },
+      { "Health Care Index": ["75.22", "High"] },
+      { "Climate Index": ["86.03", "Very High"] },
+      { "Cost of Living Index": ["66.10", "Moderate"] },
+      { "Property Price to Income Ratio": ["6.58", "Low"] },
+      { "Traffic Commute Time Index": ["36.75", "Moderate"] },
+      { "Pollution Index": ["49.92", "Moderate"] },
+      { "Quality of Life Index: ": ["154.27", "High"] }
+    ]
+  },
+  {
+    "name": "Belize",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["42.06", "Low"] },
+      { "Safety Index": ["48.20", "Moderate"] },
+      { "Health Care Index": ["47.42", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["51.15", "Low"] },
+      { "Property Price to Income Ratio": ["6.22", "Low"] },
+      { "Traffic Commute Time Index": ["20.50", "Very Low"] },
+      { "Pollution Index": ["55.11", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Benin",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["68.45", "High"] },
+      { "Health Care Index": ["51.39", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["26.00", "Very Low"] },
+      { "Pollution Index": ["97.41", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Bermuda",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["80.46", "Moderate"] },
+      { "Safety Index": ["61.26", "High"] },
+      { "Health Care Index": ["69.44", "High"] },
+      { "Climate Index": ["91.82", "Very High"] },
+      { "Cost of Living Index": ["153.40", "Very High"] },
+      { "Property Price to Income Ratio": ["12.05", "High"] },
+      { "Traffic Commute Time Index": ["36.33", "Moderate"] },
+      { "Pollution Index": ["11.65", "Very Low"] },
+      { "Quality of Life Index: ": ["167.88", "Very High"] }
+    ]
+  },
+  {
+    "name": "Bhutan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["16.88", "Very Low"] },
+      { "Safety Index": ["69.52", "High"] },
+      { "Health Care Index": ["62.64", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["38.28", "Very Low"] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["3.00", "Very Low"] },
+      { "Pollution Index": ["54.35", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Bolivia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["35.84", "Very Low"] },
+      { "Safety Index": ["41.07", "Moderate"] },
+      { "Health Care Index": ["49.42", "Moderate"] },
+      { "Climate Index": ["55.46", "Moderate"] },
+      { "Cost of Living Index": ["33.63", "Very Low"] },
+      { "Property Price to Income Ratio": ["10.09", "Moderate"] },
+      { "Traffic Commute Time Index": ["41.07", "High"] },
+      { "Pollution Index": ["73.25", "High"] },
+      { "Quality of Life Index: ": ["90.31", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Bonaire",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["62.95", "High"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["6.95", "Low"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Bosnia And Herzegovina",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["44.94", "Low"] },
+      { "Safety Index": ["57.38", "Moderate"] },
+      { "Health Care Index": ["54.94", "Moderate"] },
+      { "Climate Index": ["80.48", "Very High"] },
+      { "Cost of Living Index": ["33.22", "Very Low"] },
+      { "Property Price to Income Ratio": ["10.11", "Moderate"] },
+      { "Traffic Commute Time Index": ["26.22", "Very Low"] },
+      { "Pollution Index": ["60.51", "High"] },
+      { "Quality of Life Index: ": ["128.59", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Botswana",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["58.04", "Low"] },
+      { "Safety Index": ["46.06", "Moderate"] },
+      { "Health Care Index": ["60.15", "High"] },
+      { "Climate Index": ["88.87", "Very High"] },
+      { "Cost of Living Index": ["38.62", "Very Low"] },
+      { "Property Price to Income Ratio": ["86.50", "Very High"] },
+      { "Traffic Commute Time Index": ["28.53", "Low"] },
+      { "Pollution Index": ["46.09", "Moderate"] },
+      { "Quality of Life Index: ": ["64.58", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Brazil",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["26.34", "Very Low"] },
+      { "Safety Index": ["33.15", "Low"] },
+      { "Health Care Index": ["57.88", "Moderate"] },
+      { "Climate Index": ["97.15", "Very High"] },
+      { "Cost of Living Index": ["37.41", "Very Low"] },
+      { "Property Price to Income Ratio": ["18.17", "Very High"] },
+      { "Traffic Commute Time Index": ["41.16", "High"] },
+      { "Pollution Index": ["53.66", "Moderate"] },
+      { "Quality of Life Index: ": ["104.39", "Low"] }
+    ]
+  },
+  {
+    "name": "British Virgin Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["64.15", "High"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["6.96", "Low"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["68.10", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Brunei",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["90.48", "High"] },
+      { "Safety Index": ["70.87", "High"] },
+      { "Health Care Index": ["77.00", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["45.49", "Low"] },
+      { "Property Price to Income Ratio": ["3.01", "Very Low"] },
+      { "Traffic Commute Time Index": ["27.79", "Low"] },
+      { "Pollution Index": ["34.13", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Bulgaria",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["45.34", "Low"] },
+      { "Safety Index": ["61.61", "High"] },
+      { "Health Care Index": ["56.75", "Moderate"] },
+      { "Climate Index": ["81.22", "Very High"] },
+      { "Cost of Living Index": ["38.68", "Very Low"] },
+      { "Property Price to Income Ratio": ["9.48", "Moderate"] },
+      { "Traffic Commute Time Index": ["29.31", "Low"] },
+      { "Pollution Index": ["64.07", "High"] },
+      { "Quality of Life Index: ": ["128.00", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Burkina Faso",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["12.75", "Very Low"] },
+      { "Safety Index": ["45.19", "Moderate"] },
+      { "Health Care Index": ["49.31", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["39.44", "Very Low"] },
+      { "Property Price to Income Ratio": ["8.73", "Moderate"] },
+      { "Traffic Commute Time Index": ["50.00", "High"] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Burundi",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["56.76", "Moderate"] },
+      { "Health Care Index": ["63.89", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["231.54", "Very High"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["80.32", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Cambodia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["12.74", "Very Low"] },
+      { "Safety Index": ["48.68", "Moderate"] },
+      { "Health Care Index": ["49.43", "Moderate"] },
+      { "Climate Index": ["59.43", "Moderate"] },
+      { "Cost of Living Index": ["47.97", "Low"] },
+      { "Property Price to Income Ratio": ["32.60", "Very High"] },
+      { "Traffic Commute Time Index": ["27.73", "Low"] },
+      { "Pollution Index": ["78.31", "High"] },
+      { "Quality of Life Index: ": ["65.55", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Cameroon",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["14.63", "Very Low"] },
+      { "Safety Index": ["33.41", "Low"] },
+      { "Health Care Index": ["41.10", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["34.85", "Very Low"] },
+      { "Property Price to Income Ratio": ["19.08", "Very High"] },
+      { "Traffic Commute Time Index": ["46.00", "High"] },
+      { "Pollution Index": ["93.54", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Canada",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["106.28", "High"] },
+      { "Safety Index": ["56.56", "Moderate"] },
+      { "Health Care Index": ["71.06", "High"] },
+      { "Climate Index": ["55.21", "Moderate"] },
+      { "Cost of Living Index": ["69.62", "Moderate"] },
+      { "Property Price to Income Ratio": ["8.16", "Moderate"] },
+      { "Traffic Commute Time Index": ["33.56", "Low"] },
+      { "Pollution Index": ["28.91", "Low"] },
+      { "Quality of Life Index: ": ["166.44", "Very High"] }
+    ]
+  },
+  {
+    "name": "Cape Verde",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["46.51", "Moderate"] },
+      { "Health Care Index": ["82.41", "Very High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["13.00", "High"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Cayman Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["84.34", "Moderate"] },
+      { "Safety Index": ["66.70", "High"] },
+      { "Health Care Index": ["65.67", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["100.88", "Very High"] },
+      { "Property Price to Income Ratio": ["12.34", "High"] },
+      { "Traffic Commute Time Index": ["10.20", "Very Low"] },
+      { "Pollution Index": ["24.89", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Central African Republic",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["14.17", "Very Low"] },
+      { "Health Care Index": ["2.78", "Very Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["113.79", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Chad",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["27.71", "Low"] },
+      { "Health Care Index": ["44.21", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["2.00", "Very Low"] },
+      { "Traffic Commute Time Index": ["6.00", "Very Low"] },
+      { "Pollution Index": ["45.40", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Chile",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["33.71", "Very Low"] },
+      { "Safety Index": ["44.54", "Moderate"] },
+      { "Health Care Index": ["64.17", "High"] },
+      { "Climate Index": ["90.21", "Very High"] },
+      { "Cost of Living Index": ["41.42", "Low"] },
+      { "Property Price to Income Ratio": ["15.50", "High"] },
+      { "Traffic Commute Time Index": ["35.81", "Moderate"] },
+      { "Pollution Index": ["78.34", "High"] },
+      { "Quality of Life Index: ": ["101.72", "Low"] }
+    ]
+  },
+  {
+    "name": "China",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["52.85", "Low"] },
+      { "Safety Index": ["70.89", "High"] },
+      { "Health Care Index": ["66.82", "High"] },
+      { "Climate Index": ["79.81", "High"] },
+      { "Cost of Living Index": ["41.44", "Low"] },
+      { "Property Price to Income Ratio": ["37.28", "Very High"] },
+      { "Traffic Commute Time Index": ["39.76", "Moderate"] },
+      { "Pollution Index": ["80.37", "Very High"] },
+      { "Quality of Life Index: ": ["95.03", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Colombia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["27.20", "Very Low"] },
+      { "Safety Index": ["41.78", "Moderate"] },
+      { "Health Care Index": ["67.31", "High"] },
+      { "Climate Index": ["88.30", "Very High"] },
+      { "Cost of Living Index": ["27.46", "Very Low"] },
+      { "Property Price to Income Ratio": ["16.19", "Very High"] },
+      { "Traffic Commute Time Index": ["47.72", "High"] },
+      { "Pollution Index": ["63.14", "High"] },
+      { "Quality of Life Index: ": ["103.24", "Low"] }
+    ]
+  },
+  {
+    "name": "Comoros",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["52.94", "Moderate"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Republic of the Congo",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["12.14", "Very Low"] },
+      { "Safety Index": ["28.37", "Low"] },
+      { "Health Care Index": ["44.64", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["95.68", "Very High"] },
+      { "Property Price to Income Ratio": ["49.33", "Very High"] },
+      { "Traffic Commute Time Index": ["75.00", "Very High"] },
+      { "Pollution Index": ["85.86", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Cook Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["75.74", "High"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["8.62", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Costa Rica",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["37.88", "Very Low"] },
+      { "Safety Index": ["46.01", "Moderate"] },
+      { "Health Care Index": ["62.97", "High"] },
+      { "Climate Index": ["99.48", "Very High"] },
+      { "Cost of Living Index": ["44.58", "Low"] },
+      { "Property Price to Income Ratio": ["10.70", "Moderate"] },
+      { "Traffic Commute Time Index": ["60.19", "Very High"] },
+      { "Pollution Index": ["44.19", "Moderate"] },
+      { "Quality of Life Index: ": ["121.79", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Croatia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["52.52", "Low"] },
+      { "Safety Index": ["76.02", "High"] },
+      { "Health Care Index": ["63.90", "High"] },
+      { "Climate Index": ["89.89", "Very High"] },
+      { "Cost of Living Index": ["44.43", "Low"] },
+      { "Property Price to Income Ratio": ["12.35", "High"] },
+      { "Traffic Commute Time Index": ["26.68", "Very Low"] },
+      { "Pollution Index": ["31.43", "Low"] },
+      { "Quality of Life Index: ": ["163.45", "Very High"] }
+    ]
+  },
+  {
+    "name": "Cuba",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["1.43", "Very Low"] },
+      { "Safety Index": ["67.94", "High"] },
+      { "Health Care Index": ["55.83", "Moderate"] },
+      { "Climate Index": ["89.86", "Very High"] },
+      { "Cost of Living Index": ["54.85", "Low"] },
+      { "Property Price to Income Ratio": ["43.52", "Very High"] },
+      { "Traffic Commute Time Index": ["33.33", "Low"] },
+      { "Pollution Index": ["66.27", "High"] },
+      { "Quality of Life Index: ": ["76.97", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Curacao",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["30.92", "Very Low"] },
+      { "Safety Index": ["43.87", "Moderate"] },
+      { "Health Care Index": ["50.35", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["73.82", "High"] },
+      { "Property Price to Income Ratio": ["10.91", "Moderate"] },
+      { "Traffic Commute Time Index": ["17.50", "Very Low"] },
+      { "Pollution Index": ["61.11", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Cyprus",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["52.65", "Low"] },
+      { "Safety Index": ["69.13", "High"] },
+      { "Health Care Index": ["54.19", "Moderate"] },
+      { "Climate Index": ["92.23", "Very High"] },
+      { "Cost of Living Index": ["53.98", "Low"] },
+      { "Property Price to Income Ratio": ["6.65", "Low"] },
+      { "Traffic Commute Time Index": ["23.29", "Very Low"] },
+      { "Pollution Index": ["54.91", "Moderate"] },
+      { "Quality of Life Index: ": ["147.75", "High"] }
+    ]
+  },
+  {
+    "name": "Czech Republic",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["67.99", "Moderate"] },
+      { "Safety Index": ["74.40", "High"] },
+      { "Health Care Index": ["75.40", "High"] },
+      { "Climate Index": ["78.32", "High"] },
+      { "Cost of Living Index": ["45.97", "Low"] },
+      { "Property Price to Income Ratio": ["14.69", "High"] },
+      { "Traffic Commute Time Index": ["29.38", "Low"] },
+      { "Pollution Index": ["35.70", "Low"] },
+      { "Quality of Life Index: ": ["162.89", "Very High"] }
+    ]
+  },
+  {
+    "name": "Denmark",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["98.44", "High"] },
+      { "Safety Index": ["73.55", "High"] },
+      { "Health Care Index": ["79.74", "High"] },
+      { "Climate Index": ["81.80", "Very High"] },
+      { "Cost of Living Index": ["76.51", "High"] },
+      { "Property Price to Income Ratio": ["6.13", "Low"] },
+      { "Traffic Commute Time Index": ["28.52", "Low"] },
+      { "Pollution Index": ["20.92", "Low"] },
+      { "Quality of Life Index: ": ["193.32", "Very High"] }
+    ]
+  },
+  {
+    "name": "Djibouti",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["16.82", "Very Low"] },
+      { "Safety Index": ["30.44", "Low"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["75.26", "High"] },
+      { "Property Price to Income Ratio": ["12.70", "High"] },
+      { "Traffic Commute Time Index": ["38.25", "Moderate"] },
+      { "Pollution Index": ["64.60", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Dominica",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["17.23", "Very Low"] },
+      { "Safety Index": ["47.07", "Moderate"] },
+      { "Health Care Index": ["36.57", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["66.27", "Moderate"] },
+      { "Property Price to Income Ratio": ["0.93", "Very Low"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["17.24", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Dominican Republic",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["20.15", "Very Low"] },
+      { "Safety Index": ["38.93", "Low"] },
+      { "Health Care Index": ["55.55", "Moderate"] },
+      { "Climate Index": ["67.82", "High"] },
+      { "Cost of Living Index": ["42.37", "Low"] },
+      { "Property Price to Income Ratio": ["15.47", "High"] },
+      { "Traffic Commute Time Index": ["42.64", "High"] },
+      { "Pollution Index": ["74.60", "High"] },
+      { "Quality of Life Index: ": ["81.60", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Ecuador",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["32.90", "Very Low"] },
+      { "Safety Index": ["42.50", "Moderate"] },
+      { "Health Care Index": ["68.89", "High"] },
+      { "Climate Index": ["94.51", "Very High"] },
+      { "Cost of Living Index": ["36.27", "Very Low"] },
+      { "Property Price to Income Ratio": ["11.46", "Moderate"] },
+      { "Traffic Commute Time Index": ["37.62", "Moderate"] },
+      { "Pollution Index": ["57.97", "Moderate"] },
+      { "Quality of Life Index: ": ["120.93", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Egypt",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["20.13", "Very Low"] },
+      { "Safety Index": ["53.70", "Moderate"] },
+      { "Health Care Index": ["47.31", "Moderate"] },
+      { "Climate Index": ["91.98", "Very High"] },
+      { "Cost of Living Index": ["26.61", "Very Low"] },
+      { "Property Price to Income Ratio": ["11.43", "Moderate"] },
+      { "Traffic Commute Time Index": ["48.36", "High"] },
+      { "Pollution Index": ["83.37", "Very High"] },
+      { "Quality of Life Index: ": ["90.64", "Very Low"] }
+    ]
+  },
+  {
+    "name": "El Salvador",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["20.33", "Very Low"] },
+      { "Safety Index": ["31.35", "Low"] },
+      { "Health Care Index": ["51.00", "Moderate"] },
+      { "Climate Index": ["86.60", "Very High"] },
+      { "Cost of Living Index": ["43.85", "Low"] },
+      { "Property Price to Income Ratio": ["15.32", "High"] },
+      { "Traffic Commute Time Index": ["42.85", "High"] },
+      { "Pollution Index": ["76.75", "High"] },
+      { "Quality of Life Index: ": ["80.78", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Equatorial Guinea",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["59.95", "Moderate"] },
+      { "Health Care Index": ["42.59", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["20.50", "Very Low"] },
+      { "Pollution Index": ["59.85", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Eritrea",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["79.44", "High"] },
+      { "Health Care Index": ["55.56", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["32.64", "Very High"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["15.52", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Estonia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["60.35", "Moderate"] },
+      { "Safety Index": ["76.12", "High"] },
+      { "Health Care Index": ["73.82", "High"] },
+      { "Climate Index": ["64.28", "High"] },
+      { "Cost of Living Index": ["50.00", "Low"] },
+      { "Property Price to Income Ratio": ["9.29", "Moderate"] },
+      { "Traffic Commute Time Index": ["24.42", "Very Low"] },
+      { "Pollution Index": ["18.60", "Very Low"] },
+      { "Quality of Life Index: ": ["174.25", "Very High"] }
+    ]
+  },
+  {
+    "name": "Ethiopia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["9.41", "Very Low"] },
+      { "Safety Index": ["51.17", "Moderate"] },
+      { "Health Care Index": ["50.60", "Moderate"] },
+      { "Climate Index": ["96.82", "Very High"] },
+      { "Cost of Living Index": ["45.69", "Low"] },
+      { "Property Price to Income Ratio": ["28.29", "Very High"] },
+      { "Traffic Commute Time Index": ["57.36", "Very High"] },
+      { "Pollution Index": ["78.04", "High"] },
+      { "Quality of Life Index: ": ["68.30", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Falkland Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["39.29", "Low"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["40.00", "Moderate"] },
+      { "Pollution Index": ["5.17", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Faroe Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["81.80", "Very High"] },
+      { "Health Care Index": ["78.24", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["4.65", "Very Low"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["4.91", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Fiji",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["36.22", "Very Low"] },
+      { "Safety Index": ["44.37", "Moderate"] },
+      { "Health Care Index": ["49.05", "Moderate"] },
+      { "Climate Index": ["71.89", "High"] },
+      { "Cost of Living Index": ["40.34", "Low"] },
+      { "Property Price to Income Ratio": ["13.70", "High"] },
+      { "Traffic Commute Time Index": ["40.23", "Moderate"] },
+      { "Pollution Index": ["52.42", "Moderate"] },
+      { "Quality of Life Index: ": ["107.46", "Low"] }
+    ]
+  },
+  {
+    "name": "Finland",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["87.45", "High"] },
+      { "Safety Index": ["72.98", "High"] },
+      { "Health Care Index": ["76.61", "High"] },
+      { "Climate Index": ["56.64", "Moderate"] },
+      { "Cost of Living Index": ["66.98", "Moderate"] },
+      { "Property Price to Income Ratio": ["7.27", "Low"] },
+      { "Traffic Commute Time Index": ["27.60", "Low"] },
+      { "Pollution Index": ["12.11", "Very Low"] },
+      { "Quality of Life Index: ": ["185.16", "Very High"] }
+    ]
+  },
+  {
+    "name": "France",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["76.37", "Moderate"] },
+      { "Safety Index": ["46.92", "Moderate"] },
+      { "Health Care Index": ["80.17", "Very High"] },
+      { "Climate Index": ["89.97", "Very High"] },
+      { "Cost of Living Index": ["69.02", "Moderate"] },
+      { "Property Price to Income Ratio": ["12.37", "High"] },
+      { "Traffic Commute Time Index": ["34.73", "Low"] },
+      { "Pollution Index": ["42.20", "Moderate"] },
+      { "Quality of Life Index: ": ["151.30", "High"] }
+    ]
+  },
+  {
+    "name": "French Guiana",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["40.60", "Moderate"] },
+      { "Health Care Index": ["55.56", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["7.97", "Low"] },
+      { "Traffic Commute Time Index": ["27.50", "Low"] },
+      { "Pollution Index": ["37.30", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "French Polynesia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["34.58", "Very Low"] },
+      { "Safety Index": ["76.98", "High"] },
+      { "Health Care Index": ["96.30", "Very High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["80.31", "High"] },
+      { "Property Price to Income Ratio": ["30.36", "Very High"] },
+      { "Traffic Commute Time Index": ["30.00", "Low"] },
+      { "Pollution Index": ["40.40", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "French Southern Territories",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["69.12", "High"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["16.00", "Very Low"] },
+      { "Pollution Index": ["37.70", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Gabon",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["17.87", "Very Low"] },
+      { "Safety Index": ["41.39", "Moderate"] },
+      { "Health Care Index": ["33.89", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["54.87", "Low"] },
+      { "Property Price to Income Ratio": ["146.05", "Very High"] },
+      { "Traffic Commute Time Index": ["16.35", "Very Low"] },
+      { "Pollution Index": ["80.32", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Gambia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["7.37", "Very Low"] },
+      { "Safety Index": ["47.79", "Moderate"] },
+      { "Health Care Index": ["66.67", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["28.02", "Very Low"] },
+      { "Property Price to Income Ratio": ["179.34", "Very High"] },
+      { "Traffic Commute Time Index": ["65.00", "Very High"] },
+      { "Pollution Index": ["61.67", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Georgia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["25.52", "Very Low"] },
+      { "Safety Index": ["75.53", "High"] },
+      { "Health Care Index": ["54.27", "Moderate"] },
+      { "Climate Index": ["84.20", "Very High"] },
+      { "Cost of Living Index": ["33.46", "Very Low"] },
+      { "Property Price to Income Ratio": ["11.50", "Moderate"] },
+      { "Traffic Commute Time Index": ["36.06", "Moderate"] },
+      { "Pollution Index": ["69.42", "High"] },
+      { "Quality of Life Index: ": ["118.59", "Low"] }
+    ]
+  },
+  {
+    "name": "Germany",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["101.56", "High"] },
+      { "Safety Index": ["63.09", "High"] },
+      { "Health Care Index": ["72.64", "High"] },
+      { "Climate Index": ["82.92", "Very High"] },
+      { "Cost of Living Index": ["61.73", "Moderate"] },
+      { "Property Price to Income Ratio": ["10.25", "Moderate"] },
+      { "Traffic Commute Time Index": ["31.07", "Low"] },
+      { "Pollution Index": ["28.07", "Low"] },
+      { "Quality of Life Index: ": ["178.20", "Very High"] }
+    ]
+  },
+  {
+    "name": "Ghana",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["16.53", "Very Low"] },
+      { "Safety Index": ["52.99", "Moderate"] },
+      { "Health Care Index": ["59.88", "Moderate"] },
+      { "Climate Index": ["67.03", "High"] },
+      { "Cost of Living Index": ["31.34", "Very Low"] },
+      { "Property Price to Income Ratio": ["87.11", "Very High"] },
+      { "Traffic Commute Time Index": ["33.44", "Low"] },
+      { "Pollution Index": ["88.27", "Very High"] },
+      { "Quality of Life Index: ": ["13.59", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Gibraltar",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["82.99", "Moderate"] },
+      { "Safety Index": ["83.22", "Very High"] },
+      { "Health Care Index": ["67.22", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["61.91", "Moderate"] },
+      { "Property Price to Income Ratio": ["10.89", "Moderate"] },
+      { "Traffic Commute Time Index": ["20.00", "Very Low"] },
+      { "Pollution Index": ["61.64", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Greece",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["36.68", "Very Low"] },
+      { "Safety Index": ["52.10", "Moderate"] },
+      { "Health Care Index": ["57.18", "Moderate"] },
+      { "Climate Index": ["94.18", "Very High"] },
+      { "Cost of Living Index": ["52.23", "Low"] },
+      { "Property Price to Income Ratio": ["11.65", "Moderate"] },
+      { "Traffic Commute Time Index": ["33.75", "Low"] },
+      { "Pollution Index": ["51.82", "Moderate"] },
+      { "Quality of Life Index: ": ["126.69", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Greenland",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["52.25", "Low"] },
+      { "Safety Index": ["61.17", "High"] },
+      { "Health Care Index": ["67.59", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["100.11", "Very High"] },
+      { "Property Price to Income Ratio": ["13.10", "High"] },
+      { "Traffic Commute Time Index": ["18.00", "Very Low"] },
+      { "Pollution Index": ["70.53", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Grenada",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["74.86", "High"] },
+      { "Health Care Index": ["63.89", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["146.88", "Very High"] },
+      { "Traffic Commute Time Index": ["40.00", "Moderate"] },
+      { "Pollution Index": ["49.18", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Guadeloupe",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["53.82", "Moderate"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Guam",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["38.49", "Low"] },
+      { "Health Care Index": ["36.19", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["2.22", "Very Low"] },
+      { "Traffic Commute Time Index": ["30.00", "Low"] },
+      { "Pollution Index": ["52.77", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Guatemala",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["26.89", "Very Low"] },
+      { "Safety Index": ["43.29", "Moderate"] },
+      { "Health Care Index": ["66.26", "High"] },
+      { "Climate Index": ["99.89", "Very High"] },
+      { "Cost of Living Index": ["41.46", "Low"] },
+      { "Property Price to Income Ratio": ["12.36", "High"] },
+      { "Traffic Commute Time Index": ["50.12", "High"] },
+      { "Pollution Index": ["73.33", "High"] },
+      { "Quality of Life Index: ": ["101.75", "Low"] }
+    ]
+  },
+  {
+    "name": "Guernsey",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["68.53", "Moderate"] },
+      { "Safety Index": ["83.08", "Very High"] },
+      { "Health Care Index": ["54.86", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["74.79", "High"] },
+      { "Property Price to Income Ratio": ["9.34", "Moderate"] },
+      { "Traffic Commute Time Index": ["15.00", "Very Low"] },
+      { "Pollution Index": ["13.79", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Guinea",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["29.07", "Low"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["2.39", "Very Low"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["105.52", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Guinea-Bissau",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["40.88", "Moderate"] },
+      { "Health Care Index": ["77.78", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["7.43", "Low"] },
+      { "Traffic Commute Time Index": ["20.00", "Very Low"] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Guyana",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["19.19", "Very Low"] },
+      { "Safety Index": ["31.07", "Low"] },
+      { "Health Care Index": ["35.71", "Low"] },
+      { "Climate Index": ["65.81", "High"] },
+      { "Cost of Living Index": ["47.74", "Low"] },
+      { "Property Price to Income Ratio": ["39.79", "Very High"] },
+      { "Traffic Commute Time Index": ["52.00", "High"] },
+      { "Pollution Index": ["63.68", "High"] },
+      { "Quality of Life Index: ": ["46.41", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Haiti",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["28.60", "Low"] },
+      { "Health Care Index": ["36.11", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["17.42", "Very High"] },
+      { "Traffic Commute Time Index": ["90.00", "Very High"] },
+      { "Pollution Index": ["86.03", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Honduras",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["32.06", "Very Low"] },
+      { "Safety Index": ["25.75", "Low"] },
+      { "Health Care Index": ["38.74", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["39.41", "Very Low"] },
+      { "Property Price to Income Ratio": ["8.91", "Moderate"] },
+      { "Traffic Commute Time Index": ["20.37", "Very Low"] },
+      { "Pollution Index": ["79.81", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Hong Kong",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["65.03", "Moderate"] },
+      { "Safety Index": ["78.27", "High"] },
+      { "Health Care Index": ["66.23", "High"] },
+      { "Climate Index": ["83.64", "Very High"] },
+      { "Cost of Living Index": ["78.75", "High"] },
+      { "Property Price to Income Ratio": ["44.07", "Very High"] },
+      { "Traffic Commute Time Index": ["43.08", "High"] },
+      { "Pollution Index": ["67.35", "High"] },
+      { "Quality of Life Index: ": ["101.13", "Low"] }
+    ]
+  },
+  {
+    "name": "Hungary",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["52.43", "Low"] },
+      { "Safety Index": ["65.94", "High"] },
+      { "Health Care Index": ["54.11", "Moderate"] },
+      { "Climate Index": ["79.48", "High"] },
+      { "Cost of Living Index": ["36.93", "Very Low"] },
+      { "Property Price to Income Ratio": ["13.13", "High"] },
+      { "Traffic Commute Time Index": ["35.61", "Moderate"] },
+      { "Pollution Index": ["47.91", "Moderate"] },
+      { "Quality of Life Index: ": ["135.50", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Iceland",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["79.13", "Moderate"] },
+      { "Safety Index": ["76.42", "High"] },
+      { "Health Care Index": ["66.69", "High"] },
+      { "Climate Index": ["68.81", "High"] },
+      { "Cost of Living Index": ["91.64", "Very High"] },
+      { "Property Price to Income Ratio": ["6.42", "Low"] },
+      { "Traffic Commute Time Index": ["19.96", "Very Low"] },
+      { "Pollution Index": ["15.83", "Very Low"] },
+      { "Quality of Life Index: ": ["183.35", "Very High"] }
+    ]
+  },
+  {
+    "name": "India",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["77.45", "Moderate"] },
+      { "Safety Index": ["55.38", "Moderate"] },
+      { "Health Care Index": ["65.56", "High"] },
+      { "Climate Index": ["64.60", "High"] },
+      { "Cost of Living Index": ["25.02", "Very Low"] },
+      { "Property Price to Income Ratio": ["7.03", "Low"] },
+      { "Traffic Commute Time Index": ["46.47", "High"] },
+      { "Pollution Index": ["73.04", "High"] },
+      { "Quality of Life Index: ": ["124.97", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Indonesia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["24.67", "Very Low"] },
+      { "Safety Index": ["53.82", "Moderate"] },
+      { "Health Care Index": ["60.48", "High"] },
+      { "Climate Index": ["68.96", "High"] },
+      { "Cost of Living Index": ["33.76", "Very Low"] },
+      { "Property Price to Income Ratio": ["17.68", "Very High"] },
+      { "Traffic Commute Time Index": ["43.53", "High"] },
+      { "Pollution Index": ["67.16", "High"] },
+      { "Quality of Life Index: ": ["96.36", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Iran",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["18.09", "Very Low"] },
+      { "Safety Index": ["50.27", "Moderate"] },
+      { "Health Care Index": ["52.30", "Moderate"] },
+      { "Climate Index": ["65.69", "High"] },
+      { "Cost of Living Index": ["36.35", "Very Low"] },
+      { "Property Price to Income Ratio": ["29.58", "Very High"] },
+      { "Traffic Commute Time Index": ["47.06", "High"] },
+      { "Pollution Index": ["75.37", "High"] },
+      { "Quality of Life Index: ": ["68.20", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Iraq",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["40.75", "Low"] },
+      { "Safety Index": ["54.21", "Moderate"] },
+      { "Health Care Index": ["44.59", "Moderate"] },
+      { "Climate Index": ["46.98", "Moderate"] },
+      { "Cost of Living Index": ["32.75", "Very Low"] },
+      { "Property Price to Income Ratio": ["8.45", "Moderate"] },
+      { "Traffic Commute Time Index": ["37.06", "Moderate"] },
+      { "Pollution Index": ["73.59", "High"] },
+      { "Quality of Life Index: ": ["97.58", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Ireland",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["73.25", "Moderate"] },
+      { "Safety Index": ["54.41", "Moderate"] },
+      { "Health Care Index": ["52.12", "Moderate"] },
+      { "Climate Index": ["89.13", "Very High"] },
+      { "Cost of Living Index": ["69.75", "Moderate"] },
+      { "Property Price to Income Ratio": ["6.62", "Low"] },
+      { "Traffic Commute Time Index": ["37.96", "Moderate"] },
+      { "Pollution Index": ["34.80", "Low"] },
+      { "Quality of Life Index: ": ["151.28", "High"] }
+    ]
+  },
+  {
+    "name": "Isle Of Man",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["155.33", "Very High"] },
+      { "Safety Index": ["81.63", "Very High"] },
+      { "Health Care Index": ["75.33", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["68.48", "Moderate"] },
+      { "Property Price to Income Ratio": ["3.44", "Very Low"] },
+      { "Traffic Commute Time Index": ["5.00", "Very Low"] },
+      { "Pollution Index": ["18.12", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Israel",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["69.59", "Moderate"] },
+      { "Safety Index": ["67.98", "High"] },
+      { "Health Care Index": ["73.83", "High"] },
+      { "Climate Index": ["93.86", "Very High"] },
+      { "Cost of Living Index": ["81.00", "High"] },
+      { "Property Price to Income Ratio": ["12.78", "High"] },
+      { "Traffic Commute Time Index": ["36.52", "Moderate"] },
+      { "Pollution Index": ["57.75", "Moderate"] },
+      { "Quality of Life Index: ": ["145.00", "High"] }
+    ]
+  },
+  {
+    "name": "Italy",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["55.83", "Low"] },
+      { "Safety Index": ["54.45", "Moderate"] },
+      { "Health Care Index": ["66.82", "High"] },
+      { "Climate Index": ["91.70", "Very High"] },
+      { "Cost of Living Index": ["61.23", "Moderate"] },
+      { "Property Price to Income Ratio": ["10.40", "Moderate"] },
+      { "Traffic Commute Time Index": ["33.59", "Low"] },
+      { "Pollution Index": ["54.30", "Moderate"] },
+      { "Quality of Life Index: ": ["137.34", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Ivory Coast",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["7.22", "Very Low"] },
+      { "Safety Index": ["42.78", "Moderate"] },
+      { "Health Care Index": ["38.49", "Low"] },
+      { "Climate Index": ["65.12", "High"] },
+      { "Cost of Living Index": ["40.66", "Low"] },
+      { "Property Price to Income Ratio": ["44.16", "Very High"] },
+      { "Traffic Commute Time Index": ["47.78", "High"] },
+      { "Pollution Index": ["94.19", "Very High"] },
+      { "Quality of Life Index: ": ["26.47", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Jamaica",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["24.65", "Very Low"] },
+      { "Safety Index": ["32.31", "Low"] },
+      { "Health Care Index": ["50.59", "Moderate"] },
+      { "Climate Index": ["71.58", "High"] },
+      { "Cost of Living Index": ["50.18", "Low"] },
+      { "Property Price to Income Ratio": ["38.73", "Very High"] },
+      { "Traffic Commute Time Index": ["50.23", "High"] },
+      { "Pollution Index": ["65.94", "High"] },
+      { "Quality of Life Index: ": ["57.29", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Japan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["88.88", "High"] },
+      { "Safety Index": ["77.96", "High"] },
+      { "Health Care Index": ["80.43", "Very High"] },
+      { "Climate Index": ["84.79", "Very High"] },
+      { "Cost of Living Index": ["66.37", "Moderate"] },
+      { "Property Price to Income Ratio": ["10.10", "Moderate"] },
+      { "Traffic Commute Time Index": ["40.65", "Moderate"] },
+      { "Pollution Index": ["39.22", "Low"] },
+      { "Quality of Life Index: ": ["171.76", "Very High"] }
+    ]
+  },
+  {
+    "name": "Jersey",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["67.67", "Moderate"] },
+      { "Safety Index": ["74.87", "High"] },
+      { "Health Care Index": ["53.28", "Moderate"] },
+      { "Climate Index": ["94.34", "Very High"] },
+      { "Cost of Living Index": ["84.49", "High"] },
+      { "Property Price to Income Ratio": ["13.75", "High"] },
+      { "Traffic Commute Time Index": ["27.00", "Low"] },
+      { "Pollution Index": ["40.47", "Moderate"] },
+      { "Quality of Life Index: ": ["154.59", "High"] }
+    ]
+  },
+  {
+    "name": "Jordan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["32.18", "Very Low"] },
+      { "Safety Index": ["59.06", "Moderate"] },
+      { "Health Care Index": ["65.06", "High"] },
+      { "Climate Index": ["89.05", "Very High"] },
+      { "Cost of Living Index": ["46.65", "Low"] },
+      { "Property Price to Income Ratio": ["7.63", "Low"] },
+      { "Traffic Commute Time Index": ["41.23", "High"] },
+      { "Pollution Index": ["76.28", "High"] },
+      { "Quality of Life Index: ": ["114.34", "Low"] }
+    ]
+  },
+  {
+    "name": "Kazakhstan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["31.60", "Very Low"] },
+      { "Safety Index": ["46.91", "Moderate"] },
+      { "Health Care Index": ["59.89", "Moderate"] },
+      { "Climate Index": ["39.78", "Moderate"] },
+      { "Cost of Living Index": ["28.32", "Very Low"] },
+      { "Property Price to Income Ratio": ["9.87", "Moderate"] },
+      { "Traffic Commute Time Index": ["34.73", "Low"] },
+      { "Pollution Index": ["72.94", "High"] },
+      { "Quality of Life Index: ": ["94.62", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Kenya",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["32.15", "Very Low"] },
+      { "Safety Index": ["43.77", "Moderate"] },
+      { "Health Care Index": ["63.40", "High"] },
+      { "Climate Index": ["99.79", "Very High"] },
+      { "Cost of Living Index": ["33.72", "Very Low"] },
+      { "Property Price to Income Ratio": ["26.13", "Very High"] },
+      { "Traffic Commute Time Index": ["52.97", "High"] },
+      { "Pollution Index": ["69.34", "High"] },
+      { "Quality of Life Index: ": ["91.16", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Kosovo (Disputed Territory)",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["37.75", "Very Low"] },
+      { "Safety Index": ["57.43", "Moderate"] },
+      { "Health Care Index": ["65.69", "High"] },
+      { "Climate Index": ["76.84", "High"] },
+      { "Cost of Living Index": ["25.97", "Very Low"] },
+      { "Property Price to Income Ratio": ["11.71", "Moderate"] },
+      { "Traffic Commute Time Index": ["24.57", "Very Low"] },
+      { "Pollution Index": ["69.86", "High"] },
+      { "Quality of Life Index: ": ["122.53", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Kuwait",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["77.59", "Moderate"] },
+      { "Safety Index": ["66.70", "High"] },
+      { "Health Care Index": ["59.29", "Moderate"] },
+      { "Climate Index": ["20.22", "Moderate"] },
+      { "Cost of Living Index": ["45.95", "Low"] },
+      { "Property Price to Income Ratio": ["11.41", "Moderate"] },
+      { "Traffic Commute Time Index": ["33.37", "Low"] },
+      { "Pollution Index": ["66.78", "High"] },
+      { "Quality of Life Index: ": ["117.63", "Low"] }
+    ]
+  },
+  {
+    "name": "Kyrgyzstan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["23.74", "Very Low"] },
+      { "Safety Index": ["43.41", "Moderate"] },
+      { "Health Care Index": ["56.42", "Moderate"] },
+      { "Climate Index": ["58.11", "Moderate"] },
+      { "Cost of Living Index": ["25.59", "Very Low"] },
+      { "Property Price to Income Ratio": ["14.30", "High"] },
+      { "Traffic Commute Time Index": ["39.00", "Moderate"] },
+      { "Pollution Index": ["69.74", "High"] },
+      { "Quality of Life Index: ": ["90.29", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Laos",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["12.86", "Very Low"] },
+      { "Safety Index": ["65.09", "High"] },
+      { "Health Care Index": ["33.73", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["58.07", "Low"] },
+      { "Property Price to Income Ratio": ["20.78", "Very High"] },
+      { "Traffic Commute Time Index": ["21.50", "Very Low"] },
+      { "Pollution Index": ["78.19", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Latvia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["50.11", "Low"] },
+      { "Safety Index": ["61.56", "High"] },
+      { "Health Care Index": ["63.13", "High"] },
+      { "Climate Index": ["74.70", "High"] },
+      { "Cost of Living Index": ["45.13", "Low"] },
+      { "Property Price to Income Ratio": ["7.25", "Low"] },
+      { "Traffic Commute Time Index": ["31.25", "Low"] },
+      { "Pollution Index": ["31.90", "Low"] },
+      { "Quality of Life Index: ": ["152.33", "High"] }
+    ]
+  },
+  {
+    "name": "Lebanon",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["33.21", "Very Low"] },
+      { "Safety Index": ["52.96", "Moderate"] },
+      { "Health Care Index": ["62.95", "High"] },
+      { "Climate Index": ["94.74", "Very High"] },
+      { "Cost of Living Index": ["70.60", "Moderate"] },
+      { "Property Price to Income Ratio": ["11.91", "Moderate"] },
+      { "Traffic Commute Time Index": ["38.53", "Moderate"] },
+      { "Pollution Index": ["89.50", "Very High"] },
+      { "Quality of Life Index: ": ["98.62", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Lesotho",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["33.30", "Low"] },
+      { "Health Care Index": ["55.56", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["80.00", "Very High"] },
+      { "Pollution Index": ["66.32", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Liberia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["41.39", "Low"] },
+      { "Safety Index": ["19.16", "Very Low"] },
+      { "Health Care Index": ["38.89", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["110.01", "Very High"] },
+      { "Property Price to Income Ratio": ["10.26", "Moderate"] },
+      { "Traffic Commute Time Index": ["30.00", "Low"] },
+      { "Pollution Index": ["90.38", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Libya",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["29.58", "Very Low"] },
+      { "Safety Index": ["39.54", "Low"] },
+      { "Health Care Index": ["45.13", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["24.98", "Very Low"] },
+      { "Property Price to Income Ratio": ["7.87", "Low"] },
+      { "Traffic Commute Time Index": ["26.50", "Very Low"] },
+      { "Pollution Index": ["56.94", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Liechtenstein",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["134.65", "Very High"] },
+      { "Safety Index": ["96.41", "Very High"] },
+      { "Health Care Index": ["100.00", "Very High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["90.45", "High"] },
+      { "Property Price to Income Ratio": ["3.62", "Very Low"] },
+      { "Traffic Commute Time Index": ["0.00", "Very Low"] },
+      { "Pollution Index": ["6.47", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Lithuania",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["55.90", "Low"] },
+      { "Safety Index": ["67.05", "High"] },
+      { "Health Care Index": ["72.57", "High"] },
+      { "Climate Index": ["69.86", "High"] },
+      { "Cost of Living Index": ["43.86", "Low"] },
+      { "Property Price to Income Ratio": ["11.54", "Moderate"] },
+      { "Traffic Commute Time Index": ["25.95", "Very Low"] },
+      { "Pollution Index": ["26.08", "Low"] },
+      { "Quality of Life Index: ": ["161.91", "Very High"] }
+    ]
+  },
+  {
+    "name": "Luxembourg",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["96.13", "High"] },
+      { "Safety Index": ["64.66", "High"] },
+      { "Health Care Index": ["70.62", "High"] },
+      { "Climate Index": ["82.62", "Very High"] },
+      { "Cost of Living Index": ["75.27", "High"] },
+      { "Property Price to Income Ratio": ["13.42", "High"] },
+      { "Traffic Commute Time Index": ["32.26", "Low"] },
+      { "Pollution Index": ["24.10", "Low"] },
+      { "Quality of Life Index: ": ["173.43", "Very High"] }
+    ]
+  },
+  {
+    "name": "Macao",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["70.73", "Moderate"] },
+      { "Safety Index": ["79.27", "High"] },
+      { "Health Care Index": ["48.33", "Moderate"] },
+      { "Climate Index": ["81.70", "Very High"] },
+      { "Cost of Living Index": ["65.38", "Moderate"] },
+      { "Property Price to Income Ratio": ["21.64", "Very High"] },
+      { "Traffic Commute Time Index": ["16.90", "Very Low"] },
+      { "Pollution Index": ["67.21", "High"] },
+      { "Quality of Life Index: ": ["133.06", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Madagascar",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["13.56", "Very Low"] },
+      { "Safety Index": ["35.19", "Low"] },
+      { "Health Care Index": ["36.11", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["27.81", "Very Low"] },
+      { "Property Price to Income Ratio": ["26.02", "Very High"] },
+      { "Traffic Commute Time Index": ["23.50", "Very Low"] },
+      { "Pollution Index": ["86.96", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Malawi",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["22.38", "Very Low"] },
+      { "Safety Index": ["43.14", "Moderate"] },
+      { "Health Care Index": ["37.50", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["46.37", "Low"] },
+      { "Property Price to Income Ratio": ["101.89", "Very High"] },
+      { "Traffic Commute Time Index": ["20.34", "Very Low"] },
+      { "Pollution Index": ["67.64", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Malaysia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["56.47", "Low"] },
+      { "Safety Index": ["44.80", "Moderate"] },
+      { "Health Care Index": ["70.14", "High"] },
+      { "Climate Index": ["57.77", "Moderate"] },
+      { "Cost of Living Index": ["35.45", "Very Low"] },
+      { "Property Price to Income Ratio": ["8.91", "Moderate"] },
+      { "Traffic Commute Time Index": ["37.22", "Moderate"] },
+      { "Pollution Index": ["62.08", "High"] },
+      { "Quality of Life Index: ": ["119.85", "Low"] }
+    ]
+  },
+  {
+    "name": "Maldives",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["30.97", "Very Low"] },
+      { "Safety Index": ["45.15", "Moderate"] },
+      { "Health Care Index": ["44.22", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["56.43", "Low"] },
+      { "Property Price to Income Ratio": ["14.60", "High"] },
+      { "Traffic Commute Time Index": ["21.75", "Very Low"] },
+      { "Pollution Index": ["76.70", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Mali",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["48.41", "Moderate"] },
+      { "Health Care Index": ["18.52", "Very Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["85.52", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Malta",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["42.67", "Low"] },
+      { "Safety Index": ["57.20", "Moderate"] },
+      { "Health Care Index": ["37.69", "Low"] },
+      { "Climate Index": ["97.44", "Very High"] },
+      { "Cost of Living Index": ["60.92", "Moderate"] },
+      { "Property Price to Income Ratio": ["12.86", "High"] },
+      { "Traffic Commute Time Index": ["29.43", "Low"] },
+      { "Pollution Index": ["81.11", "Very High"] },
+      { "Quality of Life Index: ": ["105.49", "Low"] }
+    ]
+  },
+  {
+    "name": "Marshall Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["75.74", "High"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["77.36", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Martinique",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["27.65", "Low"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["67.24", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Mauritania",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["53.48", "Moderate"] },
+      { "Health Care Index": ["46.76", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["1.79", "Very Low"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["69.40", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Mauritius",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["30.83", "Very Low"] },
+      { "Safety Index": ["51.51", "Moderate"] },
+      { "Health Care Index": ["65.23", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["44.18", "Low"] },
+      { "Property Price to Income Ratio": ["9.85", "Moderate"] },
+      { "Traffic Commute Time Index": ["51.17", "High"] },
+      { "Pollution Index": ["54.80", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Mexico",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["40.36", "Low"] },
+      { "Safety Index": ["46.22", "Moderate"] },
+      { "Health Care Index": ["72.82", "High"] },
+      { "Climate Index": ["85.52", "Very High"] },
+      { "Cost of Living Index": ["35.70", "Very Low"] },
+      { "Property Price to Income Ratio": ["7.84", "Low"] },
+      { "Traffic Commute Time Index": ["39.12", "Moderate"] },
+      { "Pollution Index": ["58.15", "Moderate"] },
+      { "Quality of Life Index: ": ["127.14", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Micronesia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["53.13", "Moderate"] },
+      { "Health Care Index": ["44.44", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["15.00", "Very Low"] },
+      { "Pollution Index": ["66.09", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Moldova",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["31.61", "Very Low"] },
+      { "Safety Index": ["52.03", "Moderate"] },
+      { "Health Care Index": ["49.25", "Moderate"] },
+      { "Climate Index": ["76.91", "High"] },
+      { "Cost of Living Index": ["29.93", "Very Low"] },
+      { "Property Price to Income Ratio": ["11.01", "Moderate"] },
+      { "Traffic Commute Time Index": ["27.53", "Low"] },
+      { "Pollution Index": ["64.15", "High"] },
+      { "Quality of Life Index: ": ["113.45", "Low"] }
+    ]
+  },
+  {
+    "name": "Monaco",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["52.99", "Low"] },
+      { "Safety Index": ["75.08", "High"] },
+      { "Health Care Index": ["75.00", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["102.11", "Very High"] },
+      { "Property Price to Income Ratio": ["63.39", "Very High"] },
+      { "Traffic Commute Time Index": ["18.33", "Very Low"] },
+      { "Pollution Index": ["85.25", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Mongolia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["23.17", "Very Low"] },
+      { "Safety Index": ["45.76", "Moderate"] },
+      { "Health Care Index": ["49.68", "Moderate"] },
+      { "Climate Index": ["-3.54", "Low"] },
+      { "Cost of Living Index": ["34.37", "Very Low"] },
+      { "Property Price to Income Ratio": ["15.10", "High"] },
+      { "Traffic Commute Time Index": ["30.86", "Low"] },
+      { "Pollution Index": ["92.41", "Very High"] },
+      { "Quality of Life Index: ": ["55.26", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Montenegro",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["34.79", "Very Low"] },
+      { "Safety Index": ["59.57", "Moderate"] },
+      { "Health Care Index": ["41.88", "Moderate"] },
+      { "Climate Index": ["88.40", "Very High"] },
+      { "Cost of Living Index": ["35.69", "Very Low"] },
+      { "Property Price to Income Ratio": ["14.19", "High"] },
+      { "Traffic Commute Time Index": ["14.81", "Very Low"] },
+      { "Pollution Index": ["46.56", "Moderate"] },
+      { "Quality of Life Index: ": ["133.71", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Montserrat",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["97.06", "Very High"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Morocco",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["32.44", "Very Low"] },
+      { "Safety Index": ["51.01", "Moderate"] },
+      { "Health Care Index": ["46.37", "Moderate"] },
+      { "Climate Index": ["90.04", "Very High"] },
+      { "Cost of Living Index": ["30.38", "Very Low"] },
+      { "Property Price to Income Ratio": ["12.90", "High"] },
+      { "Traffic Commute Time Index": ["36.88", "Moderate"] },
+      { "Pollution Index": ["69.82", "High"] },
+      { "Quality of Life Index: ": ["106.12", "Low"] }
+    ]
+  },
+  {
+    "name": "Mozambique",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["9.34", "Very Low"] },
+      { "Safety Index": ["36.54", "Low"] },
+      { "Health Care Index": ["43.65", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["48.55", "Low"] },
+      { "Property Price to Income Ratio": ["52.99", "Very High"] },
+      { "Traffic Commute Time Index": ["24.17", "Very Low"] },
+      { "Pollution Index": ["71.66", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Myanmar",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["13.75", "Very Low"] },
+      { "Safety Index": ["53.51", "Moderate"] },
+      { "Health Care Index": ["47.47", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["33.78", "Very Low"] },
+      { "Property Price to Income Ratio": ["11.96", "Moderate"] },
+      { "Traffic Commute Time Index": ["52.78", "High"] },
+      { "Pollution Index": ["89.77", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Namibia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["51.06", "Low"] },
+      { "Safety Index": ["35.60", "Low"] },
+      { "Health Care Index": ["61.78", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["35.96", "Very Low"] },
+      { "Property Price to Income Ratio": ["3.48", "Very Low"] },
+      { "Traffic Commute Time Index": ["26.84", "Very Low"] },
+      { "Pollution Index": ["46.11", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Nauru",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["80.88", "Very High"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Nepal",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["20.42", "Very Low"] },
+      { "Safety Index": ["62.51", "High"] },
+      { "Health Care Index": ["57.69", "Moderate"] },
+      { "Climate Index": ["92.64", "Very High"] },
+      { "Cost of Living Index": ["26.96", "Very Low"] },
+      { "Property Price to Income Ratio": ["26.94", "Very High"] },
+      { "Traffic Commute Time Index": ["35.47", "Moderate"] },
+      { "Pollution Index": ["83.89", "Very High"] },
+      { "Quality of Life Index: ": ["90.08", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Netherlands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["95.43", "High"] },
+      { "Safety Index": ["72.13", "High"] },
+      { "Health Care Index": ["75.66", "High"] },
+      { "Climate Index": ["87.08", "Very High"] },
+      { "Cost of Living Index": ["71.18", "Moderate"] },
+      { "Property Price to Income Ratio": ["7.27", "Low"] },
+      { "Traffic Commute Time Index": ["27.03", "Low"] },
+      { "Pollution Index": ["24.79", "Low"] },
+      { "Quality of Life Index: ": ["189.10", "Very High"] }
+    ]
+  },
+  {
+    "name": "New Caledonia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["59.56", "Low"] },
+      { "Safety Index": ["34.05", "Low"] },
+      { "Health Care Index": ["54.17", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["88.83", "High"] },
+      { "Property Price to Income Ratio": ["9.32", "Moderate"] },
+      { "Traffic Commute Time Index": ["35.00", "Moderate"] },
+      { "Pollution Index": ["59.31", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "New Zealand",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["81.00", "Moderate"] },
+      { "Safety Index": ["55.82", "Moderate"] },
+      { "Health Care Index": ["73.41", "High"] },
+      { "Climate Index": ["96.35", "Very High"] },
+      { "Cost of Living Index": ["71.90", "Moderate"] },
+      { "Property Price to Income Ratio": ["8.06", "Moderate"] },
+      { "Traffic Commute Time Index": ["30.62", "Low"] },
+      { "Pollution Index": ["23.82", "Low"] },
+      { "Quality of Life Index: ": ["175.35", "Very High"] }
+    ]
+  },
+  {
+    "name": "Nicaragua",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["18.83", "Very Low"] },
+      { "Safety Index": ["51.90", "Moderate"] },
+      { "Health Care Index": ["64.43", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["39.33", "Very Low"] },
+      { "Property Price to Income Ratio": ["12.81", "High"] },
+      { "Traffic Commute Time Index": ["53.83", "High"] },
+      { "Pollution Index": ["59.23", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Niger",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["11.52", "Very Low"] },
+      { "Safety Index": ["27.39", "Low"] },
+      { "Health Care Index": ["30.56", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["44.34", "Low"] },
+      { "Property Price to Income Ratio": ["4,000.00", ""] },
+      { "Traffic Commute Time Index": ["20.00", "Very Low"] },
+      { "Pollution Index": ["89.08", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Nigeria",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["8.10", "Very Low"] },
+      { "Safety Index": ["36.07", "Low"] },
+      { "Health Care Index": ["48.49", "Moderate"] },
+      { "Climate Index": ["60.75", "High"] },
+      { "Cost of Living Index": ["29.89", "Very Low"] },
+      { "Property Price to Income Ratio": ["16.97", "Very High"] },
+      { "Traffic Commute Time Index": ["61.97", "Very High"] },
+      { "Pollution Index": ["88.05", "Very High"] },
+      { "Quality of Life Index: ": ["51.28", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Norfolk Island",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["?", ""] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "North Korea",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["40.63", "Moderate"] },
+      { "Health Care Index": ["39.72", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["10.50", "Very Low"] },
+      { "Pollution Index": ["64.94", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "North Macedonia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["34.14", "Very Low"] },
+      { "Safety Index": ["59.41", "Moderate"] },
+      { "Health Care Index": ["55.62", "Moderate"] },
+      { "Climate Index": ["76.30", "High"] },
+      { "Cost of Living Index": ["29.12", "Very Low"] },
+      { "Property Price to Income Ratio": ["12.65", "High"] },
+      { "Traffic Commute Time Index": ["25.98", "Very Low"] },
+      { "Pollution Index": ["79.52", "High"] },
+      { "Quality of Life Index: ": ["109.47", "Low"] }
+    ]
+  },
+  {
+    "name": "Northern Mariana Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["66.75", "High"] },
+      { "Health Care Index": ["44.44", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["33.41", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Norway",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["84.11", "Moderate"] },
+      { "Safety Index": ["66.27", "High"] },
+      { "Health Care Index": ["77.00", "High"] },
+      { "Climate Index": ["68.68", "High"] },
+      { "Cost of Living Index": ["93.01", "Very High"] },
+      { "Property Price to Income Ratio": ["7.41", "Low"] },
+      { "Traffic Commute Time Index": ["26.82", "Very Low"] },
+      { "Pollution Index": ["17.94", "Very Low"] },
+      { "Quality of Life Index: ": ["178.38", "Very High"] }
+    ]
+  },
+  {
+    "name": "Oman",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["75.77", "Moderate"] },
+      { "Safety Index": ["80.21", "Very High"] },
+      { "Health Care Index": ["58.23", "Moderate"] },
+      { "Climate Index": ["67.22", "High"] },
+      { "Cost of Living Index": ["49.04", "Low"] },
+      { "Property Price to Income Ratio": ["4.64", "Very Low"] },
+      { "Traffic Commute Time Index": ["22.63", "Very Low"] },
+      { "Pollution Index": ["36.76", "Low"] },
+      { "Quality of Life Index: ": ["170.74", "Very High"] }
+    ]
+  },
+  {
+    "name": "Pakistan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["24.64", "Very Low"] },
+      { "Safety Index": ["58.63", "Moderate"] },
+      { "Health Care Index": ["59.61", "Moderate"] },
+      { "Climate Index": ["72.99", "High"] },
+      { "Cost of Living Index": ["19.68", "Very Low"] },
+      { "Property Price to Income Ratio": ["13.91", "High"] },
+      { "Traffic Commute Time Index": ["37.72", "Moderate"] },
+      { "Pollution Index": ["73.78", "High"] },
+      { "Quality of Life Index: ": ["103.42", "Low"] }
+    ]
+  },
+  {
+    "name": "Palau",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["44.98", "Moderate"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["14.37", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Palestine",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["37.32", "Very Low"] },
+      { "Safety Index": ["57.04", "Moderate"] },
+      { "Health Care Index": ["52.04", "Moderate"] },
+      { "Climate Index": ["95.46", "Very High"] },
+      { "Cost of Living Index": ["51.66", "Low"] },
+      { "Property Price to Income Ratio": ["5.20", "Low"] },
+      { "Traffic Commute Time Index": ["37.80", "Moderate"] },
+      { "Pollution Index": ["64.72", "High"] },
+      { "Quality of Life Index: ": ["123.67", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Panama",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["31.80", "Very Low"] },
+      { "Safety Index": ["55.98", "Moderate"] },
+      { "Health Care Index": ["61.33", "High"] },
+      { "Climate Index": ["67.84", "High"] },
+      { "Cost of Living Index": ["48.08", "Low"] },
+      { "Property Price to Income Ratio": ["11.59", "Moderate"] },
+      { "Traffic Commute Time Index": ["37.12", "Moderate"] },
+      { "Pollution Index": ["59.07", "Moderate"] },
+      { "Quality of Life Index: ": ["113.51", "Low"] }
+    ]
+  },
+  {
+    "name": "Papua New Guinea",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["7.09", "Very Low"] },
+      { "Safety Index": ["18.64", "Very Low"] },
+      { "Health Care Index": ["23.61", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["65.00", "Moderate"] },
+      { "Property Price to Income Ratio": ["260.35", "Very High"] },
+      { "Traffic Commute Time Index": ["24.00", "Very Low"] },
+      { "Pollution Index": ["74.83", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Paraguay",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["25.06", "Very Low"] },
+      { "Safety Index": ["50.92", "Moderate"] },
+      { "Health Care Index": ["64.00", "High"] },
+      { "Climate Index": ["92.24", "Very High"] },
+      { "Cost of Living Index": ["29.82", "Very Low"] },
+      { "Property Price to Income Ratio": ["16.92", "Very High"] },
+      { "Traffic Commute Time Index": ["47.57", "High"] },
+      { "Pollution Index": ["67.94", "High"] },
+      { "Quality of Life Index: ": ["102.85", "Low"] }
+    ]
+  },
+  {
+    "name": "Peru",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["28.23", "Very Low"] },
+      { "Safety Index": ["33.11", "Low"] },
+      { "Health Care Index": ["56.20", "Moderate"] },
+      { "Climate Index": ["97.69", "Very High"] },
+      { "Cost of Living Index": ["31.36", "Very Low"] },
+      { "Property Price to Income Ratio": ["18.76", "Very High"] },
+      { "Traffic Commute Time Index": ["49.23", "High"] },
+      { "Pollution Index": ["82.07", "Very High"] },
+      { "Quality of Life Index: ": ["81.66", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Philippines",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["19.52", "Very Low"] },
+      { "Safety Index": ["57.74", "Moderate"] },
+      { "Health Care Index": ["67.79", "High"] },
+      { "Climate Index": ["61.65", "High"] },
+      { "Cost of Living Index": ["36.26", "Very Low"] },
+      { "Property Price to Income Ratio": ["29.40", "Very High"] },
+      { "Traffic Commute Time Index": ["42.88", "High"] },
+      { "Pollution Index": ["73.14", "High"] },
+      { "Quality of Life Index: ": ["81.12", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Poland",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["59.14", "Low"] },
+      { "Safety Index": ["68.53", "High"] },
+      { "Health Care Index": ["55.33", "Moderate"] },
+      { "Climate Index": ["75.86", "High"] },
+      { "Cost of Living Index": ["37.22", "Very Low"] },
+      { "Property Price to Income Ratio": ["13.46", "High"] },
+      { "Traffic Commute Time Index": ["32.02", "Low"] },
+      { "Pollution Index": ["58.37", "Moderate"] },
+      { "Quality of Life Index: ": ["133.23", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Portugal",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["45.90", "Low"] },
+      { "Safety Index": ["68.44", "High"] },
+      { "Health Care Index": ["71.94", "High"] },
+      { "Climate Index": ["97.72", "Very High"] },
+      { "Cost of Living Index": ["44.08", "Low"] },
+      { "Property Price to Income Ratio": ["13.05", "High"] },
+      { "Traffic Commute Time Index": ["29.90", "Low"] },
+      { "Pollution Index": ["30.77", "Low"] },
+      { "Quality of Life Index: ": ["161.01", "Very High"] }
+    ]
+  },
+  {
+    "name": "Puerto Rico",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["63.89", "Moderate"] },
+      { "Safety Index": ["38.08", "Low"] },
+      { "Health Care Index": ["56.93", "Moderate"] },
+      { "Climate Index": ["71.25", "High"] },
+      { "Cost of Living Index": ["64.75", "Moderate"] },
+      { "Property Price to Income Ratio": ["4.23", "Very Low"] },
+      { "Traffic Commute Time Index": ["34.85", "Low"] },
+      { "Pollution Index": ["49.39", "Moderate"] },
+      { "Quality of Life Index: ": ["130.07", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Qatar",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["99.21", "High"] },
+      { "Safety Index": ["86.09", "Very High"] },
+      { "Health Care Index": ["73.67", "High"] },
+      { "Climate Index": ["36.03", "Moderate"] },
+      { "Cost of Living Index": ["62.04", "Moderate"] },
+      { "Property Price to Income Ratio": ["7.71", "Low"] },
+      { "Traffic Commute Time Index": ["30.05", "Low"] },
+      { "Pollution Index": ["60.05", "High"] },
+      { "Quality of Life Index: ": ["155.23", "High"] }
+    ]
+  },
+  {
+    "name": "Republic Of Congo",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["16.44", "Very Low"] },
+      { "Safety Index": ["35.29", "Low"] },
+      { "Health Care Index": ["5.56", "Very Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["68.39", "Moderate"] },
+      { "Property Price to Income Ratio": ["49.23", "Very High"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Reunion",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["68.02", "High"] },
+      { "Health Care Index": ["71.30", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["10.36", "Moderate"] },
+      { "Traffic Commute Time Index": ["0.00", "Very Low"] },
+      { "Pollution Index": ["32.67", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Romania",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["47.70", "Low"] },
+      { "Safety Index": ["69.93", "High"] },
+      { "Health Care Index": ["56.38", "Moderate"] },
+      { "Climate Index": ["76.50", "High"] },
+      { "Cost of Living Index": ["36.11", "Very Low"] },
+      { "Property Price to Income Ratio": ["10.96", "Moderate"] },
+      { "Traffic Commute Time Index": ["33.52", "Low"] },
+      { "Pollution Index": ["58.54", "Moderate"] },
+      { "Quality of Life Index: ": ["131.74", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Russia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["37.59", "Very Low"] },
+      { "Safety Index": ["60.56", "High"] },
+      { "Health Care Index": ["59.37", "Moderate"] },
+      { "Climate Index": ["55.12", "Moderate"] },
+      { "Cost of Living Index": ["46.19", "Low"] },
+      { "Property Price to Income Ratio": ["16.37", "Very High"] },
+      { "Traffic Commute Time Index": ["44.21", "High"] },
+      { "Pollution Index": ["61.21", "High"] },
+      { "Quality of Life Index: ": ["103.53", "Low"] }
+    ]
+  },
+  {
+    "name": "Rwanda",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["25.38", "Very Low"] },
+      { "Safety Index": ["74.01", "High"] },
+      { "Health Care Index": ["70.19", "High"] },
+      { "Climate Index": ["99.74", "Very High"] },
+      { "Cost of Living Index": ["31.74", "Very Low"] },
+      { "Property Price to Income Ratio": ["208.98", "Very High"] },
+      { "Traffic Commute Time Index": ["15.67", "Very Low"] },
+      { "Pollution Index": ["46.95", "Moderate"] },
+      { "Quality of Life Index: ": ["0.00", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Saint Helena",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["31.66", "Very Low"] },
+      { "Safety Index": ["92.65", "Very High"] },
+      { "Health Care Index": ["69.44", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["66.77", "Moderate"] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["15.00", "Very Low"] },
+      { "Pollution Index": ["15.52", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Saint Kitts And Nevis",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["79.78", "High"] },
+      { "Health Care Index": ["50.00", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["15.00", "Very Low"] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Saint Lucia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["36.35", "Very Low"] },
+      { "Safety Index": ["39.57", "Low"] },
+      { "Health Care Index": ["49.90", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["70.88", "Moderate"] },
+      { "Property Price to Income Ratio": ["0.55", "Very Low"] },
+      { "Traffic Commute Time Index": ["7.00", "Very Low"] },
+      { "Pollution Index": ["46.22", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Saint Vincent And The Grenadines",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["30.37", "Very Low"] },
+      { "Safety Index": ["66.01", "High"] },
+      { "Health Care Index": ["30.56", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["74.61", "High"] },
+      { "Property Price to Income Ratio": ["6.92", "Low"] },
+      { "Traffic Commute Time Index": ["10.00", "Very Low"] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Samoa",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["53.24", "Moderate"] },
+      { "Health Care Index": ["55.56", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["144.08", "Very High"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["39.94", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "San Marino",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["88.24", "Very High"] },
+      { "Health Care Index": ["83.33", "Very High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["6.19", "Low"] },
+      { "Traffic Commute Time Index": ["10.00", "Very Low"] },
+      { "Pollution Index": ["15.36", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Sao Tome And Principe",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["78.53", "High"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Saudi Arabia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["90.85", "High"] },
+      { "Safety Index": ["75.26", "High"] },
+      { "Health Care Index": ["61.04", "High"] },
+      { "Climate Index": ["45.98", "Moderate"] },
+      { "Cost of Living Index": ["50.34", "Low"] },
+      { "Property Price to Income Ratio": ["2.77", "Very Low"] },
+      { "Traffic Commute Time Index": ["29.07", "Low"] },
+      { "Pollution Index": ["63.39", "High"] },
+      { "Quality of Life Index: ": ["149.11", "High"] }
+    ]
+  },
+  {
+    "name": "Senegal",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["22.01", "Very Low"] },
+      { "Safety Index": ["53.20", "Moderate"] },
+      { "Health Care Index": ["50.64", "Moderate"] },
+      { "Climate Index": ["85.64", "Very High"] },
+      { "Cost of Living Index": ["44.85", "Low"] },
+      { "Property Price to Income Ratio": ["124.46", "Very High"] },
+      { "Traffic Commute Time Index": ["25.00", "Very Low"] },
+      { "Pollution Index": ["95.15", "Very High"] },
+      { "Quality of Life Index: ": ["0.00", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Serbia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["40.37", "Low"] },
+      { "Safety Index": ["61.86", "High"] },
+      { "Health Care Index": ["52.56", "Moderate"] },
+      { "Climate Index": ["83.23", "Very High"] },
+      { "Cost of Living Index": ["34.36", "Very Low"] },
+      { "Property Price to Income Ratio": ["14.32", "High"] },
+      { "Traffic Commute Time Index": ["30.91", "Low"] },
+      { "Pollution Index": ["63.07", "High"] },
+      { "Quality of Life Index: ": ["120.59", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Seychelles",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["19.13", "Very Low"] },
+      { "Safety Index": ["60.81", "High"] },
+      { "Health Care Index": ["60.19", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["66.26", "Moderate"] },
+      { "Property Price to Income Ratio": ["15.63", "High"] },
+      { "Traffic Commute Time Index": ["29.33", "Low"] },
+      { "Pollution Index": ["35.34", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Sierra Leone",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["21.08", "Low"] },
+      { "Health Care Index": ["30.56", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["3.48", "Very Low"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["103.45", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Singapore",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["85.40", "High"] },
+      { "Safety Index": ["72.66", "High"] },
+      { "Health Care Index": ["71.18", "High"] },
+      { "Climate Index": ["57.45", "Moderate"] },
+      { "Cost of Living Index": ["82.62", "High"] },
+      { "Property Price to Income Ratio": ["18.11", "Very High"] },
+      { "Traffic Commute Time Index": ["41.21", "High"] },
+      { "Pollution Index": ["33.08", "Low"] },
+      { "Quality of Life Index: ": ["149.09", "High"] }
+    ]
+  },
+  {
+    "name": "Sint Maarten",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["47.22", "Low"] },
+      { "Safety Index": ["70.98", "High"] },
+      { "Health Care Index": ["56.02", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["84.25", "High"] },
+      { "Property Price to Income Ratio": ["5.09", "Low"] },
+      { "Traffic Commute Time Index": ["0.00", "Very Low"] },
+      { "Pollution Index": ["76.81", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Slovakia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["52.03", "Low"] },
+      { "Safety Index": ["69.25", "High"] },
+      { "Health Care Index": ["59.98", "Moderate"] },
+      { "Climate Index": ["78.13", "High"] },
+      { "Cost of Living Index": ["42.68", "Low"] },
+      { "Property Price to Income Ratio": ["11.35", "Moderate"] },
+      { "Traffic Commute Time Index": ["28.10", "Low"] },
+      { "Pollution Index": ["38.76", "Low"] },
+      { "Quality of Life Index: ": ["149.96", "High"] }
+    ]
+  },
+  {
+    "name": "Slovenia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["56.91", "Low"] },
+      { "Safety Index": ["77.02", "High"] },
+      { "Health Care Index": ["65.14", "High"] },
+      { "Climate Index": ["77.56", "High"] },
+      { "Cost of Living Index": ["49.24", "Low"] },
+      { "Property Price to Income Ratio": ["11.19", "Moderate"] },
+      { "Traffic Commute Time Index": ["26.32", "Very Low"] },
+      { "Pollution Index": ["22.86", "Low"] },
+      { "Quality of Life Index: ": ["168.67", "Very High"] }
+    ]
+  },
+  {
+    "name": "Solomon Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["36.61", "Low"] },
+      { "Health Care Index": ["42.36", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["22.14", "Very High"] },
+      { "Traffic Commute Time Index": ["31.50", "Low"] },
+      { "Pollution Index": ["79.45", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Somalia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["28.22", "Very Low"] },
+      { "Safety Index": ["33.59", "Low"] },
+      { "Health Care Index": ["43.51", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["33.18", "Very Low"] },
+      { "Property Price to Income Ratio": ["547.62", "Very High"] },
+      { "Traffic Commute Time Index": ["25.00", "Very Low"] },
+      { "Pollution Index": ["60.66", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "South Africa",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["75.83", "Moderate"] },
+      { "Safety Index": ["24.63", "Low"] },
+      { "Health Care Index": ["64.00", "High"] },
+      { "Climate Index": ["95.25", "Very High"] },
+      { "Cost of Living Index": ["40.98", "Low"] },
+      { "Property Price to Income Ratio": ["3.01", "Very Low"] },
+      { "Traffic Commute Time Index": ["39.21", "Moderate"] },
+      { "Pollution Index": ["56.34", "Moderate"] },
+      { "Quality of Life Index: ": ["135.73", "Moderate"] }
+    ]
+  },
+  {
+    "name": "South Korea",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["76.87", "Moderate"] },
+      { "Safety Index": ["73.68", "High"] },
+      { "Health Care Index": ["82.94", "Very High"] },
+      { "Climate Index": ["68.39", "High"] },
+      { "Cost of Living Index": ["68.76", "Moderate"] },
+      { "Property Price to Income Ratio": ["26.93", "Very High"] },
+      { "Traffic Commute Time Index": ["39.65", "Moderate"] },
+      { "Pollution Index": ["62.48", "High"] },
+      { "Quality of Life Index: ": ["128.28", "Moderate"] }
+    ]
+  },
+  {
+    "name": "South Sudan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["18.98", "Very Low"] },
+      { "Health Care Index": ["23.15", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["0.00", "Very Low"] },
+      { "Pollution Index": ["66.95", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Spain",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["72.87", "Moderate"] },
+      { "Safety Index": ["65.40", "High"] },
+      { "Health Care Index": ["78.19", "High"] },
+      { "Climate Index": ["93.48", "Very High"] },
+      { "Cost of Living Index": ["49.26", "Low"] },
+      { "Property Price to Income Ratio": ["7.45", "Low"] },
+      { "Traffic Commute Time Index": ["29.15", "Low"] },
+      { "Pollution Index": ["39.13", "Low"] },
+      { "Quality of Life Index: ": ["171.24", "Very High"] }
+    ]
+  },
+  {
+    "name": "Sri Lanka",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["16.10", "Very Low"] },
+      { "Safety Index": ["58.98", "Moderate"] },
+      { "Health Care Index": ["72.17", "High"] },
+      { "Climate Index": ["59.11", "Moderate"] },
+      { "Cost of Living Index": ["20.51", "Very Low"] },
+      { "Property Price to Income Ratio": ["45.80", "Very High"] },
+      { "Traffic Commute Time Index": ["56.89", "Very High"] },
+      { "Pollution Index": ["60.18", "High"] },
+      { "Quality of Life Index: ": ["68.08", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Sudan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["6.27", "Very Low"] },
+      { "Safety Index": ["54.41", "Moderate"] },
+      { "Health Care Index": ["46.78", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["41.95", "Low"] },
+      { "Property Price to Income Ratio": ["39.72", "Very High"] },
+      { "Traffic Commute Time Index": ["42.00", "High"] },
+      { "Pollution Index": ["68.83", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Suriname",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["45.91", "Moderate"] },
+      { "Health Care Index": ["43.37", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["13.99", "High"] },
+      { "Traffic Commute Time Index": ["33.00", "Low"] },
+      { "Pollution Index": ["49.52", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Swaziland",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["59.23", "Low"] },
+      { "Safety Index": ["66.29", "High"] },
+      { "Health Care Index": ["61.11", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["32.92", "Very Low"] },
+      { "Property Price to Income Ratio": ["1.34", "Very Low"] },
+      { "Traffic Commute Time Index": ["31.00", "Low"] },
+      { "Pollution Index": ["32.07", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Sweden",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["94.10", "High"] },
+      { "Safety Index": ["51.04", "Moderate"] },
+      { "Health Care Index": ["68.83", "High"] },
+      { "Climate Index": ["74.92", "High"] },
+      { "Cost of Living Index": ["66.20", "Moderate"] },
+      { "Property Price to Income Ratio": ["8.93", "Moderate"] },
+      { "Traffic Commute Time Index": ["29.50", "Low"] },
+      { "Pollution Index": ["18.18", "Very Low"] },
+      { "Quality of Life Index: ": ["173.24", "Very High"] }
+    ]
+  },
+  {
+    "name": "Switzerland",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["110.64", "Very High"] },
+      { "Safety Index": ["77.86", "High"] },
+      { "Health Care Index": ["75.23", "High"] },
+      { "Climate Index": ["79.24", "High"] },
+      { "Cost of Living Index": ["111.29", "Very High"] },
+      { "Property Price to Income Ratio": ["8.83", "Moderate"] },
+      { "Traffic Commute Time Index": ["28.40", "Low"] },
+      { "Pollution Index": ["19.49", "Very Low"] },
+      { "Quality of Life Index: ": ["192.53", "Very High"] }
+    ]
+  },
+  {
+    "name": "Syria",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["5.89", "Very Low"] },
+      { "Safety Index": ["32.54", "Low"] },
+      { "Health Care Index": ["37.51", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["25.92", "Very Low"] },
+      { "Property Price to Income Ratio": ["86.40", "Very High"] },
+      { "Traffic Commute Time Index": ["30.63", "Low"] },
+      { "Pollution Index": ["74.69", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Taiwan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["58.52", "Low"] },
+      { "Safety Index": ["83.85", "Very High"] },
+      { "Health Care Index": ["86.25", "Very High"] },
+      { "Climate Index": ["81.60", "Very High"] },
+      { "Cost of Living Index": ["57.40", "Low"] },
+      { "Property Price to Income Ratio": ["19.32", "Very High"] },
+      { "Traffic Commute Time Index": ["31.75", "Low"] },
+      { "Pollution Index": ["65.02", "High"] },
+      { "Quality of Life Index: ": ["142.75", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Tajikistan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["13.55", "Very Low"] },
+      { "Safety Index": ["53.31", "Moderate"] },
+      { "Health Care Index": ["35.19", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["24.03", "Very Low"] },
+      { "Property Price to Income Ratio": ["16.32", "Very High"] },
+      { "Traffic Commute Time Index": ["27.00", "Low"] },
+      { "Pollution Index": ["60.30", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Tanzania",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["15.42", "Very Low"] },
+      { "Safety Index": ["44.15", "Moderate"] },
+      { "Health Care Index": ["36.62", "Low"] },
+      { "Climate Index": ["71.28", "High"] },
+      { "Cost of Living Index": ["31.19", "Very Low"] },
+      { "Property Price to Income Ratio": ["95.15", "Very High"] },
+      { "Traffic Commute Time Index": ["28.55", "Low"] },
+      { "Pollution Index": ["63.40", "High"] },
+      { "Quality of Life Index: ": ["11.85", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Thailand",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["28.90", "Very Low"] },
+      { "Safety Index": ["60.81", "High"] },
+      { "Health Care Index": ["77.61", "High"] },
+      { "Climate Index": ["69.45", "High"] },
+      { "Cost of Living Index": ["41.23", "Low"] },
+      { "Property Price to Income Ratio": ["21.87", "Very High"] },
+      { "Traffic Commute Time Index": ["39.24", "Moderate"] },
+      { "Pollution Index": ["75.44", "High"] },
+      { "Quality of Life Index: ": ["100.26", "Low"] }
+    ]
+  },
+  {
+    "name": "Timor-Leste",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["10.39", "Very Low"] },
+      { "Safety Index": ["57.37", "Moderate"] },
+      { "Health Care Index": ["54.58", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["53.20", "Low"] },
+      { "Property Price to Income Ratio": ["63.24", "Very High"] },
+      { "Traffic Commute Time Index": ["25.00", "Very Low"] },
+      { "Pollution Index": ["60.35", "High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Togo",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["34.38", "Very Low"] },
+      { "Safety Index": ["57.16", "Moderate"] },
+      { "Health Care Index": ["52.78", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["40.44", "Low"] },
+      { "Property Price to Income Ratio": ["7.42", "Low"] },
+      { "Traffic Commute Time Index": ["7.00", "Very Low"] },
+      { "Pollution Index": ["82.50", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Tonga",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["41.87", "Moderate"] },
+      { "Health Care Index": ["66.67", "High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Trinidad And Tobago",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["37.71", "Very Low"] },
+      { "Safety Index": ["29.04", "Low"] },
+      { "Health Care Index": ["53.79", "Moderate"] },
+      { "Climate Index": ["67.55", "High"] },
+      { "Cost of Living Index": ["53.55", "Low"] },
+      { "Property Price to Income Ratio": ["8.83", "Moderate"] },
+      { "Traffic Commute Time Index": ["49.28", "High"] },
+      { "Pollution Index": ["66.66", "High"] },
+      { "Quality of Life Index: ": ["90.38", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Tunisia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["27.51", "Very Low"] },
+      { "Safety Index": ["55.82", "Moderate"] },
+      { "Health Care Index": ["56.93", "Moderate"] },
+      { "Climate Index": ["94.52", "Very High"] },
+      { "Cost of Living Index": ["25.91", "Very Low"] },
+      { "Property Price to Income Ratio": ["11.24", "Moderate"] },
+      { "Traffic Commute Time Index": ["32.51", "Low"] },
+      { "Pollution Index": ["70.25", "High"] },
+      { "Quality of Life Index: ": ["116.27", "Low"] }
+    ]
+  },
+  {
+    "name": "Turkey",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["27.81", "Very Low"] },
+      { "Safety Index": ["60.24", "High"] },
+      { "Health Care Index": ["70.76", "High"] },
+      { "Climate Index": ["93.26", "Very High"] },
+      { "Cost of Living Index": ["31.82", "Very Low"] },
+      { "Property Price to Income Ratio": ["11.46", "Moderate"] },
+      { "Traffic Commute Time Index": ["44.02", "High"] },
+      { "Pollution Index": ["65.10", "High"] },
+      { "Quality of Life Index: ": ["120.58", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Turkmenistan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["11.22", "Very Low"] },
+      { "Safety Index": ["53.91", "Moderate"] },
+      { "Health Care Index": ["52.04", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["129.79", "Very High"] },
+      { "Property Price to Income Ratio": ["26.20", "Very High"] },
+      { "Traffic Commute Time Index": ["14.33", "Very Low"] },
+      { "Pollution Index": ["34.83", "Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Turks And Caicos Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["59.83", "Moderate"] },
+      { "Health Care Index": ["47.22", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["3.61", "Very Low"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["41.38", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Tuvalu",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["78.82", "High"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["0.89", "Very Low"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Uganda",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["10.92", "Very Low"] },
+      { "Safety Index": ["43.76", "Moderate"] },
+      { "Health Care Index": ["47.52", "Moderate"] },
+      { "Climate Index": ["98.41", "Very High"] },
+      { "Cost of Living Index": ["32.81", "Very Low"] },
+      { "Property Price to Income Ratio": ["26.92", "Very High"] },
+      { "Traffic Commute Time Index": ["44.13", "High"] },
+      { "Pollution Index": ["84.85", "Very High"] },
+      { "Quality of Life Index: ": ["69.22", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Ukraine",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["37.71", "Very Low"] },
+      { "Safety Index": ["53.27", "Moderate"] },
+      { "Health Care Index": ["54.92", "Moderate"] },
+      { "Climate Index": ["70.98", "High"] },
+      { "Cost of Living Index": ["30.86", "Very Low"] },
+      { "Property Price to Income Ratio": ["10.89", "Moderate"] },
+      { "Traffic Commute Time Index": ["37.71", "Moderate"] },
+      { "Pollution Index": ["62.38", "High"] },
+      { "Quality of Life Index: ": ["112.92", "Low"] }
+    ]
+  },
+  {
+    "name": "United Arab Emirates",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["105.46", "High"] },
+      { "Safety Index": ["84.98", "Very High"] },
+      { "Health Care Index": ["68.66", "High"] },
+      { "Climate Index": ["45.84", "Moderate"] },
+      { "Cost of Living Index": ["57.91", "Low"] },
+      { "Property Price to Income Ratio": ["3.65", "Very Low"] },
+      { "Traffic Commute Time Index": ["36.16", "Moderate"] },
+      { "Pollution Index": ["49.38", "Moderate"] },
+      { "Quality of Life Index: ": ["166.98", "Very High"] }
+    ]
+  },
+  {
+    "name": "United Kingdom",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["92.00", "High"] },
+      { "Safety Index": ["53.43", "Moderate"] },
+      { "Health Care Index": ["74.78", "High"] },
+      { "Climate Index": ["87.94", "Very High"] },
+      { "Cost of Living Index": ["62.74", "Moderate"] },
+      { "Property Price to Income Ratio": ["7.76", "Low"] },
+      { "Traffic Commute Time Index": ["34.45", "Low"] },
+      { "Pollution Index": ["40.32", "Moderate"] },
+      { "Quality of Life Index: ": ["164.60", "Very High"] }
+    ]
+  },
+  {
+    "name": "United States",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["96.92", "High"] },
+      { "Safety Index": ["51.72", "Moderate"] },
+      { "Health Care Index": ["69.02", "High"] },
+      { "Climate Index": ["76.51", "High"] },
+      { "Cost of Living Index": ["69.22", "Moderate"] },
+      { "Property Price to Income Ratio": ["4.60", "Very Low"] },
+      { "Traffic Commute Time Index": ["32.88", "Low"] },
+      { "Pollution Index": ["35.55", "Low"] },
+      { "Quality of Life Index: ": ["166.09", "Very High"] }
+    ]
+  },
+  {
+    "name": "Uruguay",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["28.55", "Very Low"] },
+      { "Safety Index": ["49.49", "Moderate"] },
+      { "Health Care Index": ["68.74", "High"] },
+      { "Climate Index": ["98.04", "Very High"] },
+      { "Cost of Living Index": ["57.56", "Low"] },
+      { "Property Price to Income Ratio": ["18.75", "Very High"] },
+      { "Traffic Commute Time Index": ["37.31", "Moderate"] },
+      { "Pollution Index": ["44.82", "Moderate"] },
+      { "Quality of Life Index: ": ["123.29", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Us Virgin Islands",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["38.76", "Low"] },
+      { "Health Care Index": ["48.41", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["8.55", "Moderate"] },
+      { "Traffic Commute Time Index": ["15.00", "Very Low"] },
+      { "Pollution Index": ["10.63", "Very Low"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Uzbekistan",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["22.90", "Very Low"] },
+      { "Safety Index": ["66.79", "High"] },
+      { "Health Care Index": ["56.09", "Moderate"] },
+      { "Climate Index": ["69.79", "High"] },
+      { "Cost of Living Index": ["25.83", "Very Low"] },
+      { "Property Price to Income Ratio": ["16.18", "Very High"] },
+      { "Traffic Commute Time Index": ["29.92", "Low"] },
+      { "Pollution Index": ["51.23", "Moderate"] },
+      { "Quality of Life Index: ": ["120.38", "Moderate"] }
+    ]
+  },
+  {
+    "name": "Vanuatu",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["24.74", "Very Low"] },
+      { "Safety Index": ["55.34", "Moderate"] },
+      { "Health Care Index": ["40.51", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["69.93", "Moderate"] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["15.00", "Very Low"] },
+      { "Pollution Index": ["40.14", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Vatican City",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["52.70", "Moderate"] },
+      { "Health Care Index": ["100.00", "Very High"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["?", ""] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["48.85", "Moderate"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Venezuela",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["12.38", "Very Low"] },
+      { "Safety Index": ["16.61", "Very Low"] },
+      { "Health Care Index": ["39.15", "Low"] },
+      { "Climate Index": ["99.93", "Very High"] },
+      { "Cost of Living Index": ["40.54", "Low"] },
+      { "Property Price to Income Ratio": ["18.99", "Very High"] },
+      { "Traffic Commute Time Index": ["33.14", "Low"] },
+      { "Pollution Index": ["75.65", "High"] },
+      { "Quality of Life Index: ": ["72.17", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Vietnam",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["27.28", "Very Low"] },
+      { "Safety Index": ["54.24", "Moderate"] },
+      { "Health Care Index": ["58.92", "Moderate"] },
+      { "Climate Index": ["71.24", "High"] },
+      { "Cost of Living Index": ["36.33", "Very Low"] },
+      { "Property Price to Income Ratio": ["22.89", "Very High"] },
+      { "Traffic Commute Time Index": ["29.71", "Low"] },
+      { "Pollution Index": ["85.63", "Very High"] },
+      { "Quality of Life Index: ": ["86.88", "Very Low"] }
+    ]
+  },
+  {
+    "name": "Western Sahara",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["36.76", "Low"] },
+      { "Health Care Index": ["?", ""] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["12.75", "High"] },
+      { "Traffic Commute Time Index": ["?", ""] },
+      { "Pollution Index": ["?", ""] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Yemen",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["30.26", "Low"] },
+      { "Health Care Index": ["28.27", "Low"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["17.43", "Very High"] },
+      { "Traffic Commute Time Index": ["15.00", "Very Low"] },
+      { "Pollution Index": ["82.84", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Zambia",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["?", ""] },
+      { "Safety Index": ["52.49", "Moderate"] },
+      { "Health Care Index": ["54.44", "Moderate"] },
+      { "Climate Index": ["?", ""] },
+      { "Cost of Living Index": ["?", ""] },
+      { "Property Price to Income Ratio": ["198.12", "Very High"] },
+      { "Traffic Commute Time Index": ["32.00", "Low"] },
+      { "Pollution Index": ["82.63", "Very High"] },
+      { "Quality of Life Index: ": ["?", ""] }
+    ]
+  },
+  {
+    "name": "Zimbabwe",
+    "Quality of Living": [
+      { "Purchasing Power Index": ["16.74", "Very Low"] },
+      { "Safety Index": ["40.33", "Moderate"] },
+      { "Health Care Index": ["45.24", "Moderate"] },
+      { "Climate Index": ["96.76", "Very High"] },
+      { "Cost of Living Index": ["44.36", "Low"] },
+      { "Property Price to Income Ratio": ["22.75", "Very High"] },
+      { "Traffic Commute Time Index": ["29.42", "Low"] },
+      { "Pollution Index": ["74.55", "High"] },
+      { "Quality of Life Index: ": ["85.62", "Very Low"] }
+    ]
+  }
+]
