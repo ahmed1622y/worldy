@@ -19,7 +19,7 @@ const Search = ({
       onBlur={() => {
         setTimeout(() => {
           setSearchList(false);
-        }, 100);
+        }, 200);
       }}
     >
       <FiSearch className="searchInputIcon" />
@@ -50,6 +50,7 @@ const Search = ({
                     searchInput.current.value = "";
                     setRotate(country);
                     setSearchList(false);
+                    setSelected(searching("", setCountries));
                   }}
                 >
                   {country.name}
